@@ -6,8 +6,8 @@ theme: jekyll-theme-leaf
 permalink: :slug
 
 social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
+  twitter: anders_magi
+  github: magicalmusings
 
 plugins:
  - jekyll-feed
