@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Home 
+## Home 
 
 Welcome to Magical Musings!
 
