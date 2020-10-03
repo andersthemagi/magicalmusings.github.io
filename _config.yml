@@ -5,6 +5,8 @@ theme: jekyll-theme-leaf
 # for a clean URL
 permalink: :slug
 
+markdown: kramdown
+
 social:
   twitter: anders_magi
   github: magicalmusings
