@@ -6,7 +6,7 @@ layout: default
 
   {{ content }}
 
-  {% assign posts = site.posts %}
+  {% assign posts = site.posts | sort: 'title' %}
 
   <h1>Rules</h1>
 
