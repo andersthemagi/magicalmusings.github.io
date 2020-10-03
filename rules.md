@@ -1,5 +1,5 @@
 ---
 title: Rules
 permalink: /rules/
-layout: home
+layout: rules
 ---

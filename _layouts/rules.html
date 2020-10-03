@@ -15,7 +15,7 @@ layout: default
     {%- endif -%}
     <div class="box home-box">
       <div class="post-list">
-        {%- for post in posts -%}
+        {%- for post in site.categories["rules"] -%}
           <a class="post-link" href="{{ post.url | relative_url }}">
             <h3>{{ post.title | escape }}</h3>
           </a>
