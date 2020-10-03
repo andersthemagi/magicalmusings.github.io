@@ -1,7 +1,8 @@
 ---
-title: Home
 layout: page
 ---
+
+# Home 
 
 Welcome to Magical Musings!
 
