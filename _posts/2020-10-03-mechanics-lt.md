@@ -1,8 +1,8 @@
 ---
 title: Loremaster Tokens
-permalink: /rules/loremaster-tokens/
+permalink: /mechanics/loremaster-tokens/
 layout: post
-categories: Rules
+categories: Mechanics
 author: Andres Sepulveda
 ---
 
