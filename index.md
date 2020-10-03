@@ -10,7 +10,7 @@ I use this platform to post all of my D&D related ramblings from time to time, w
 
 Feel free to peruse these pages to your hearts content! 
 
-**NOTE:** This site is constantly in an "under-development" state. Feel free to send any bugs / issues to ??EMAIL TBD??
+**NOTE:** This site is constantly in an "under-development" state. Feel free to send any bugs / issues / suggestions to <a href="mailto:magical.musings2020@gmail.com">magical.musings2020@gmail.com</a>
 
 ##### Credits
 
