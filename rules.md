@@ -1,8 +1,8 @@
 --
 title: Rules
+permalink: /rules/
 layout: home
 categories: Rules
 --
 
-{% for post in site.categories.Rules %}
-{% endfor %}
+test
