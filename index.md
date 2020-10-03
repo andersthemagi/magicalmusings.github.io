@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: page
+layout: home
 ---
 
 Welcome to Magical Musings!
@@ -9,4 +9,4 @@ I use this platform to post all of my D&D related ramblings from time to time, w
 
 Feel free to peruse these pages to your hearts content! 
 
-This site was made using the <a href="https://supunkavinda.github.io/jekyll-theme-leaf/">Leaf Blog Jekyll Theme</a> created by <a target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>. See more of his work on his <a href="https://github.com/SupunKavinda">Github Page</a>
+This site was made using the <a href="https://supunkavinda.github.io/jekyll-theme-leaf/">Leaf Blog Jekyll Theme</a> created by <a target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>. See more of his work on his <a href="https://github.com/SupunKavinda">Github Page</a>.
