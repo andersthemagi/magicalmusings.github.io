@@ -57,7 +57,7 @@ ul, ol, dl, figure,
   @extend %clearfix;
 
   @media screen and (min-width: $on-laptop) {
-    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width: calc(#{$content-width} - (#{$spacing-unit} * 1.2));
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
   }
