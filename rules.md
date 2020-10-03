@@ -1,7 +1,7 @@
 --
+title: Rules
 layout: home
 permalink: /rules/
-title: Rules
 categories: Rules
 --
 
