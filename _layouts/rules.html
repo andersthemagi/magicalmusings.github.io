@@ -6,7 +6,7 @@ layout: default
 
   {{ content }}
 
-  {% assign posts = site.posts | sort: 'title' %}
+  {% assign posts = site.categories["Rules"] | sort: 'title' %}
 
   <h1>Rules</h1>
 
@@ -18,7 +18,7 @@ layout: default
     {%- endif -%}
     <div class="box home-box">
       <div class="post-list">
-        {%- for post in site.categories["Rules"] -%}
+        {%- for post in posts -%}
           <a class="post-link" href="{{ post.url | relative_url }}">
             <h3>{{ post.title | escape }}</h3>
           </a>
