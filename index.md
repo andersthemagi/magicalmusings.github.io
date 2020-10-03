@@ -6,7 +6,7 @@ nav_exclude: true
 
 Welcome to Magical Musings!
 
-I use this platform to post all of my D&D related ramblings from time to time, whether it be thoughts on mechanics, rulings for my players, or general homebrew content that comes to me like visions from an angry god. Mostly I work in 5th Edition rules, however I might delve into Pathfinder 2e at some point. 
+I use this platform to post all of my D&D related ramblings from time to time, whether it be thoughts on mechanics, rulings for my players, or general homebrew content that comes to me like visions from an angry god. Mostly I work in 5th Edition rules, however I might delve into Pathfinder 2nd Edition at some point. 
 
 Feel free to peruse these pages to your hearts content! 
 
