@@ -1,8 +1,8 @@
 ---
 title: Action Points
-permalink: /rules/action-points/
+permalink: /mechanics/action-points/
 layout: post
-categories: Rules
+categories: Mechanics
 author: Andres Sepulveda
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Downtime
-permalink: /rules/downtime/
+permalink: /mechanics/downtime/
 layout: post
-categories: Rules
+categories: Mechanics
 author: u/Aaquamarius on Reddit
 ---
 
