@@ -1,6 +1,6 @@
 ---
-title: Campaigns
-permalink: /campaigns/
+title: "Campaigns"
+permalink: "/campaigns/"
 layout: page
 order: 2
 ---

@@ -1,7 +1,7 @@
 ---
-title: Homebrew
+title: "Homebrew"
 layout: page
-permalink: /homebrew/
+permalink: "/homebrew/"
 order: 3
 ---
 
