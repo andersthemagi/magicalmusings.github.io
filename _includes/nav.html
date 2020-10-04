@@ -1,17 +1,17 @@
 
 {%- assign navurl = page.url | remove: 'index.html' -%}
 {%- for item in include.nav -%}
-{%- unless item.exclude -%}
-    {%- assign my_page = item | where: "path", path | first -%}
-    {%- if item.title -%}
-        {% if item.url == page.url %}
-            {% assign className = "page-link active" %}
-        {% else %}
-            {% assign className = "page-link" %}
-        {% endif %}
-        <a class="{{ className }}" href="{{ my_page.url | relative_url }}">
-        {{ item.title | escape }}
+    {%- unless item.exclude -%}
+        {%- assign my_page = item | where: "path", path | first -%}
+        {%- if item.title -%}
+            {% if item.url == page.url %}
+                {% assign className = "page-link active" %}
+            {% else %}
+                {% assign className = "page-link" %}
+            {% endif %}
+            <a class="{{ className }}" href="{{ my_page.url | relative_url }}">
+            {{ item.title | escape }}
         </a>
-    {%- endif -%}
-{%- endunless -%}
+        {%- endif -%}
+    {%- endunless -%}
 {%- endfor -%}
