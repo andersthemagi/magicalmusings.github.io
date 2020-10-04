@@ -11,8 +11,5 @@
         <a class="{{ className }}" href="{{ my_page.url | relative_url }}">
         {{ my_page.title | escape }}
         </a>
-        {%- if item.subitems and navurl contains item.url -%}
-            {%- include nav.html nav = item.subitems -%}
-        {%- endif -%}
     {%- endif -%}
 {%- endfor -%}
