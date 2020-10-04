@@ -1,4 +1,6 @@
 title: "Magical Musings"
+description: "Ramblings of an aspiring Wizard."
+tagline: "Ramblings of an aspiring Wizard."
 theme: "jekyll-theme-leaf"
 baseURL: "/magicalmusings.github.io/"
 
