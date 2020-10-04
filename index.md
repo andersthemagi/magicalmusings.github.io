@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: page
-nav_exclude: true
+order: 1
 ---
 
 Welcome to Magical Musings!
