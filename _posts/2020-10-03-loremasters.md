@@ -6,5 +6,6 @@ layout: post
 
 |Loremaster| Total LT Earned |
 |:--------:|:---------------:|
-|Christina Pruneski|         |
-|Christian Sepulveda|        | 
+|Christina Pruneski|    2     |
+|Christian Sepulveda|   2   |
+|Keoni Casuga | 1 | 
