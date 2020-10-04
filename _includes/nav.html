@@ -1,7 +1,7 @@
 
 {%- assign navurl = page.url | remove: 'index.html' -%}
 {%- for item in include.nav -%}
-    {%- assign my_page = site.pages | sort: "weight" | where: "path", path | first -%}
+    {%- assign my_page = item  where: "path", path | first -%}
     {%- if my_page.title -%}
         {% if my_page.url == page.url %}
             {% assign className = "page-link active" %}
