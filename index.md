@@ -2,6 +2,7 @@
 title: "Home"
 layout: page
 weight: 1
+exclude: true
 ---
 
 Welcome to Magical Musings!
