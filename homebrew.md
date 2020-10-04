@@ -1,6 +1,6 @@
 ---
 title: Homebrew
-layout: mechanics
+layout: page
 permalink: /homebrew/
 order: 3
 ---

@@ -1,6 +1,6 @@
 ---
 title: Campaigns
 permalink: /campaigns/
-layout: mechanics
+layout: page
 order: 2
 ---
