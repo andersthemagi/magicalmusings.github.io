@@ -1,0 +1,18 @@
+
+{%- assign navurl = page.url | remove: 'index.html' -%}
+{%- for item in include.nav -%}
+    {%- assign my_page = site.pages | sort: "weight" | where: "path", path | first -%}
+    {%- if my_page.title -%}
+        {% if my_page.url == page.url %}
+            {% assign className = "page-link active" %}
+        {% else %}
+            {% assign className = "page-link" %}
+        {% endif %}
+        <a class="{{ className }}" href="{{ my_page.url | relative_url }}">
+        {{ my_page.title | escape }}
+        </a>
+        {%- if item.subitems and navurl contains item.url -%}
+            {%- include nav.html nav = item.subitems -%}
+        {%- endif -%}
+    {%- endif -%}
+{%- endfor -%}
