@@ -25,7 +25,7 @@ layout: default
         {%- for post in posts -%}
           <a class="post-link" href="{{ post.url | relative_url }}">
             <h3>{{ post.title }}</h3>
-            <span>{{ post.date | escape }}</span>
+            <span>{{ post.date | date_to_long_string | escape }}</span>
           </a>
         {%- endfor -%}
       </div>
