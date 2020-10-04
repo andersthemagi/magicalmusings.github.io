@@ -2,7 +2,7 @@
 title: Campaigns
 permalink: /campaigns/
 layout: page
-order: 2
+weight: 2
 ---
 
 Testo Presto
