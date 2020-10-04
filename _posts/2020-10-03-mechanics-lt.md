@@ -22,6 +22,12 @@ LT is awarded at any point at the DM's discretion. Some examples of actions that
 - Drawing portraits of characters, events in the story, maps, or other things that are considered pertinent to the campaign's lore (LT per drawing up to DM discretion)
 - Providing new / updated mechanics for implementation during sessions (3 LT) 
 
+### Bug Hunting and Feature Recommendations
+
+LT can also be awarded to those that find typos, bugs, issues, or recommend any additions to this website using the <a href="https://github.com/magicalmusings/magicalmusings.github.io/issues">Issue Tracker on Github</a>. Proper labeling and description of whatever is being added should be observed, and examples are available on the tracker on how to format. Typical rate is 1LT for each bug / typo found, and 1-5LT for any feature recommendations that end up being implemented. 
+
+Additional LT can be earned ***if and only if*** the typo / bug / feature is fixed or implemented via pull request. If you don't know what that means, don't worry about it. 
+
 ## Ways to Spend LT
 
 - Outside of combat, a player can choose to use / convert five (5) LT in order to gain one (1) Action Point (AP) or vice versa.
