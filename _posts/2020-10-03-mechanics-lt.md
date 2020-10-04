@@ -6,7 +6,7 @@ categories: Mechanics
 author: Andres Sepulveda
 ---
 
-***See the current registry of Loremasters <a href="https://magicalmusings.github.io/loremasters>">HERE</a>***
+***See the current registry of Loremasters <a href="https://magicalmusings.github.io/loremasters/">HERE</a>***
 
 There are those that play Dungeons and Dragons for the thrill of the kill. The gruesome stabbing of a Beholder right in it's eye, the decapitation of the undead Owlbear, and the well-placed headshot on a target.  An equal yet opposite demographic of players would prefer to contribute to the campaign in the form of world-building. After all, a DM provides the framework for players to live their characters stories at the end of the day. 
 
