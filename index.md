@@ -11,7 +11,7 @@ I use this platform to post all of my D&D related ramblings from time to time, w
 
 Feel free to peruse these pages to your hearts content! 
 
-**NOTE:** This site is constantly in an "development" state. Feel free to send any bugs / issues / suggestions to <a href="mailto:magical.musings2020@gmail.com">magical.musings2020@gmail.com</a>
+**NOTE:** This site is constantly in an "development" state. Feel free to send any bugs / issues / suggestions to the <a href="https://github.com/magicalmusings/magicalmusings.github.io/issues">Issue Tracker on Github</a>, or by email to <a href="mailto:magical.musings2020@gmail.com">magical.musings2020@gmail.com</a>
 
 ##### Credits
 
