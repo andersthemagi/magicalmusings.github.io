@@ -1,6 +1,7 @@
 ---
 title: "Home"
 layout: page
+permalink: "home"
 order: 1
 ---
 
