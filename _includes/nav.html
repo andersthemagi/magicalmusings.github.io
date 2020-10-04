@@ -2,14 +2,14 @@
 {%- assign navurl = page.url | remove: 'index.html' -%}
 {%- for item in include.nav -%}
     {%- assign my_page = item | where: "path", path | first -%}
-    {%- if my_page.title -%}
-        {% if my_page.url == page.url %}
+    {%- if item.title -%}
+        {% if item.url == page.url %}
             {% assign className = "page-link active" %}
         {% else %}
             {% assign className = "page-link" %}
         {% endif %}
         <a class="{{ className }}" href="{{ my_page.url | relative_url }}">
-        {{ my_page.title | escape }}
+        {{ item.title | escape }}
         </a>
     {%- endif -%}
 {%- endfor -%}
