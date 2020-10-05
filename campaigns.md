@@ -15,6 +15,7 @@ A list of all the campaigns/one-shots I've participated in. Each campaign, where
 ## Past Campaigns
 
 - <a href="https://magicalmusings.github.io/campaigns/silver-wardens/"> The Silver Wardens (August 2019 - March 2020) </a>
+  - The Wendy's One-Shot (December 2019)
 - <a href="https://magicalmusings.github.io/campaigns/home-meepo/"> Home Meepo (December 2019 - January 2020) </a>
 - <a href="https://magicalmusings.github.io/campaigns/pmef/"> Praeron's Expeditionary Force (August 2019 - December 2019) </a>
 
