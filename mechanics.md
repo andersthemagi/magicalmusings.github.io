@@ -1,6 +1,6 @@
 ---
-title: Mechanics
-permalink: /mechanics/
-layout: mechanics
-weight: 4
+title: "Mechanics"
+permalink: "/mechanics/"
+layout: "mechanics"
+weight: "4"
 ---

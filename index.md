@@ -1,7 +1,7 @@
 ---
 title: "Home"
-layout: page
-weight: 1
+layout: "page"
+weight: "1"
 ---
 
 Welcome to Magical Musings!
