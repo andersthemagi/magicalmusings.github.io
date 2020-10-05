@@ -6,7 +6,7 @@ order: 2
 exclude: false
 ---
 
-A list of all the campaigns/one-shots I've participated in, along with some short descriptions where applicable. 
+A list of all the campaigns/one-shots I've participated in. Each campaign, where applicable, has a separate page you can click on to learn more about it. 
 
 ## Current Campaigns
 
