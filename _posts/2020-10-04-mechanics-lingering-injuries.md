@@ -24,6 +24,12 @@ Once the potential for a lingering injury arises, the creature (or the player co
 * TOC
 {:toc}
 
+## Optional Rule: Backstory Injury
+
+When you first create a character to bring to the table, the DM may optionally allow you to exchange a permanent injury for a permanent (but related) benefit. For example, you could start with your eyes melted by acid, but having developed tremorsense to cope.
+
+The benefit should be chosen such that if you cure the injury, you naturally lose the benefit as well.
+
 ## Acid 
 
 |d20|Injury|Effect|
@@ -193,9 +199,3 @@ Once the potential for a lingering injury arises, the creature (or the player co
 |11-13| **Minor Concussion**| You have disadvantage on Intelligence checks. The concussion heals if you receive any magical healing; alternately it heals on its own in two weeks. If you already have a minor concussion, you suffer a major concussion.|
 |14-16| **Minor headaches**| You have disadvantage on Wisdom checks. Magical healing of 6th level or higher, such as heal and regenerate, cures the headaches. Alternately, they will resolve on their own in two weeks.|
 |17-20| **Severe bruising**| You suffer severe bruising over an extensive portion of your anatomy. Anytime you suffer bludgeoning or force damage, you suffer an additional point of bludgeoning or force damage. The bruising heals if you receive magical healing. Alternately, it heals on its own in 2 week.|
-
-## Optional Rule: Backstory Injury
-
-When you first create a character to bring to the table, the DM may optionally allow you to exchange a permanent injury for a permanent (but related) benefit. For example, you could start with your eyes melted by acid, but having developed tremorsense to cope.
-
-The benefit should be chosen such that if you cure the injury, you naturally lose the benefit as well.
