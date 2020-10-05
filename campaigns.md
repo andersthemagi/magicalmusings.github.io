@@ -10,15 +10,7 @@ A list of all the campaigns/one-shots I've participated in, along with some shor
 
 ## Current Campaigns
 
-- The Free Lances (September 2020 - PRESENT)
-  - Setting: Eberron 5e
-  - Characters:
-    - Alzarif Valkas (Changeling Aberrant Mind Sorcerer)
-    - Ana (Khoravar Mark of Detection Death Cleric)
-    - Bee / Diva Thiccums (Changeling Bard)
-    - Gallywix (Goblin Rogue)
-    - Nevitana (Kalashtar Druid)
-    - [REDACTED] (Human Paladin)
+- <a href="https://magicalmusings.github.io/campaigns/free-lances/">The Free Lances (September 2020 - PRESENT)</a>
 
 ## Past Campaigns
 
