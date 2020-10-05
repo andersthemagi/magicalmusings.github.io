@@ -1,8 +1,8 @@
 ---
 title: "Home"
 layout: page
-weight: 1
-exclude: true
+order: 1
+exclude: false
 ---
 
 Welcome to Magical Musings!

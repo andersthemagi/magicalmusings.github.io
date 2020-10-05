@@ -2,5 +2,6 @@
 title: Blog
 layout: blog
 permalink: /blog/
-order: 0
+order: 5
+exclude: false
 ---

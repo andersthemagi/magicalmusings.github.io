@@ -1,8 +1,9 @@
 ---
-title: Homebrew
-permalink: /homebrew/
-layout: page
-weight: 3
+title: "Homebrew"
+permalink: "/homebrew/"
+layout: "page"
+order: 3
+exclude: false
 ---
 
 Testo Presto
