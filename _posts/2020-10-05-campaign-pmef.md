@@ -6,6 +6,8 @@ categories: Campaigns
 author: Andres Sepulveda
 ---
 
+<hr>
+
 ***Last Updated: TBD***
 
 **Timeframe:** August 2019 - December 2019
