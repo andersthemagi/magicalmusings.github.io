@@ -35,7 +35,7 @@ TBD
 
 ## Session Log
 
-### 25 September 2020
+### Session 1 - 25 September 2020
 
 TBD
 
