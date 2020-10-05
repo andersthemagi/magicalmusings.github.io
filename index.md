@@ -2,7 +2,7 @@
 title: "Home"
 layout: page
 order: 1
-exclude: false
+exclude: true
 ---
 
 Welcome to Magical Musings!
