@@ -61,3 +61,9 @@ Once the potential for a lingering injury arises, the creature (or the player co
 ## Slashing 
 
 ## Thunder
+
+## Optional Rule: Backstory Injury
+
+When you first create a character to bring to the table, the DM may optionally allow you to exchange a permanent injury for a permanent (but related) benefit. For example, you could start with your eyes melted by acid, but having developed tremorsense to cope.
+
+The benefit should be chosen such that if you cure the injury, you naturally lose the benefit as well.
