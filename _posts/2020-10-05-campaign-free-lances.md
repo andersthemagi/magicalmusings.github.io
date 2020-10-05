@@ -8,6 +8,8 @@ author: Andres Sepulveda
 
 <hr>
 
+***Last Updated: 5 October 2020***
+
 **Timeframe:** September 2020 - Present
 
 **Setting:** Eberron, 5th Edition
