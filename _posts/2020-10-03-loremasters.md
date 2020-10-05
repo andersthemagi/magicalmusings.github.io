@@ -3,6 +3,7 @@ title: Loremaster Registry
 permalink: /loremasters/
 layout: post
 ---
+A running list of all the contributors and players that have helped me to stay sane as a DM. You help me so much more than you know! 
 
 |Loremaster| Total LT Earned |
 |:--------:|:---------------:|

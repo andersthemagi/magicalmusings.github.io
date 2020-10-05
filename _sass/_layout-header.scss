@@ -32,15 +32,15 @@
     left: 50%;
     top: 100%;
     margin-top: -47px;
-    width: 70px;
-    height: 70px;
+    width: 75px;
+    height: 75px;
     padding: 14px;
     background: $content-color;
     border-radius: 50%;
     @include media-query($on-mobile) {
-      width: 50px;
-      height: 50px;
-      margin-top: -25px;
+      width: 75px;
+      height: 75px;
+      margin-top: -47px;
     }
 }
 

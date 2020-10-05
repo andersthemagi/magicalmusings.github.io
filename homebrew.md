@@ -2,7 +2,8 @@
 title: "Homebrew"
 permalink: "/homebrew/"
 layout: "page"
-weight: "3"
+order: 3
+exclude: false
 ---
 
 Testo Presto

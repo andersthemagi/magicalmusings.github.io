@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {%- include head.html -%}
+
+  {%- include header.html -%}
+
+  {{ content }}
+
+  {%- assign posts = site.categories["Blog"] | sort: 'date' -%}
+
+  <h1>Blog Posts</h1>
+
+  <hr>
+
+  {%- if posts.size > 0 -%}
+    {%- if page.list_title -%}
+      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- endif -%}
+    <div class="box home-box">
+      <div class="post-list">
+        {%- for post in posts -%}
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <h3>{{ post.title }}</h3>
+            <span>{{ post.date | date_to_long_string | escape }}</span>
+          </a>
+        {%- endfor -%}
+      </div>
+    </div>
+
+  {%- endif -%}
+
+</div>

@@ -2,5 +2,6 @@
 title: "Mechanics"
 permalink: "/mechanics/"
 layout: "mechanics"
-weight: "4"
+order: 4
+exclude: false
 ---
