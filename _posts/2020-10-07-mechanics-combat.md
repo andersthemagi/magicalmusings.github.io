@@ -6,7 +6,7 @@ categories: Mechanics
 author: 5th Edition SRD
 ---
 
-<div class="toc" style="float: right; padding-left: 100px;">
+<div class="toc" style="float: right; margin-left: 10px; margin-right: 100px">
 ### Table of Contents
 {:.no_toc}
 
@@ -65,6 +65,8 @@ There are five main components of combat that can be taken during your turn. A h
 You can pass on using any or all parts of your turn. If you can't decide what to do on your turn, consider taking the ***Dodge*** or ***Ready*** actions described below. 
 
 ### Movement
+
+<hr>
 
 On your turn, you can move a distance up to your speed. You can use as much or as little of your speed as you like. Your movement can include jumping, climbing, and swimming. These different ways of moving can be combined with walking, or can constitute your entire movement phase. 
 
@@ -140,7 +142,9 @@ Whenever you switch, subtract the distance you’ve already moved from the new s
 
 For example, if you have a speed of 30 and a flying speed of 60 because a Wizard cast the fly spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
-### Action
+### Actions
+
+<hr>
 
 When you take your action on Your Turn, you can take one of the Actions presented here, an action you gained from your class or a Special feature, or an action that you improvise. Many Monsters have Action Options of their own in their stat blocks.
 
@@ -208,6 +212,8 @@ When you take the Search action, you devote your attention to finding something.
 You normally interact with an object while doing something else, such as when you draw a sword as part of an Attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on Your Turn.
 
 ### Making an Attack
+
+<hr>
 
 Whether you’re striking with a melee weapon, firing a weapon at range, or Making an Attack roll as part of a spell, an Attack has a simple structure.
 
@@ -504,6 +510,12 @@ When a creature can’t see you, you have advantage on Attack rolls against it. 
 
 ### Bonus Action
 
+<hr>
+
 ### Reaction
 
+<hr>
+
 ### Free Action / Interaction
+
+<hr>
