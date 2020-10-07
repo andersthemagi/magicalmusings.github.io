@@ -42,13 +42,14 @@ The DM determines who might be surprised. If neither side tries to be stealthy, 
 
 If you’re surprised, you can’t move or take an action on your first turn of the combat, and you can’t take a Reaction until that turn ends. A member of a group can be surprised even if the other members aren’t.
 
-## Your Turn
-
 <img src="{{baseURL}}/assets/combat-quick-ref.jpg"
      width="350px"
      alt="Combat Quick Reference"
      style="float: right; margin-left: 10px; 
      margin-right: 10px;">
+
+## Your Turn
+
 There are five main components of combat that can be taken during your turn. A helpful graphic has been included to the right for reference. 
 
 * Movement
