@@ -11,8 +11,8 @@ author: 5th Edition SRD
     <label for="collapsible" class="lbl-toggle">Table of Contents</label>
     <div class="collapsible-content">
         <div class="content-inner">
-            * TOC
-            {:toc}
+        * TOC
+        {:toc}
         </div>
     </div>
 </div>

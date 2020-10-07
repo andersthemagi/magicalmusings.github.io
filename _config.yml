@@ -9,6 +9,9 @@ permalink: :slug
 
 markdown: kramdown
 
+kramdown:
+  parse_block_html: true
+
 social:
   twitter: anders_magi
   github: magicalmusings
