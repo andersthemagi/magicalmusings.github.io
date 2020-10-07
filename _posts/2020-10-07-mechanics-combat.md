@@ -7,9 +7,10 @@ author: 5th Edition SRD
 ---
 
 <div class="toc" style="float: right; margin-left: 50px; margin-right: 100px">
-<hr>
+
 ### Table of Contents
 {:.no_toc}
+<hr>
 
 * TOC
 {:toc}
