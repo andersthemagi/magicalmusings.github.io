@@ -14,6 +14,8 @@ author: 5th Edition SRD
 {:toc}
 </div>
 
+***Adapted from<a href="https://roll20.net/compendium/dnd5e/Combat#content">Roll20's 5e SRD on Combat</a>***
+
 A typical combat encounter is a clash between two sides, a Flurry of weapon swings, feints, parries, footwork, and Spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A round represents about 6 seconds in the game world. During a round, each participant in a battle takes a turn. The order of turns is determined at the beginning of a combat encounter, when everyone rolls Initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
 
 ## Combat Step by Step
@@ -50,7 +52,7 @@ If you’re surprised, you can’t move or take an action on your first turn of 
      width="350px"
      alt="Combat Quick Reference"
      style="float: right; margin-left: 50px; 
-     margin-right: 10px;">
+     margin-right: 50px;">
 
 ## Your Turn
 
@@ -512,10 +514,30 @@ When a creature can’t see you, you have advantage on Attack rolls against it. 
 
 <hr>
 
+Various Class Features, Spells, and other Abilities let you take an additional action on Your Turn called a Bonus Action. The Cunning Action feature, for example, allows a rogue to take a Bonus Action. You can take a Bonus Action only when a Special ability, spell, or other feature of the game states that you can do something as a Bonus Action. You otherwise don’t have a Bonus Action to take.
+
+You can take only one Bonus Action on Your Turn, so you must choose which Bonus Action to use when you have more than one available.
+
+You choose when to take a Bonus Action during Your Turn, unless the bonus action’s timing is specified, and anything that deprives you of your ability to take Actions also prevents you from taking a Bonus Action.
+
 ### Reaction
 
 <hr>
 
+Certain Special Abilities, Spells, and situations allow you to take a Special action called a Reaction. A Reaction is an instant response to a trigger of some kind, which can occur on Your Turn or on someone else’s. The opportunity Attack is the most Common type of Reaction.
+
+When you take a Reaction, you can’t take another one until the start of your next turn. If the Reaction interrupts another creature’s turn, that creature can continue its turn right after the Reaction.
+
 ### Free Action / Interaction
 
 <hr>
+
+Your Turn can also include a variety of flourishes that require neither your action nor your move.
+
+You can communicate however you are able, through brief utterances and gestures, as you take Your Turn.
+
+You can also interact with one object or feature of The Environment for free, during either your move or your action. For example, you could open a door during your move as you stride toward a foe, or you could draw your weapon as part of the same action you use to Attack.
+
+If you want to interact with a second object, you need to use your action. Some Magic Items and other Special Objects always require an action to use, as stated in their descriptions.
+
+The GM might require you to use an action for any of these activities when it needs Special care or when it presents an unusual obstacle. For instance, the GM could reasonably expect you to use an action to open a stuck door or turn a crank to lower a drawbridge.
