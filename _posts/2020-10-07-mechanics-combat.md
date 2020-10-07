@@ -6,16 +6,13 @@ categories: Mechanics
 author: 5th Edition SRD
 ---
 
-[//]: # "TODO: Add TOC"
+<div class="toc" style = "float: right; margin-left = 10px;">
+### Table of Contents
+{:.no_toc}
 
-{% accordion combat-toc %}
-    {% collapsible Table of Contents %}
-        * TOC
-        {:toc}
-    {endcollapsible}
-{% endaccordion %}
-
-Test
+* TOC
+{:toc}
+</div>
 
 ## Combat Step by Step
 

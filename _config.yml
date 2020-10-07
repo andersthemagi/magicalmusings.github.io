@@ -19,6 +19,3 @@ social:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - accordion
- - collapsible
- - manual-markdown
