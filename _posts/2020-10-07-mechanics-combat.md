@@ -6,7 +6,7 @@ categories: Mechanics
 author: 5th Edition SRD
 ---
 
-<div class="toc" style="float: right; margin-left: 100px;">
+<div class="toc" style="float: right; padding-left: 100px;">
 ### Table of Contents
 {:.no_toc}
 
@@ -20,7 +20,7 @@ A typical combat encounter is a clash between two sides, a Flurry of weapon swin
 
 1. **Determine Suprise.** The DM determines whether anyone involved in the combat encounter is surprised.
 
-2. **Establish Positions.** The DM decides where all the characters and Monsters are located. Given the adventurers’ Marching Order or their stated positions in the room or other location, the GM figures out where the adversaries are̶how far away and in what direction.
+2. **Establish Positions.** The DM decides where all the characters and Monsters are located. Given the adventurers’ Marching Order or their stated positions in the room or other location, the GM figures out where the adversaries are̶, how far away and in what direction.
 
 3. **Roll Initiative.** Everyone involved in the combat encounter rolls Initiative, determining the order of combatants’ turns.
 
