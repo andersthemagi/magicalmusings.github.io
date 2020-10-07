@@ -45,7 +45,7 @@ If you’re surprised, you can’t move or take an action on your first turn of 
 ## Your Turn
 
 <img src="{{baseURL}}/assets/combat-quick-ref.jpg"
-     width="200px"
+     width="400px"
      alt="Combat Quick Reference"
      style="float: right; margin-right: 10px;">
 
