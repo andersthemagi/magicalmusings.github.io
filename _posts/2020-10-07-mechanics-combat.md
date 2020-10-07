@@ -47,7 +47,8 @@ If you’re surprised, you can’t move or take an action on your first turn of 
 <img src="{{baseURL}}/assets/combat-quick-ref.jpg"
      width="350px"
      alt="Combat Quick Reference"
-     style="float: right; margin-right: 10px;">
+     style="float: right; margin-left: 10px; 
+     margin-right: 10px;">
 There are five main components of combat that can be taken during your turn. A helpful graphic has been included to the right for reference. 
 
 * Movement
