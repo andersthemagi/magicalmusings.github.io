@@ -6,7 +6,7 @@ categories: Mechanics
 author: 5th Edition SRD
 ---
 
-<div class="toc" style="float: right; margin-left: 10px; margin-right: 100px">
+<div class="toc" style="float: right; margin-left: 50px; margin-right: 100px">
 ### Table of Contents
 {:.no_toc}
 
@@ -49,7 +49,7 @@ If you’re surprised, you can’t move or take an action on your first turn of 
 <img src="{{baseURL}}/assets/combat-quick-ref.jpg"
      width="350px"
      alt="Combat Quick Reference"
-     style="float: right; margin-left: 10px; 
+     style="float: right; margin-left: 50px; 
      margin-right: 10px;">
 
 ## Your Turn
