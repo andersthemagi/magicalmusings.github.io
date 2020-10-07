@@ -3,7 +3,7 @@ title: Combat
 permalink: /mechanics/combat/
 layout: post
 categories: Mechanics
-author: Andres
+author: 5th Edition SRD
 ---
 
 ### Table of Contents
