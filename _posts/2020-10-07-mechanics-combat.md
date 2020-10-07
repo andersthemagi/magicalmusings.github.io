@@ -6,17 +6,14 @@ categories: Mechanics
 author: 5th Edition SRD
 ---
 
-<div class="wrap-collapsible"
-     style="float: right; margin-left: 10px;">
-<input id="collapsible" class="toggle" type="checkbox">
-<label for="collapsible" class="lbl-toggle">Table of Contents</label>
-<div class="collapsible-content">
-<div class="content-inner">
-* TOC
-{:toc}
-</div>
-</div>
-</div>
+[//]: # "TODO: Add TOC"
+
+{% accordion combat-toc %}
+    {% collapsible Table of Contents %}
+        * TOC
+        {:toc}
+    {endcollapsible}
+{% endaccordion %}
 
 
 ## Combat Step by Step
