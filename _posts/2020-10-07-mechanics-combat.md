@@ -6,11 +6,17 @@ categories: Mechanics
 author: 5th Edition SRD
 ---
 
-### Table of Contents
-{:.no_toc}
+<div class="wrap-collapsible">
+    <input id="collapsible" class="toggle" type="checkbox">
+    <label for="collapsible" class="lbl-toggle">Table of Contents</label>
+    <div class="collapsible-content">
+        <div class="content-inner">
+            * TOC
+            {:toc}
+        </div>
+    </div>
+</div>
 
-* TOC
-{:toc}
 
 ## Combat Step by Step
 
