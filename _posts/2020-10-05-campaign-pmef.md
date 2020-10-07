@@ -47,7 +47,7 @@ Grungo? Well, he's still the same old frog as usual. Citizens of Saltmarsh may o
 
 Praeron disappeared about as quickly as he came into the lives of the rest of the party. Tavern goers in Saltmarsh spoke kindly of the crackshot half-elf who brought down the stronghold of Krundukar, and word quickly spread about his earlier involvement with the escape of the Silver Wardens from the orcish prison island. No matter how many wanted posters were up for Praeron, no bounty was ever collected on him. Perhaps some day the folk hero may turn up again. 
 
-### Session 6 - The Wendy's One Shot (8 Nov 19)
+### Session 6 - The Wendy's One Shot (8 Dec 19)
 
 See the <a href="https://magicalmusings.github.io/one-shots/wendys/"> Wendy's One Shot page </a> for more unfortunate details.
 
