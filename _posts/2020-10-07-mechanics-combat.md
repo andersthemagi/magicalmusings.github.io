@@ -6,7 +6,8 @@ categories: Mechanics
 author: 5th Edition SRD
 ---
 
-<div class="wrap-collapsible">
+<div class="wrap-collapsible"
+     style="float: right; margin-left: 10px;">
 <input id="collapsible" class="toggle" type="checkbox">
 <label for="collapsible" class="lbl-toggle">Table of Contents</label>
 <div class="collapsible-content">
