@@ -10,10 +10,10 @@ author: 5th Edition SRD
 <input id="collapsible" class="toggle" type="checkbox">
 <label for="collapsible" class="lbl-toggle">Table of Contents</label>
 <div class="collapsible-content">
-    <div class="content-inner">
-    * TOC
-    {:toc}
-    </div>
+<div class="content-inner">
+* TOC
+{:toc}
+</div>
 </div>
 </div>
 
