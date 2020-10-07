@@ -39,13 +39,13 @@ Logs are in chronological order, starting with the most recent entries.
 
 ### Aftermath
 
-Janus dedicated themselves to the craft of whaling at the end of the day, and was darn near good at it too. Within several months they had developed enough clout to become a semi-wealthy and prominent guild leader in Lunalis. They, alongside Rosani and her "resistance," continue to provide those against the empire key intelligence, disguised as "Ariel" within lower noble circles. Ariel grew to be a divergent yet equally powerful persona for Janus, and their spell prowess only grew with more education and training. 
+Janus dedicated themselves to the craft of whaling at the end of the day, and was darn near good at it too. Within several months they had developed enough clout to become a semi-wealthy and prominent guild leader in Lunalis. They, alongside Rosani and her "resistance," continue to provide those against the empire key intelligence, disguised as "Ariel" within lower noble circles. Ariel grew to be a divergent yet equally powerful persona for Janus, and their combined spell prowess only grew with more education and training. 
 
 Grendel moved along to become a part of <a href="https://magicalmusings.github.io/one-shots/wendys/"> the Silver Wardens </a>, accompanying the late Valsys heir and the Red Trident on a conquest to unite the Horn of G'Zira. He still lives happily between excursions with his Faerie Dragon wife and several half-dragon-halfling children. 
 
 Grungo? Well, he's still the same old frog as usual. Citizens of Saltmarsh may occasionally find him outside, soaking in a barrel of mead for the day. When he's not lounging, Grungo can be found to frequent fight pits and collosseums around the coastline. His goal is to one day become as good as Adonis, Master Gladiator of Palaestra. 
 
-Praeron disappeared about as quickly as he came into the lives of the rest of the party. Tavern goers in Saltmarsh spoke kindly of the crackshot half-elf who brought down the stronghold of Krundukar, and word quickly spread about his earlier involvement with the escape of  from the orcish prison island. No matter how many wanted posters were up for Praeron, no bounty was ever collected on him. Perhaps some day the folk hero may turn up again. 
+Praeron disappeared about as quickly as he came into the lives of the rest of the party. Tavern goers in Saltmarsh spoke kindly of the crackshot half-elf who brought down the stronghold of Krundukar, and word quickly spread about his earlier involvement with the escape of the Silver Wardens from the orcish prison island. No matter how many wanted posters were up for Praeron, no bounty was ever collected on him. Perhaps some day the folk hero may turn up again. 
 
 ### Session 6 - The Wendy's One Shot (8 Nov 19)
 
