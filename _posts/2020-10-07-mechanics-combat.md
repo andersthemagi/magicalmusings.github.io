@@ -5,14 +5,11 @@ layout: post
 categories: Mechanics
 author: 5th Edition SRD
 ---
-
-<div class="toc" style = "float: right; margin-left = 10px;">
 ### Table of Contents
 {:.no_toc}
 
 * TOC
 {:toc}
-</div>
 
 ## Combat Step by Step
 
