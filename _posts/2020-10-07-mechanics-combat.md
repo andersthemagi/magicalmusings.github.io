@@ -14,7 +14,7 @@ author: 5th Edition SRD
 {:toc}
 </div>
 
-***Adapted from<a href="https://roll20.net/compendium/dnd5e/Combat#content">Roll20's 5e SRD on Combat</a>***
+***Adapted from <a href="https://roll20.net/compendium/dnd5e/Combat#content">Roll20's 5e SRD on Combat</a>***
 
 A typical combat encounter is a clash between two sides, a Flurry of weapon swings, feints, parries, footwork, and Spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A round represents about 6 seconds in the game world. During a round, each participant in a battle takes a turn. The order of turns is determined at the beginning of a combat encounter, when everyone rolls Initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
 
