@@ -10,7 +10,6 @@ author: 5th Edition SRD
 
 ### Table of Contents
 {:.no_toc}
-<hr>
 * TOC
 {:toc}
 <hr>
