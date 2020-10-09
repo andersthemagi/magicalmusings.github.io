@@ -5,5 +5,3 @@ layout: "page"
 order: 3
 exclude: false
 ---
-
-Testo Presto

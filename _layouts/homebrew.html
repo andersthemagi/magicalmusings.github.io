@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    {%- include head.html -%}
+
+    {%- include header.html -%}
+
+    {{ content }}
+
+    <h2>Classes</h2>
+
+    <h3>Subclasses</h3>
+
+    {%- assign posts = site.categories["Subclasses"] | sort: 'title' -%}
+
+    {%- if posts.size > 0 -%}
+        {%- if page.list_title -%}
+            <h2 class="post-list-heading">{{ page.list_title }}</h2>
+        {%- endif -%}
+        <div class="box home-box">
+            <div class="post-list">
+            {%- for post in posts -%}
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                <h3>{{ post.title | escape }}</h3>
+            </a>
+            {%- endfor -%}
+      </div>
+    </div>
+    {%- endif -%}
+
+    <h2>Magic Items</h2>
+
+    <h2>Races</h2>
+
+    <h2>Spells</h2>
+
+</div>
