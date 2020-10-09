@@ -11,31 +11,19 @@ layout: default
     {{ content }}
 
     <h2>Classes</h2>
+    <hr>
 
-    
-
+    <!-- Subclass Section Generation -->
     {%- assign posts = site.categories["Subclasses"] | sort: 'title' -%}
-
     {%- if posts.size > 0 -%}
 
-        <h3>Subclasses</h3>
+        <h2>Subclasses</h2>
+        <hr>
 
-        <div>
-            <ul>
-                {%- for post in posts -%}
-                    <li><a href="post-link" href="{{ post.url | relative_url }}">
-                    {{ post.title | escape }}</a></li>
-                {%- endfor -%}
-            </ul>
-        </div>
-
-    {%- endif -%}
-
-
-    {%- if posts.size > 0 -%}
         {%- if page.list_title -%}
             <h2 class="post-list-heading">{{ page.list_title }}</h2>
         {%- endif -%}
+
         <div class="box home-box">
             <div class="post-list">
             {%- for post in posts -%}
@@ -43,8 +31,9 @@ layout: default
                 <h3>{{ post.title | escape }}</h3>
             </a>
             {%- endfor -%}
-      </div>
-    </div>
+            </div>
+        </div>
+        
     {%- endif -%}
 
     <h2>Magic Items</h2>
