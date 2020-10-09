@@ -1,7 +1,7 @@
 ---
 title: "Homebrew"
 permalink: "/homebrew/"
-layout: "page"
+layout: "homebrew"
 order: 3
 exclude: false
 ---
