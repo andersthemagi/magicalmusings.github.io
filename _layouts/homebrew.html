@@ -10,8 +10,28 @@ layout: default
 
     {{ content }}
 
-    <h2>Classes</h2>
-    <hr>
+    <!-- Class Section Generation -->
+    {%- assign posts = site.categories["Classes"] | sort: 'title' -%}
+    {%- if posts.size > 0 -%}
+
+        <h2>Classes</h2>
+        <hr>
+
+        {%- if page.list_title -%}
+            <h2 class="post-list-heading">{{ page.list_title }}</h2>
+        {%- endif -%}
+
+        <div class="box home-box">
+            <div class="post-list">
+            {%- for post in posts -%}
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                <h3>{{ post.title | escape }}</h3>
+            </a>
+            {%- endfor -%}
+            </div>
+        </div>
+        
+    {%- endif -%}
 
     <!-- Subclass Section Generation -->
     {%- assign posts = site.categories["Subclasses"] | sort: 'title' -%}
@@ -33,13 +53,57 @@ layout: default
             {%- endfor -%}
             </div>
         </div>
+
+    {%- endif -%}
+
+    <!-- Magic Items Section Generation -->
+    {%- assign posts = site.categories["Magic Items"] | sort: 'title' -%}
+    {%- if posts.size > 0 -%}
+
+        <h2>Magic Items</h2>
+        <hr>
+
+        {%- if page.list_title -%}
+            <h2 class="post-list-heading">{{ page.list_title }}</h2>
+        {%- endif -%}
+
+        <div class="box home-box">
+            <div class="post-list">
+            {%- for post in posts -%}
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                <h3>{{ post.title | escape }}</h3>
+            </a>
+            {%- endfor -%}
+            </div>
+        </div>
         
     {%- endif -%}
 
-    <h2>Magic Items</h2>
+    <!-- Race Section Generation -->
+    {%- assign posts = site.categories["Races"] | sort: 'title' -%}
+    {%- if posts.size > 0 -%}
 
-    <h2>Races</h2>
+        <h2>Races</h2>
+        <hr>
 
-    <h2>Spells</h2>
+        {%- if page.list_title -%}
+            <h2 class="post-list-heading">{{ page.list_title }}</h2>
+        {%- endif -%}
+
+        <div class="box home-box">
+            <div class="post-list">
+            {%- for post in posts -%}
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                <h3>{{ post.title | escape }}</h3>
+            </a>
+            {%- endfor -%}
+            </div>
+        </div>
+        
+    {%- endif -%}
+
+    <a class="post-link" href="https://magicalmusings.github.io/homebrew/spells/">
+        <h2>Spells</h2>
+    </a>
 
 </div>
