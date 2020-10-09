@@ -169,6 +169,14 @@ blockquote {
   }
 }
 
+.toc {
+  background-color: #3c3c3c;
+  border-radius: 10px;
+  float: right; 
+  margin-left: 50px; 
+  margin-right: 100px;
+}
+
 table {
   margin-bottom: $spacing-unit;
   width: 100%;
