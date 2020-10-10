@@ -28,7 +28,7 @@ In general, I follow the "fork-and-pull" Git workflow.
 
 ## Issues / Feature Requests
 
-In the event you find any bugs / typos, or want to suggest adding information or content to the site, feel free to open up an issue on [the Issue Tracker](https://github.com/magicalmusings/magicalmusings.github.io/issues) detailing everything you want me to know. For my D&D Players, there may be in-game incentive on the line if you help me out this way!! 
+In the event you find any bugs / typos, or want to suggest adding information or content to the site, feel free to open up an issue on [the Issue Tracker](https://github.com/magicalmusings/magicalmusings.github.io/issues) detailing everything you want me to know. ***For my D&D Players, there may be in-game incentive on the line if you help me out this way!!***
 
 ## License and Credits
 
