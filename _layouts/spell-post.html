@@ -1,0 +1,69 @@
+---
+layout: default
+---
+{%- include head.html -%}
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <header class="post-header">
+      <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    </header>
+
+    <hr>
+
+    <p>Source: {{ page.source }}</p>
+
+    {%- if page.spell-level == "Cantrip" -%}
+        <p><i>{{ page.school }} {{ page.spell-level }}</i></p>
+    {%- else -%}
+        <p><i>{{ page.spell-level }} {{ page.school }}</i></p>
+    {%- endif -%}
+
+    <p><b><i>Spell Lists:</i></b> {{ page.tags | join: '  ' }}</p>
+
+    <p><b>Casting Time:</b> {{ page.casting-time }}<br>
+       <b>Range:</b> {{ page.range }}<br>
+       <b>Components:</b> {{ page.components }}<br>
+       <b>Duration:</b> {{ page.duration }}
+    </p>
+
+    <br>
+  
+    <div class="post-content e-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+  
+    <br>
+    <hr>
+  
+    <p class="post-meta">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- if page.modified_date -%}
+        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+          Last Updated on {{ mdate | date: date_format }}
+        </time>
+      {%- else -%}
+        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {{ page.date | date: date_format }}
+        </time>
+      {%- endif -%} 
+      {%- if page.author -%}
+        • {% for author in page.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      {%- endif -%}
+    </p>
+    
+  
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  </article>
+  
+  
+  {%- if site.hyvor_talk_website_id -%}
+    <div class="comments">
+      {%- include hyvor-talk-comments.html -%}
+    </div>
+  {%- endif -%} 
