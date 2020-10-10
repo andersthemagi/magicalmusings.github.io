@@ -34,7 +34,7 @@ In the event you find any bugs / typos, or want to suggest adding information or
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-All content on this website is either mine or attributed to the author / content creators with sources. When possible, I will indicate any licensing or permissions regarding the information on the given page for said content. Official Dungeons and Dragons 5th Edition Rules are provided through the 5th Edition System Reference Document (5e SRD) by Wizards of the Coast under the [OGL 1.0a](https://5thsrd.org/license/). Please contact Andres Sepulveda at [magical.musings2020@gmail.com](mailto:magical.musings2020@gmail.com)
+All content on this website is either mine or attributed to the author / content creators with sources. When possible, I will indicate any licensing or permissions regarding the information on the given page for said content. Official Dungeons and Dragons 5th Edition Rules are provided through the 5th Edition System Reference Document (5e SRD) by Wizards of the Coast under the [OGL 1.0a](https://5thsrd.org/license/). Please contact Andres Sepulveda at [magical.musings2020@gmail.com](mailto:magical.musings2020@gmail.com) with any questions or concerns regarding any issues of this manner. 
 
 Jekyll Theme Leaf is a very simple yet beautiful theme created by [Supun Kavinda](https://twitter.com/_SupunKavinda). It is designed for those who love dark sites.
 
