@@ -14,7 +14,7 @@ A simple blog-style website to detail ramblings on Dungeons and Dragon's 5th Edi
 
 ## Pull Requests and Contributions
 
-Contributions are more than welcome on this project! All contributors are expected to be following the [Contributor Covenant.](https://www.contributor-covenant.org/) You can find information on what that entails in the ```code_of_conduct.md``` file located in the main directory. 
+Feedback and contributions are more than welcome on this project! All contributors are expected to be following the [Contributor Covenant.](https://www.contributor-covenant.org/) You can find information on what that entails in the ```code_of_conduct.md``` file located in the main directory. 
 
 In general, I follow the "fork-and-pull" Git workflow. 
 
@@ -26,9 +26,15 @@ In general, I follow the "fork-and-pull" Git workflow.
 
 **NOTE:** Be sure to merge the latest from "upstream" before making a pull request!
 
+## Issues / Feature Requests
+
+In the event you find any bugs / typos, or want to suggest adding information or content to the site, feel free to open up an issue on [the Issue Tracker](https://github.com/magicalmusings/magicalmusings.github.io/issues) detailing everything you want me to know. For my D&D Players, there may be in-game incentive on the line if you help me out this way!! 
+
 ## License and Credits
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+All content on this website is either mine or attributed to the author / content creators with sources. When possible, I will indicate any licensing or permissions regarding the information. Official Dungeons and Dragons 5th Edition Rules are provided by Wizards of the Coast under the [OGL 1.0a](https://5thsrd.org/license/).
 
 Jekyll Theme Leaf is a very simple yet beautiful theme created by [Supun Kavinda](https://twitter.com/_SupunKavinda). It is designed for those who love dark sites.
 
