@@ -26,6 +26,21 @@ In general, I follow the "fork-and-pull" Git workflow.
 
 **NOTE:** Be sure to merge the latest from "upstream" before making a pull request!
 
+### Building on Local Machines 
+
+See the [Jekyll Quick Start](https://jekyllrb.com/docs/) guide for more detailed steps on how to build sites locally. 
+
+#### Instructions 
+
+1. Install all [prerequisites](https://jekyllrb.com/docs/installation/)
+2. Install the jekyll and bundler [gems](https://jekyllrb.com/docs/ruby-101/#gems)
+```gem install jekyll bundler```
+3. Build the site in the main directory and make it available on a local server. The ```--livereload``` option makes it so Jekyll automatically refreshes the page with each change you make to the source files.
+```bundle exec jekyll serve --livereload```
+4. Navigate to [https://localhost:4000](https://localhost:4000)
+
+If you encounter any errors during this process, check that you have installed all the prerequisites in [Requirements](https://jekyllrb.com/docs/installation/#requirements). If you still have issues, see [Troubleshooting](https://jekyllrb.com/docs/troubleshooting/#configuration-problems).
+
 ## Issues / Feature Requests
 
 In the event you find any bugs / typos, or want to suggest adding information or content to the site, feel free to open up an issue on [the Issue Tracker](https://github.com/magicalmusings/magicalmusings.github.io/issues) detailing everything you want me to know. ***For my D&D Players, there may be in-game incentive on the line if you help me out this way!!***
