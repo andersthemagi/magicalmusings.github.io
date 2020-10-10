@@ -2,10 +2,10 @@
 title: Nudge (HB)
 permalink: "/spells/cantrips/nudge/"
 layout: spell-post
-categories: [Spells, Cantrips]
+categories: [Spells, First Level]
 tags: [Bard, Sorcerer, Wizard]
 source: "Homebrew (Adapted from Dicey Dungeons)"
-spell-level: First Level
+spell-level: "1st-level"
 school: Enchantment
 casting-time: "Special*"
 range: "60 feet"

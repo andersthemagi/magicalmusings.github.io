@@ -2,10 +2,10 @@
 title: Bump (HB)
 permalink: "/spells/cantrips/template-spell/"
 layout: spell-post
-categories: [Spells, Cantrips]
+categories: [Spells, First Level]
 tags: [Bard, Sorcerer, Warlock]
 source: "Homebrew (Adapted from Dicey Dungeons)"
-spell-level: First Level
+spell-level: "1st-level"
 school: Enchantment
 casting-time: "Special*"
 range: "60 Feet"
