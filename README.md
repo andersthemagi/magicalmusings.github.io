@@ -4,8 +4,8 @@
 ![Last Commit](https://img.shields.io/github/last-commit/magicalmusings/magicalmusings.github.io)
 ![Issues Open](https://img.shields.io/github/issues/magicalmusings/magicalmusings.github.io)
 ![Issues Closed](https://img.shields.io/github/issues-closed/magicalmusings/magicalmusings.github.io)
-
 ![Repo Size](https://img.shields.io/github/repo-size/magicalmusings/magicalmusings.github.io)
+
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 ![License](https://img.shields.io/github/license/magicalmusings/magicalmusings.github.io)
 
