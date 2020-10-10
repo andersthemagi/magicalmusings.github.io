@@ -8,17 +8,23 @@ author: Andres Sepulveda
 
 <hr>
 
-***Last Updated: 5 October 2020***
-
-**Timeframe:** September 2020 - Present
-
-**Setting:** Eberron, 5th Edition
+<div class="toc">
 
 ### Table of Contents
 {:.no_toc}
 
 * TOC
 {:toc}
+
+</div>
+
+***Last Updated: 5 October 2020***
+
+**Timeframe:** September 2020 - Present
+
+**Setting:** Eberron, 5th Edition
+
+
 
 ## Overview 
 

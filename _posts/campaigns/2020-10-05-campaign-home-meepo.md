@@ -8,17 +8,21 @@ author: Andres Sepulveda
 
 <hr>
 
-***Last Updated: TBD***
-
-**Timeframe:** December 2019 - January 2020
-
-**Setting:** Ka'athun (Homebrew)
+<div class="toc">
 
 ### Table of Contents
 {:.no_toc}
 
 * TOC
 {:toc}
+
+</div>
+
+***Last Updated: TBD***
+
+**Timeframe:** December 2019 - January 2020
+
+**Setting:** Ka'athun (Homebrew)
 
 ## Overview
 

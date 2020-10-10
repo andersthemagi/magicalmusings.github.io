@@ -6,14 +6,14 @@ categories: Mechanics
 author: 5th Edition SRD
 ---
 
-<div class="toc" style="float: right; margin-left: 50px; margin-right: 100px">
+<div class="toc">
 
-<hr style="margin-bottom: 20px;">
 ### Table of Contents
 {:.no_toc}
+
 * TOC
 {:toc}
-<hr>
+
 </div>
 
 ***Adapted from <a href="https://roll20.net/compendium/dnd5e/Combat#content">Roll20's 5e SRD on Combat</a>***
