@@ -1,4 +1,4 @@
-# magicalmusings.github.io
+[# magicalmusings.github.io](https://magicalmusings.github.io/)
 
 A simple blog-style website to detail ramblings on Dungeons and Dragon's 5th Edition. 
 
