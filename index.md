@@ -14,6 +14,8 @@ Feel free to peruse these pages to your hearts content!
 
 ## Pull Requests and Contributions
 
+<hr>
+
 ![Status](https://img.shields.io/github/deployments/magicalmusings/magicalmusings.github.io/github-pages)
 ![Last Commit](https://img.shields.io/github/last-commit/magicalmusings/magicalmusings.github.io)
 ![Issues Open](https://img.shields.io/github/issues/magicalmusings/magicalmusings.github.io)
