@@ -7,4 +7,4 @@ exclude: false
 ---
 # Homebrew Content
 
-IN-PROGRESS!!!!!
+IN-PROGRESS!!!!! As more content is developed in the 'Homebrew' category, more sections and posts will autopopulate here. 
