@@ -1,7 +1,7 @@
 ---
 title: Spells
 permalink: /spells/
-layout: mechanics
+layout: spells
 order: 5
 exclude: true
 ---
