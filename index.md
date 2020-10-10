@@ -4,16 +4,6 @@ layout: page
 order: 1
 exclude: true
 ---
-![Status](https://img.shields.io/github/deployments/magicalmusings/magicalmusings.github.io/github-pages)
-![Last Commit](https://img.shields.io/github/last-commit/magicalmusings/magicalmusings.github.io)
-![Issues Open](https://img.shields.io/github/issues/magicalmusings/magicalmusings.github.io)
-![Issues Closed](https://img.shields.io/github/issues-closed/magicalmusings/magicalmusings.github.io)
-![Repo Size](https://img.shields.io/github/repo-size/magicalmusings/magicalmusings.github.io)
-
-![Hacktoberfest](https://img.shields.io/github/hacktoberfest/2020/magicalmusings/magicalmusings.github.io)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
-![License](https://img.shields.io/github/license/magicalmusings/magicalmusings.github.io)
-
 Welcome to Magical Musings!
 
 I use this platform to post all of my D&D related ramblings from time to time, whether it be thoughts on mechanics, rulings for my players, or general homebrew content that comes to me like visions from an angry god. Mostly I work in 5th Edition rules, however I might delve into Pathfinder 2nd Edition at some point. 
@@ -23,6 +13,16 @@ Feel free to peruse these pages to your hearts content!
 **NOTE:** This site is constantly in an "development" state. Feel free to send any bugs / issues / suggestions to the <a href="https://github.com/magicalmusings/magicalmusings.github.io/issues">Issue Tracker on Github</a>, or by email to <a href="mailto:magical.musings2020@gmail.com">magical.musings2020@gmail.com</a>
 
 ## Pull Requests and Contributions
+
+![Status](https://img.shields.io/github/deployments/magicalmusings/magicalmusings.github.io/github-pages)
+![Last Commit](https://img.shields.io/github/last-commit/magicalmusings/magicalmusings.github.io)
+![Issues Open](https://img.shields.io/github/issues/magicalmusings/magicalmusings.github.io)
+![Issues Closed](https://img.shields.io/github/issues-closed/magicalmusings/magicalmusings.github.io)
+![Repo Size](https://img.shields.io/github/repo-size/magicalmusings/magicalmusings.github.io)
+
+![Hacktoberfest](https://img.shields.io/github/hacktoberfest/2020/magicalmusings/magicalmusings.github.io)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+![License](https://img.shields.io/github/license/magicalmusings/magicalmusings.github.io)
 
 Happy [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)!! 
 
