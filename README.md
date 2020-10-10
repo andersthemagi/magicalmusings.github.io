@@ -6,6 +6,7 @@
 ![Issues Closed](https://img.shields.io/github/issues-closed/magicalmusings/magicalmusings.github.io)
 ![Repo Size](https://img.shields.io/github/repo-size/magicalmusings/magicalmusings.github.io)
 
+![Hacktoberfest](https://img.shields.io/github/hacktoberfest/2020/magicalmusings/magicalmusings.github.io)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 ![License](https://img.shields.io/github/license/magicalmusings/magicalmusings.github.io)
 
@@ -13,6 +14,8 @@
 A simple blog-style website to detail ramblings on Dungeons and Dragon's 5th Edition. You can see the live site at [https://magicalmusings.github.io/](https://magicalmusings.github.io/).
 
 ## Pull Requests and Contributions
+
+Happy [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)!! 
 
 Feedback and contributions are more than welcome on this project! All contributors are expected to be following the [Contributor Covenant.](https://www.contributor-covenant.org/) You can find information on what that entails in the ```code_of_conduct.md``` file located in the main directory. 
 
@@ -26,7 +29,7 @@ In general, I follow the "fork-and-pull" Git workflow.
 
 **NOTE:** Be sure to merge the latest from "upstream" before making a pull request!
 
-### Building on Local Machines 
+### Building the Website on Local Machines 
 
 See the [Jekyll Quick Start](https://jekyllrb.com/docs/) guide for more detailed steps on how to build sites locally. 
 
@@ -34,12 +37,16 @@ See the [Jekyll Quick Start](https://jekyllrb.com/docs/) guide for more detailed
 
 1. Install all [prerequisites](https://jekyllrb.com/docs/installation/)
 2. Install the jekyll and bundler [gems](https://jekyllrb.com/docs/ruby-101/#gems)
+
 ```gem install jekyll bundler```
+
 3. Build the site in the main directory and make it available on a local server. The ```--livereload``` option makes it so Jekyll automatically refreshes the page with each change you make to the source files.
+
 ```bundle exec jekyll serve --livereload```
+
 4. Navigate to [https://localhost:4000](https://localhost:4000)
 
-If you encounter any errors during this process, check that you have installed all the prerequisites in [Requirements](https://jekyllrb.com/docs/installation/#requirements). If you still have issues, see [Troubleshooting](https://jekyllrb.com/docs/troubleshooting/#configuration-problems).
+It's that simple! If you encounter any errors during this process, check that you have installed all the prerequisites in [Requirements](https://jekyllrb.com/docs/installation/#requirements). If you still have issues, see [Troubleshooting](https://jekyllrb.com/docs/troubleshooting/#configuration-problems).
 
 ## Issues / Feature Requests
 
