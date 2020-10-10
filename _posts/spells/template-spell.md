@@ -2,8 +2,8 @@
 title: Template Spell
 permalink: "/spells/cantrips/template-spell/"
 layout: spell-post
-categories: Spells, Cantrips
-tags: Artificer, Sorcerer, Wizard
+categories: [Spells, Cantrips]
+tags: [Artificer, Sorcerer, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: Cantrip
 school: Conjuration
