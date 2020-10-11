@@ -1,8 +1,8 @@
 ---
 title: Power Word: Stun
-permalink: "/spells/eigth-level/power-word-stun/"
+permalink: "/spells/eighth-level/power-word-stun/"
 layout: spell-post
-categories: [Spells, Eigth Level]
+categories: [Spells, Eighth Level]
 tags: [Bard, Sorcerer, Warlock, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "8th-level"

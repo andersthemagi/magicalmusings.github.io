@@ -1,8 +1,8 @@
 ---
 title: Glibness
-permalink: "/spells/eigth-level/glibness/"
+permalink: "/spells/eighth-level/glibness/"
 layout: spell-post
-categories: [Spells, Eigth Level]
+categories: [Spells, Eighth Level]
 tags: [Bard, Warlock]
 source: "Basic Rules (PHB)"
 spell-level: "8th-level"

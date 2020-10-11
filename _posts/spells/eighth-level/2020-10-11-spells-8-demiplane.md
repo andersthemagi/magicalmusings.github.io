@@ -1,8 +1,8 @@
 ---
 title: Demiplane
-permalink: "/spells/eigth-level/demiplane/"
+permalink: "/spells/eighth-level/demiplane/"
 layout: spell-post
-categories: [Spells, Eigth Level]
+categories: [Spells, Eighth Level]
 tags: [Warlock, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "8th-level"

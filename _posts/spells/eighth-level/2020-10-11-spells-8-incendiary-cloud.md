@@ -1,8 +1,8 @@
 ---
 title: Incendiary Cloud
-permalink: "/spells/eigth-level/incendiary-cloud/"
+permalink: "/spells/eighth-level/incendiary-cloud/"
 layout: spell-post
-categories: [Spells, Eigth Level]
+categories: [Spells, Eighth Level]
 tags: [Sorcerer, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "8th-level"

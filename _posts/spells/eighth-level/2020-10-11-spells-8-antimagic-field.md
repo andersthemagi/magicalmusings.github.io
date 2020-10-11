@@ -1,8 +1,8 @@
 ---
 title: Antimagic Field
-permalink: "/spells/eigth-level/antimagic-field/"
+permalink: "/spells/eighth-level/antimagic-field/"
 layout: spell-post
-categories: [Spells, Eigth Level]
+categories: [Spells, Eighth Level]
 tags: [Cleric, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "8th-level"

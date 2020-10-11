@@ -1,8 +1,8 @@
 ---
 title: Sunburst
-permalink: "/spells/eigth-level/sunburst/"
+permalink: "/spells/eighth-level/sunburst/"
 layout: spell-post
-categories: [Spells, Eigth Level]
+categories: [Spells, Eighth Level]
 tags: [Druid, Sorcerer, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "8th-level"

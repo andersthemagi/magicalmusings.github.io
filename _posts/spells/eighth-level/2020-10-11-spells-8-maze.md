@@ -1,8 +1,8 @@
 ---
 title: Maze
-permalink: "/spells/eigth-level/maze/"
+permalink: "/spells/eighth-level/maze/"
 layout: spell-post
-categories: [Spells, Eigth Level]
+categories: [Spells, Eighth Level]
 tags: [Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "8th-level"

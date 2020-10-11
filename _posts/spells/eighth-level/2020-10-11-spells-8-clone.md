@@ -1,8 +1,8 @@
 ---
 title: Clone
-permalink: "/spells/eigth-level/clone/"
+permalink: "/spells/eighth-level/clone/"
 layout: spell-post
-categories: [Spells, Eigth Level]
+categories: [Spells, Eighth Level]
 tags: [Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "8th-level"

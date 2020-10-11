@@ -1,8 +1,8 @@
 ---
 title: Dominate Monster
-permalink: "/spells/eigth-level/dominate-monster/"
+permalink: "/spells/eighth-level/dominate-monster/"
 layout: spell-post
-categories: [Spells, Eigth Level]
+categories: [Spells, Eighth Level]
 tags: [Bard, Sorcerer, Warlock, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "8th-level"

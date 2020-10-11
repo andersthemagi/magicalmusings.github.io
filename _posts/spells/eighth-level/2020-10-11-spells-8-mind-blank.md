@@ -1,8 +1,8 @@
 ---
 title: Mind Blank
-permalink: "/spells/eigth-level/mind-blank/"
+permalink: "/spells/eighth-level/mind-blank/"
 layout: spell-post
-categories: [Spells, Eigth Level]
+categories: [Spells, Eighth Level]
 tags: [Bard, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "8th-level"

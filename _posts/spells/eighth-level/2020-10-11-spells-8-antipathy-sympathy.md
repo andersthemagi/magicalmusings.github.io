@@ -1,8 +1,8 @@
 ---
 title: Antipathy/Sympathy
-permalink: "/spells/eigth-level/antipathy-sympathy/"
+permalink: "/spells/eighth-level/antipathy-sympathy/"
 layout: spell-post
-categories: [Spells, Eigth Level]
+categories: [Spells, Eighth Level]
 tags: [Druid, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "8th-level"

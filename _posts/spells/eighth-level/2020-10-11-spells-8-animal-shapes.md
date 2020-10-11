@@ -1,8 +1,8 @@
 ---
 title: Animal Shapes
-permalink: "/spells/eigth-level/animal-shapes/"
+permalink: "/spells/eighth-level/animal-shapes/"
 layout: spell-post
-categories: [Spells, Eigth Level]
+categories: [Spells, Eighth Level]
 tags: [Druid]
 source: "Basic Rules (PHB)"
 spell-level: "8th-level"

@@ -1,8 +1,8 @@
 ---
 title: Control Weather
-permalink: "/spells/eigth-level/control-weather/"
+permalink: "/spells/eighth-level/control-weather/"
 layout: spell-post
-categories: [Spells, Eigth Level]
+categories: [Spells, Eighth Level]
 tags: [Cleric, Druid, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "8th-level"

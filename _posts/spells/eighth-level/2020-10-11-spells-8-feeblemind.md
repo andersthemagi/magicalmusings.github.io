@@ -1,8 +1,8 @@
 ---
 title: Feeblemind
-permalink: "/spells/eigth-level/feeblemind/"
+permalink: "/spells/eighth-level/feeblemind/"
 layout: spell-post
-categories: [Spells, Eigth Level]
+categories: [Spells, Eighth Level]
 tags: [Bard, Druid, Warlock, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "8th-level"

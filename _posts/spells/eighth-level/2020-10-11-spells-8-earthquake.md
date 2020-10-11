@@ -1,8 +1,8 @@
 ---
 title: Earthquake
-permalink: "/spells/eigth-level/earthquake/"
+permalink: "/spells/eighth-level/earthquake/"
 layout: spell-post
-categories: [Spells, Eigth Level]
+categories: [Spells, Eighth Level]
 tags: [Cleric, Druid, Sorcerer]
 source: "Basic Rules (PHB)"
 spell-level: "8th-level"
