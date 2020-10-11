@@ -19,24 +19,24 @@ When you cast the spell, you change the current weather Conditions, which are de
 
 When you change the weather Conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.
 
-Precipitation:
-Stage 1 - Clear
-Stage 2 - Light clouds
-Stage 3 - Overcast or ground fog
-Stage 4 - Rain, hail or snow
+Precipitation:  
+Stage 1 - Clear  
+Stage 2 - Light clouds  
+Stage 3 - Overcast or ground fog  
+Stage 4 - Rain, hail or snow  
 Stage 5 - Torrential rain, driving hail or Blizzard
 
-Temperature:
-Stage 1 - Unbearable heat
-Stage 2 - Hot
-Stage 3 - Warm
-Stage 4 - Cool
-Stage 5 - Cold
+Temperature:  
+Stage 1 - Unbearable heat  
+Stage 2 - Hot  
+Stage 3 - Warm  
+Stage 4 - Cool  
+Stage 5 - Cold  
 Stage 6 - Arctic cold
 
-Wind:
-Stage 1 - Calm
-Stage 2 - Moderate wind
-Stage 3 - Strong wind
-Stage 4 - Gale
+Wind:  
+Stage 1 - Calm  
+Stage 2 - Moderate wind  
+Stage 3 - Strong wind  
+Stage 4 - Gale  
 Stage 5 - Storm
