@@ -19,7 +19,7 @@ layout: default
         <p><i>{{ page.spell-level }} {{ page.school }}</i></p>
     {%- endif -%}
 
-    <p><b><i>Spell Lists:</i></b> {{ page.tags | join: '  ' }}</p>
+    <p><b><i>Spell Lists:</i></b> {{ page.tags | join: ',  ' }}</p>
 
     <p><b>Casting Time:</b> {{ page.casting-time }}<br>
        <b>Range:</b> {{ page.range }}<br>
