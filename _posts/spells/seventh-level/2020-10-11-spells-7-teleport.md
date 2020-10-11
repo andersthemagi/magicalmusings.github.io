@@ -17,7 +17,7 @@ This spell instantly transports you and up to eight willing creatures of your ch
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls d100 and consults the table.
 
 | Familiarity       | Mishap | Similar Area | Off Target | On Target |
-| ----------------- | ------ | ------------ | ---------- | --------- |
+| :---------------- | :----: | :----------: | :--------: | :-------: |
 | Permanent circle  | —      | —            | —          | 01–100    |
 | Associated object | —      | —            | —          | 01–100    |
 | Very familiar     | 01–05  | 06–13        | 14–24      | 25–100    |
