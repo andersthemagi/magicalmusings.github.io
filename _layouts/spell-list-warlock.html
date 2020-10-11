@@ -247,7 +247,7 @@ layout: default
             <th>Duration</th>
             <th>Components</th>
         </tr>
-        {%- assign spells = site.posts | where: "categories", "Ninth" -%}
+        {%- assign spells = site.posts | where: "categories", "Ninth Level" -%}
         {%- assign sorted-spells = spells | where: "tags", "Warlock" | sort: 'title' -%}
         {%- for spell in sorted-spells -%}
         <tr>
