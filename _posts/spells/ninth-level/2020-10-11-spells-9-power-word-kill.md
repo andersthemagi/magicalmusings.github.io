@@ -1,5 +1,5 @@
 ---
-title: Power Word: Kill
+title: "Power Word: Kill"
 permalink: "/spells/ninth-level/power-word-kill/"
 layout: spell-post
 categories: [Spells, Ninth Level]

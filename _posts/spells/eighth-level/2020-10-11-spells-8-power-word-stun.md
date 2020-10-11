@@ -1,5 +1,5 @@
 ---
-title: Power Word: Stun
+title: "Power Word: Stun"
 permalink: "/spells/eighth-level/power-word-stun/"
 layout: spell-post
 categories: [Spells, Eighth Level]
