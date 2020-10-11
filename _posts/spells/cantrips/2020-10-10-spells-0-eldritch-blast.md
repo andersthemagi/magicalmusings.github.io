@@ -1,6 +1,6 @@
 ---
 title: Eldritch Blast
-permalink: "/spells/cantrips/eldtritch-blast/"
+permalink: "/spells/cantrips/eldritch-blast/"
 layout: spell-post
 categories: [Spells, Cantrips]
 tags: [Warlock]
