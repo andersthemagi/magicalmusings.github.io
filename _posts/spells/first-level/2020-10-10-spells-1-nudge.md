@@ -1,15 +1,15 @@
 ---
 title: Nudge (HB)
-permalink: "/spells/cantrips/nudge/"
+permalink: "/spells/first-level/nudge/"
 layout: spell-post
 categories: [Spells, First Level]
-tags: [Bard, Sorcerer, Wizard]
+tags: [Bard, Sorcerer, Warlock]
 source: "Homebrew (Adapted from Dicey Dungeons)"
 spell-level: "1st-level"
 school: Enchantment
 casting-time: "Special*"
-range: "60 feet"
-components: "V, S, M (a die made of bone or wood)"
+range: "60 Feet"
+components: "V, S, M (a die made of wood or bone)"
 duration: "Instantaneous"
 ---
 

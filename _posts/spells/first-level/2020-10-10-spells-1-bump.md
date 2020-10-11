@@ -1,6 +1,6 @@
 ---
 title: Bump (HB)
-permalink: "/spells/cantrips/template-spell/"
+permalink: "/spells/first-level/bump/"
 layout: spell-post
 categories: [Spells, First Level]
 tags: [Bard, Sorcerer, Warlock]
