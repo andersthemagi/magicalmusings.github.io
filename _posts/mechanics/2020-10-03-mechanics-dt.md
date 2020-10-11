@@ -8,14 +8,6 @@ author: u/Aaquamarius on Reddit
 
 <a href="https://www.reddit.com/r/dndnext/comments/apblrv/nothing_to_do_a_guide_on_downtime/">Original Post on Reddit by u/Aaquamarius</a>
 
-**TLDR: A guide on what you can do with your downtime. Just like in the title. They're alphabetical so if you're looking for a specific one, just scroll to it.**
-
-***CURRENT DOWNTIME RATE: 2 hours of play ==> 5 days worth of DT***
-
-Recently my group had just finished an adventure and our DM gave us some downtime. However, finding what you can do with your downtime is a chore due to the fact that it spans across three different books with rules that can differ. So I made this guide with the goal of cataloging everything you can do with your downtime all in one place.
-
-I will be covering mostly everything you can do with your downtime. While I won't be posting graphs and charts for each one, I'll try to go in depth enough to help you make an educated decision. Once you do make a decision, I implore you to check the rulebook from which it came from as these are just descriptions and not the actual rules. I'll list the pros and cons for each activity, but ultimately, everything comes down to whether your DM will allow it or not. For example, some of them require certain services to be available, and it is up to your DM whether or not that service is available.
-
 <div class="toc">
 
 ### Table of Contents 
@@ -25,6 +17,14 @@ I will be covering mostly everything you can do with your downtime. While I won'
 {:toc}
 
 </div>
+
+**TLDR: A guide on what you can do with your downtime. Just like in the title. They're alphabetical so if you're looking for a specific one, just scroll to it.**
+
+***CURRENT DOWNTIME RATE: 2 hours of play ==> 5 days worth of DT***
+
+Recently my group had just finished an adventure and our DM gave us some downtime. However, finding what you can do with your downtime is a chore due to the fact that it spans across three different books with rules that can differ. So I made this guide with the goal of cataloging everything you can do with your downtime all in one place.
+
+I will be covering mostly everything you can do with your downtime. While I won't be posting graphs and charts for each one, I'll try to go in depth enough to help you make an educated decision. Once you do make a decision, I implore you to check the rulebook from which it came from as these are just descriptions and not the actual rules. I'll list the pros and cons for each activity, but ultimately, everything comes down to whether your DM will allow it or not. For example, some of them require certain services to be available, and it is up to your DM whether or not that service is available.
 
 ## Things to Keep in Mind
 
