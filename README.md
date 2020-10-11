@@ -38,11 +38,15 @@ See the [Jekyll Quick Start](https://jekyllrb.com/docs/) guide for more detailed
 1. Install all [prerequisites](https://jekyllrb.com/docs/installation/)
 2. Install the jekyll and bundler [gems](https://jekyllrb.com/docs/ruby-101/#gems)
 
-```gem install jekyll bundler```
+```
+gem install jekyll bundler
+```
 
 3. Build the site in the main directory and make it available on a local server. The ```--livereload``` option makes it so Jekyll automatically refreshes the page with each change you make to the source files.
 
-```bundle exec jekyll serve --livereload```
+```
+bundle exec jekyll serve --livereload
+```
 
 4. Navigate to [https://localhost:4000](https://localhost:4000)
 
