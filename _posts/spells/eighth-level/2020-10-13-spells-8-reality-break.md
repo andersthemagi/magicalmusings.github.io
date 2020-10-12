@@ -4,7 +4,7 @@ permalink: "/spells/eighth-level/reality-break/"
 layout: spell-post
 categories: [Spells, Eighth Level]
 tags: [Wizard]
-source: "Basic Rules (PHB)"
+source: "Explorers Guide to Wildemount (EGW)"
 spell-level: "8th-level"
 school: Conjuration
 casting-time: "1 Action"

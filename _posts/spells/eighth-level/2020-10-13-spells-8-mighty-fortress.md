@@ -4,7 +4,7 @@ permalink: "/spells/eighth-level/mighty-fortress/"
 layout: spell-post
 categories: [Spells, Eighth Level]
 tags: [Wizard]
-source: "Basic Rules (PHB)"
+source: "Xanathars Guide To Everything (XGE)"
 spell-level: "8th-level"
 school: Conjuration
 casting-time: "1 Minute"

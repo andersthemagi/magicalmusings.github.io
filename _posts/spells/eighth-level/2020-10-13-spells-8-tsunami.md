@@ -4,7 +4,7 @@ permalink: "/spells/eighth-level/tsunami/"
 layout: spell-post
 categories: [Spells, Eighth Level]
 tags: [Druid]
-source: "Basic Rules (PHB)"
+source: "Players Handbook"
 spell-level: "8th-level"
 school: Conjuration
 casting-time: "1 Minute"

@@ -4,7 +4,7 @@ permalink: "/spells/eighth-level/abi-dalzims-horrid-wilting/"
 layout: spell-post
 categories: [Spells, Eighth Level]
 tags: [Sorcerer, Wizard]
-source: "Basic Rules (PHB)"
+source: "Elemental Evil Players Companion (EEPC)"
 spell-level: "8th-level"
 school: Necromancy
 casting-time: "1 Action"

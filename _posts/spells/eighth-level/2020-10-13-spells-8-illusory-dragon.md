@@ -4,7 +4,7 @@ permalink: "/spells/eighth-level/illusory-dragon/"
 layout: spell-post
 categories: [Spells, Eighth Level]
 tags: [Wizard]
-source: "Basic Rules (PHB)"
+source: "Xanathars Guide To Everything (XGE)"
 spell-level: "8th-level"
 school: Illusion
 casting-time: "1 Action"

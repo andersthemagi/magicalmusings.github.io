@@ -4,7 +4,7 @@ permalink: "/spells/eighth-level/maddening-darkness/"
 layout: spell-post
 categories: [Spells, Eighth Level]
 tags: [Warlock, Wizard]
-source: "Basic Rules (PHB)"
+source: "Xanathars Guide To Everything (XGE)"
 spell-level: "8th-level"
 school: Evocation
 casting-time: "1 Action"

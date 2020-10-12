@@ -4,7 +4,7 @@ permalink: "/spells/eighth-level/telepathy/"
 layout: spell-post
 categories: [Spells, Eighth Level]
 tags: [Wizard]
-source: "Basic Rules (PHB)"
+source: "Players Handbook"
 spell-level: "8th-level"
 school: Evocation
 casting-time: "1 Action"
