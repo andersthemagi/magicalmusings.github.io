@@ -3,7 +3,7 @@ title: Burning Hands
 permalink: "/spells/first-level/burning-hands/"
 layout: spell-post
 categories: [Spells, First Level]
-tags: [Sorcerer, Wizard
+tags: [Sorcerer, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "1st-level"
 school: Evocation

@@ -1,0 +1,263 @@
+---
+layout: default
+---
+
+<div class="home">
+    {%- include head.html -%}
+
+    {%- include header.html -%}
+
+    <h1>Abjuration Spells</h1>
+
+    {{ content }}
+
+    <h2>Cantrips (0-Level)</h2>
+
+    <table>
+        <tr>
+            <th>Spell Name</th>
+            <th>School</th>
+            <th>Casting Time</th>
+            <th>Range</th>
+            <th>Duration</th>
+            <th>Components</th>
+        </tr>
+        {%- assign spells = site.posts | where: "categories", "Cantrips" -%}
+        {%- assign sorted-spells = spells | where: "school", "Abjuration" | sort: 'title' -%}
+        {%- for spell in sorted-spells -%}
+        <tr>
+            <td><a href="{{ spell.url }}">{{ spell.title }}</a></td>
+            <td><i>{{ spell.school }}</i></td>
+            <td>{{ spell.casting-time }}</td>
+            <td>{{ spell.range }}</td>
+            <td>{{ spell.duration }}</td>
+            <td>{{ spell.components }}</td>
+        </tr>
+        {%- endfor -%}
+    </table>
+
+    <h2>First Level</h2>
+
+    <table>
+        <tr>
+            <th>Spell Name</th>
+            <th>School</th>
+            <th>Casting Time</th>
+            <th>Range</th>
+            <th>Duration</th>
+            <th>Components</th>
+        </tr>
+        {%- assign spells = site.posts | where: "categories", "First Level" -%}
+        {%- assign sorted-spells = spells | where: "school", "Abjuration" | sort: 'title' -%}
+        {%- for spell in sorted-spells -%}
+        <tr>
+            <td><a href="{{ spell.url }}">{{ spell.title }}</a></td>
+            <td><i>{{ spell.school }}</i></td>
+            <td>{{ spell.casting-time }}</td>
+            <td>{{ spell.range }}</td>
+            <td>{{ spell.duration }}</td>
+            <td>{{ spell.components }}</td>
+        </tr>
+        {%- endfor -%}
+    </table>
+
+    <h2>Second Level</h2>
+
+    <table>
+        <tr>
+            <th>Spell Name</th>
+            <th>School</th>
+            <th>Casting Time</th>
+            <th>Range</th>
+            <th>Duration</th>
+            <th>Components</th>
+        </tr>
+        {%- assign spells = site.posts | where: "categories", "Second Level" -%}
+        {%- assign sorted-spells = spells | where: "school", "Abjuration" | sort: 'title' -%}
+        {%- for spell in sorted-spells -%}
+        <tr>
+            <td><a href="{{ spell.url }}">{{ spell.title }}</a></td>
+            <td><i>{{ spell.school }}</i></td>
+            <td>{{ spell.casting-time }}</td>
+            <td>{{ spell.range }}</td>
+            <td>{{ spell.duration }}</td>
+            <td>{{ spell.components }}</td>
+        </tr>
+        {%- endfor -%}
+    </table>
+
+    <h2>Third Level</h2>
+
+    <table>
+        <tr>
+            <th>Spell Name</th>
+            <th>School</th>
+            <th>Casting Time</th>
+            <th>Range</th>
+            <th>Duration</th>
+            <th>Components</th>
+        </tr>
+        {%- assign spells = site.posts | where: "categories", "Third Level" -%}
+        {%- assign sorted-spells = spells | where: "school", "Abjuration" | sort: 'title' -%}
+        {%- for spell in sorted-spells -%}
+        <tr>
+            <td><a href="{{ spell.url }}">{{ spell.title }}</a></td>
+            <td><i>{{ spell.school }}</i></td>
+            <td>{{ spell.casting-time }}</td>
+            <td>{{ spell.range }}</td>
+            <td>{{ spell.duration }}</td>
+            <td>{{ spell.components }}</td>
+        </tr>
+        {%- endfor -%}
+    </table>
+
+    <h2>Fourth Level</h2>
+
+    <table>
+        <tr>
+            <th>Spell Name</th>
+            <th>School</th>
+            <th>Casting Time</th>
+            <th>Range</th>
+            <th>Duration</th>
+            <th>Components</th>
+        </tr>
+        {%- assign spells = site.posts | where: "categories", "Fourth Level" -%}
+        {%- assign sorted-spells = spells | where: "school", "Abjuration" | sort: 'title' -%}
+        {%- for spell in sorted-spells -%}
+        <tr>
+            <td><a href="{{ spell.url }}">{{ spell.title }}</a></td>
+            <td><i>{{ spell.school }}</i></td>
+            <td>{{ spell.casting-time }}</td>
+            <td>{{ spell.range }}</td>
+            <td>{{ spell.duration }}</td>
+            <td>{{ spell.components }}</td>
+        </tr>
+        {%- endfor -%}
+    </table>
+
+    <h2>Fifth Level</h2>
+
+    <table>
+        <tr>
+            <th>Spell Name</th>
+            <th>School</th>
+            <th>Casting Time</th>
+            <th>Range</th>
+            <th>Duration</th>
+            <th>Components</th>
+        </tr>
+        {%- assign spells = site.posts | where: "categories", "Fifth Level" -%}
+        {%- assign sorted-spells = spells | where: "school", "Abjuration" | sort: 'title' -%}
+        {%- for spell in sorted-spells -%}
+        <tr>
+            <td><a href="{{ spell.url }}">{{ spell.title }}</a></td>
+            <td><i>{{ spell.school }}</i></td>
+            <td>{{ spell.casting-time }}</td>
+            <td>{{ spell.range }}</td>
+            <td>{{ spell.duration }}</td>
+            <td>{{ spell.components }}</td>
+        </tr>
+        {%- endfor -%}
+    </table>
+
+    <h2>Sixth Level</h2>
+
+    <table>
+        <tr>
+            <th>Spell Name</th>
+            <th>School</th>
+            <th>Casting Time</th>
+            <th>Range</th>
+            <th>Duration</th>
+            <th>Components</th>
+        </tr>
+        {%- assign spells = site.posts | where: "categories", "Sixth Level" -%}
+        {%- assign sorted-spells = spells | where: "school", "Abjuration" | sort: 'title' -%}
+        {%- for spell in sorted-spells -%}
+        <tr>
+            <td><a href="{{ spell.url }}">{{ spell.title }}</a></td>
+            <td><i>{{ spell.school }}</i></td>
+            <td>{{ spell.casting-time }}</td>
+            <td>{{ spell.range }}</td>
+            <td>{{ spell.duration }}</td>
+            <td>{{ spell.components }}</td>
+        </tr>
+        {%- endfor -%}
+    </table>
+
+    <h2>Seventh Level</h2>
+
+    <table>
+        <tr>
+            <th>Spell Name</th>
+            <th>School</th>
+            <th>Casting Time</th>
+            <th>Range</th>
+            <th>Duration</th>
+            <th>Components</th>
+        </tr>
+        {%- assign spells = site.posts | where: "categories", "Seventh Level" -%}
+        {%- assign sorted-spells = spells | where: "school", "Abjuration" | sort: 'title' -%}
+        {%- for spell in sorted-spells -%}
+        <tr>
+            <td><a href="{{ spell.url }}">{{ spell.title }}</a></td>
+            <td><i>{{ spell.school }}</i></td>
+            <td>{{ spell.casting-time }}</td>
+            <td>{{ spell.range }}</td>
+            <td>{{ spell.duration }}</td>
+            <td>{{ spell.components }}</td>
+        </tr>
+        {%- endfor -%}
+    </table>
+
+    <h2>Eighth Level</h2>
+
+    <table>
+        <tr>
+            <th>Spell Name</th>
+            <th>School</th>
+            <th>Casting Time</th>
+            <th>Range</th>
+            <th>Duration</th>
+            <th>Components</th>
+        </tr>
+        {%- assign spells = site.posts | where: "categories", "Eighth Level" -%}
+        {%- assign sorted-spells = spells | where: "school", "Abjuration" | sort: 'title' -%}
+        {%- for spell in sorted-spells -%}
+        <tr>
+            <td><a href="{{ spell.url }}">{{ spell.title }}</a></td>
+            <td><i>{{ spell.school }}</i></td>
+            <td>{{ spell.casting-time }}</td>
+            <td>{{ spell.range }}</td>
+            <td>{{ spell.duration }}</td>
+            <td>{{ spell.components }}</td>
+        </tr>
+        {%- endfor -%}
+    </table>
+
+    <h2>Ninth Level</h2>
+
+    <table>
+        <tr>
+            <th>Spell Name</th>
+            <th>School</th>
+            <th>Casting Time</th>
+            <th>Range</th>
+            <th>Duration</th>
+            <th>Components</th>
+        </tr>
+        {%- assign spells = site.posts | where: "categories", "Ninth Level" -%}
+        {%- assign sorted-spells = spells | where: "school", "Abjuration" | sort: 'title' -%}
+        {%- for spell in sorted-spells -%}
+        <tr>
+            <td><a href="{{ spell.url }}">{{ spell.title }}</a></td>
+            <td><i>{{ spell.school }}</i></td>
+            <td>{{ spell.casting-time }}</td>
+            <td>{{ spell.range }}</td>
+            <td>{{ spell.duration }}</td>
+            <td>{{ spell.components }}</td>
+        </tr>
+        {%- endfor -%}
+    </table>
+</div>
