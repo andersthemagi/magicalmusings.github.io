@@ -8,7 +8,7 @@ source: "Homebrew"
 spell-level: Cantrip
 school: Necromancy
 casting-time: "1 Action"
-range: "15 Feet"
+range: "5 Feet"
 components: "S"
 duration: "Instantaneous"
 author: Andres Sepulveda
