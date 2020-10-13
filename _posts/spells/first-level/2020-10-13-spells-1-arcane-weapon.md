@@ -17,4 +17,4 @@ You channel arcane energy into one simple or martial weapon you’re holding, an
 
 As a bonus action, you can change the damage type, choosing from the options above.
 
-At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can maintain your concentration on the spell for up to 8 hours.
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can maintain your concentration on the spell for up to 8 hours.
