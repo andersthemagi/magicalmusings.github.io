@@ -2,7 +2,7 @@
 title: Arcane Weapon
 permalink: "/spells/first-level/arcane-weapon/"
 layout: spell-post
-categories: [Spells, Cantrips]
+categories: [Spells, First Level]
 tags: [Artificer]
 source: "Basic Rules (PHB)"
 spell-level: "1st-level"

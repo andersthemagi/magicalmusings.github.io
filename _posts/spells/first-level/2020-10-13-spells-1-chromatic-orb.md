@@ -2,14 +2,14 @@
 title: Chromatic Orb
 permalink: "/spells/first-level/chromatic-orb/"
 layout: spell-post
-categories: [Spells, Cantrips]
+categories: [Spells, First Level]
 tags: [Sorcerer, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "1st-level"
 school: Evocation
 casting-time: "1 Action"
 range: "90 feet"
-components: "V, S, M"
+components: "V, S, M (Diamond worth at least 50 gp)"
 duration: "Instantaneous"
 ---
 

@@ -2,7 +2,7 @@
 title: Compelled Duel
 permalink: "/spells/first-level/compelled-duel/"
 layout: spell-post
-categories: [Spells, Cantrips]
+categories: [Spells, First Level]
 tags: [Paladin]
 source: "Basic Rules (PHB)"
 spell-level: "1st-level"

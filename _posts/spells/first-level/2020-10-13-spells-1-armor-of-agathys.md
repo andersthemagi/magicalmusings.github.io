@@ -2,14 +2,14 @@
 title: Armor of Agathys
 permalink: "/spells/first-level/armor-of-agathys/"
 layout: spell-post
-categories: [Spells, Cantrips]
+categories: [Spells, First Level]
 tags: [Warlock]
 source: "Basic Rules (PHB)"
 spell-level: "1st-level"
 school: Abjuration
 casting-time: "1 Action"
 range: "Self"
-components: "V, S"
+components: "V, S, M (a cup of water)"
 duration: "1 hour"
 ---
 

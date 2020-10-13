@@ -1,8 +1,8 @@
 ---
-title: Cause of Fear
-permalink: "/spells/first-level/cause-of-fear/"
+title: Cause Fear
+permalink: "/spells/first-level/cause-fear/"
 layout: spell-post
-categories: [Spells, Cantrips]
+categories: [Spells, First Level]
 tags: [Warlock, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "1st-level"

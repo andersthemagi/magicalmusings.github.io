@@ -2,7 +2,7 @@
 title: Arms of Hadar
 permalink: "/spells/first-level/arms-of-hadar/"
 layout: spell-post
-categories: [Spells, Cantrips]
+categories: [Spells, First Level]
 tags: [Warlock]
 source: "Basic Rules (PHB)"
 spell-level: "1st-level"

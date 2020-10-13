@@ -2,7 +2,7 @@
 title: Catapult
 permalink: "/spells/first-level/catapult/"
 layout: spell-post
-categories: [Spells, Cantrips]
+categories: [Spells, First Level]
 tags: [Artificer, Sorcerer, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "1st-level"

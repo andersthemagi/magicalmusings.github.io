@@ -2,12 +2,12 @@
 title: Absorb Elements
 permalink: "/spells/first-level/absorb-elements/"
 layout: spell-post
-categories: [Spells, Cantrips]
+categories: [Spells, First Level]
 tags: [Artificer, Sorcerer, Wizard, Druid, Ranger]
 source: "Basic Rules (PHB)"
 spell-level: "1st-level"
 school: Abjuration
-casting-time: "1 Reaction"
+casting-time: "1 Reaction, which you take when you take acid, cold, fire, lightening, or thunder damage"
 range: "Self"
 components: "S"
 duration: "One (1) round"
