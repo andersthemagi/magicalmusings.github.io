@@ -1,18 +1,18 @@
 ---
 title: Armor of Agathys
-permalink: "/spells/cantrips/armor-of-agathys/"
+permalink: "/spells/first-level/armor-of-agathys/"
 layout: spell-post
 categories: [Spells, Cantrips]
-tags: [Artificer, Sorcerer, Wizard]
+tags: [Warlock]
 source: "Basic Rules (PHB)"
-spell-level: Cantrip
-school: Conjuration
+spell-level: "1st-level"
+school: Abjuration
 casting-time: "1 Action"
-range: "60 feet"
+range: "Self"
 components: "V, S"
-duration: "Instantaneous"
+duration: "1 hour"
 ---
 
-You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
 
-***At Higher Levels.*** This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot.

@@ -1,18 +1,20 @@
 ---
 title: Arcane Weapon
-permalink: "/spells/cantrips/arcane-weapon/"
+permalink: "/spells/first-level/arcane-weapon/"
 layout: spell-post
 categories: [Spells, Cantrips]
-tags: [Artificer, Sorcerer, Wizard]
+tags: [Artificer]
 source: "Basic Rules (PHB)"
-spell-level: Cantrip
-school: Conjuration
-casting-time: "1 Action"
-range: "60 feet"
-components: "V, S"
-duration: "Instantaneous"
+spell-level: "1st-level"
+school: Transmutation
+casting-time: "1 Bonus Action"
+range: "Self"
+components: "V, S, M"
+duration: "Concentration, up to 1 hour"
 ---
 
-You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+You channel arcane energy into one simple or martial weapon you’re holding, and choose one damage type: acid, cold, fire, lightning, poison, or thunder. Until the spell ends, you deal an extra 1d6 damage of the chosen type to any target you hit with the weapon. If the weapon isn’t magical, it becomes a magic weapon for the spell’s duration.
 
-***At Higher Levels.*** This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+As a bonus action, you can change the damage type, choosing from the options above.
+
+At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can maintain your concentration on the spell for up to 8 hours.

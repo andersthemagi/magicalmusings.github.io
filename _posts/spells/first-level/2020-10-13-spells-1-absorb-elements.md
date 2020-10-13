@@ -1,18 +1,18 @@
 ---
 title: Absorb Elements
-permalink: "/spells/cantrips/absorb-elements/"
+permalink: "/spells/first-level/absorb-elements/"
 layout: spell-post
 categories: [Spells, Cantrips]
-tags: [Artificer, Sorcerer, Wizard]
+tags: [Artificer, Sorcerer, Wizard, Druid, Ranger]
 source: "Basic Rules (PHB)"
-spell-level: Cantrip
-school: Conjuration
-casting-time: "1 Action"
-range: "60 feet"
-components: "V, S"
-duration: "Instantaneous"
+spell-level: "1st-level"
+school: Abjuration
+casting-time: "1 Reaction"
+range: "Self"
+components: "S"
+duration: "One (1) round"
 ---
 
-You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.
 
-***At Higher Levels.*** This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
