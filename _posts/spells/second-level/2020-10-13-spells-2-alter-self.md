@@ -4,7 +4,7 @@ permalink: "/spells/second-level/alter-self/"
 layout: spell-post
 categories: [Spells, Second Level]
 tags: [Artificer, Sorcerer, Wizard]
-source: "Xanathar's Guide to Everything (XGtE)"
+source: "PHB"
 spell-level: 2nd-Level
 school: Transmutation
 casting-time: "1 Action"
