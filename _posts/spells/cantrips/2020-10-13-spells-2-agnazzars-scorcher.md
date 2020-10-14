@@ -3,13 +3,13 @@ title: Agnazzar's Scorcher
 permalink: "/spells/cantrips/agnazzars-scorcher/"
 layout: spell-post
 categories: [Spells, Cantrips]
-tags: [Cleric]
+tags: [Sorcerer, Wizard]
 source: "Xanathar's Guide to Everything (XGtE)"
 spell-level: Cantrip
 school: Evocation
 casting-time: "1 Action"
-range: "5 feet"
-components: "V, M (a holy symbol)"
+range: "30 feet"
+components: "V, S, M (a red dragon's scale)"
 duration: "Instantaneous"
 ---
 
