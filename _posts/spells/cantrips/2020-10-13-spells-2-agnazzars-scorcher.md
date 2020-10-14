@@ -1,11 +1,11 @@
 ---
 title: Agnazzar's Scorcher
-permalink: "/spells/cantrips/agnazzars-scorcher/"
+permalink: "/spells/second-level/agnazzars-scorcher/"
 layout: spell-post
-categories: [Spells, Cantrips]
+categories: [Spells, Second Level]
 tags: [Sorcerer, Wizard]
 source: "Xanathar's Guide to Everything (XGtE)"
-spell-level: Cantrip
+spell-level: 2nd-Level
 school: Evocation
 casting-time: "1 Action"
 range: "30 feet"
