@@ -4,7 +4,7 @@ permalink: "/spells/second-level/augury/"
 layout: spell-post
 categories: [Spells, Second Level]
 tags: [Cleric]
-source: "Xanathar's Guide to Everything (XGtE)"
+source: "Players Handbook"
 spell-level: 2nd-Level
 school: Divination (ritual)
 casting-time: "1 minute"
