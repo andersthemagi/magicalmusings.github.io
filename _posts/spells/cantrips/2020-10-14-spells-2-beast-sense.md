@@ -6,7 +6,7 @@ categories: [Spells, Second Level]
 tags: [Druid, Ranger]
 source: "Xanathar's Guide to Everything (XGtE)"
 spell-level: 2nd-Level
-school: Divination
+school: Divination (ritual)
 casting-time: "1 Action"
 range: "Touch"
 components: "S"
