@@ -6,7 +6,7 @@ categories: [Spells, Second Level]
 tags: [Cleric]
 source: "Xanathar's Guide to Everything (XGtE)"
 spell-level: 2nd-Level
-school: Divination
+school: Divination (ritual)
 casting-time: "1 minute"
 range: "self"
 components: "V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)"
