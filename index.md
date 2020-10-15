@@ -28,6 +28,8 @@ Feel free to peruse these pages to your hearts content!
 
 Happy [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)!! 
 
+<a href="/loremasters/">**See a running list of all our contributors and player loremasters here!**</a>
+
 Feedback and contributions are more than welcome on this project! All contributors are expected to be following the [Contributor Covenant.](https://www.contributor-covenant.org/) You can find information on what that entails in the ```code_of_conduct.md``` file located in the main directory. 
 
 In general, I follow the "fork-and-pull" Git workflow. 

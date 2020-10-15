@@ -1,5 +1,5 @@
 ---
-title: Loremaster Registry
+title: Loremasters and Contributors
 permalink: /loremasters/
 layout: post
 ---
