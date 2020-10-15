@@ -7,6 +7,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/magicalmusings/magicalmusings.github.io)
 
 ![Hacktoberfest](https://img.shields.io/github/hacktoberfest/2020/magicalmusings/magicalmusings.github.io)
+![Contributors](https://img.shields.io/github/contributors-anon/magicalmusings/magicalmusings.github.io)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 ![License](https://img.shields.io/github/license/magicalmusings/magicalmusings.github.io)
 
