@@ -3,3 +3,4 @@ rvm:
   - 2.7.2
   
 script: "bundle exec jekyll build"
+script: "bundle exec htmlproofer ./_site --disable-external"
