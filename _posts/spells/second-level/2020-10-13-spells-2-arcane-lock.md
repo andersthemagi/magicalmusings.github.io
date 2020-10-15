@@ -4,7 +4,7 @@ permalink: "/spells/second-level/arcane-lock/"
 layout: spell-post
 categories: [Spells, Second Level]
 tags: [Artificer, Wizard]
-source: "Xanathar's Guide to Everything (XGtE)"
+source: "PHB"
 spell-level: 2nd-Level
 school: Abjuration
 casting-time: "1 Action"

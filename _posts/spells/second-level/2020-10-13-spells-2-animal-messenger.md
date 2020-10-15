@@ -4,7 +4,7 @@ permalink: "/spells/second-level/animal-messenger/"
 layout: spell-post
 categories: [Spells, Second Level]
 tags: [Bard, Druid, Ranger]
-source: "Xanathar's Guide to Everything (XGtE)"
+source: "PHB"
 spell-level: 2nd-Level
 school: Enchantment
 casting-time: "1 Action"
