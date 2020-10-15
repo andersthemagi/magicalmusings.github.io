@@ -9,7 +9,7 @@ spell-level: "4th-level"
 school: Divination
 casting-time: "1 Action"
 range: "30 ft"
-components: "V, S, M *"
+components: "V, S, M (a bit of bat fur)"
 duration: "Concentration, up to 1 hour"
 ---
 
