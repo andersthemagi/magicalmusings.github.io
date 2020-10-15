@@ -10,4 +10,12 @@ A running list of all the contributors and players that have helped me to stay s
 |Christina Pruneski|    2     |
 |Christian Sepulveda|   2   |
 |Keoni Casuga | 1 | 
-|<a href="https://github.com/XiledCreator">@XiledCreator</a>| -- |
+
+|Contributor|
+|:---------:|
+|<a href="https://github.com/bitclicker">@bitclicker</a>|
+|<a href="https://github.com/ChrisSpangler">Chris Spangler</a>|
+|<a href="https://github.com/cheukky">Cheuk Tse</a>|
+|<a href="https://github.com/Isaac-Tait">Isaac Tait</a>|
+|<a href="https://github.com/gremlin97">Kunal Kasodekar</a>|
+|<a href="https://github.com/XiledCreator">@XiledCreator</a>|
