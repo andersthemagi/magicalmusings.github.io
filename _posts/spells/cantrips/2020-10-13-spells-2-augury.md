@@ -4,7 +4,7 @@ permalink: "/spells/second-level/augury/"
 layout: spell-post
 categories: [Spells, Second Level]
 tags: [Cleric]
-source: "Players Handbook"
+source: "Player's Handbook (PHB)"
 spell-level: 2nd-Level
 school: Divination (ritual)
 casting-time: "1 minute"
