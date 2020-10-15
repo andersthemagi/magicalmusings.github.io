@@ -8,7 +8,7 @@ source: "Basic Rules (PHB)"
 spell-level: "4th-level"
 school: Abjuration
 casting-time: "1 Action"
-range: "Self (30 ft)"
+range: "Self (30-foot radius)"
 components: "V"
 duration: "Concentration, up to 10 minutes"
 ---
