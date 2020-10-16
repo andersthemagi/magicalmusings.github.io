@@ -4,7 +4,7 @@ permalink: "/spells/second-level/dragons-breath/"
 layout: spell-post
 categories: [Spells, Second Level]
 tags: [Sorcerer, Wizard]
-source: "Player's Handbook (PHB)"
+source: "Xanathar's Guide to Everything (XGtE)"
 spell-level: 2nd-Level
 school: Conjuration
 casting-time: "1 Bonus Action"
