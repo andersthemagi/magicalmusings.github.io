@@ -35,7 +35,7 @@ The Free Lances are an Adventuring Guild located in the city of Fairhaven that w
 |Name|Gender|Level|Race|Class|Player|
 |:--:|:---:|:--:|:---:|:----:|:----:|
 |Alzarif Valkas|M|2|Changeling|Aberrant Mind Sorcerer|Andres S.|
-|Ana|F|2|Half-Elf|Death Domain Cleric of The Keeper|Christian S.|
+|Ana|F|2|Mark of Detection Khoravar|Death Domain Cleric of The Keeper|Christian S.|
 |Bee / Diva Thiccums|NB|2|Changeling|Bard|Christina P.|
 |Gallywix|M|2|Goblin|Rogue|Keoni C.|
 |Leon|M|2|Human|Paladin of Aureon|Sofie R.|
