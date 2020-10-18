@@ -79,4 +79,4 @@ Please contact Andres Sepulveda at [magical.musings2020@gmail.com](mailto:magica
 
 ## Related Projects 
 
-<a href="/xendros-bot/"><h3>Xendros Bot</h3></a>
+<h3><a href="/xendros-bot/">Xendros Bot</a></h3>
