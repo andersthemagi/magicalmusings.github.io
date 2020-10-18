@@ -7,9 +7,11 @@ baseURL: "/magicalmusings.github.io/"
 # for a clean URL
 permalink: :slug
 
-exclude: [vendor]
-
 exclude:
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - .jekyll-cache
 
 incremental: true
