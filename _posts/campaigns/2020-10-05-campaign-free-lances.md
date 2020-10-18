@@ -25,7 +25,6 @@ author: Andres Sepulveda
 **Setting:** Eberron, 5th Edition
 
 
-
 ## Overview 
 
 The Free Lances are an Adventuring Guild located in the city of Fairhaven that will take all manner of jobs, regardless of their size or difficulty. The adventurers in the Free Lances are as unique and diverse as the quests they go on, and nothing will stop our heroes from their ultimate goal! ...wait... what's their goal? 
