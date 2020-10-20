@@ -3,7 +3,7 @@ title: Blight
 permalink: "/spells/fourth-level/blight/"
 layout: spell-post
 categories: [Spells, Fourth Level]
-tags: [Druid,Sorcerer,Warlock,Wizard]
+tags: [Druid, Sorcerer, Warlock, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "4th-level"
 school: Necromancy
@@ -19,7 +19,4 @@ If you target a plant creature or a magical plant, it makes the saving throw wit
 
 If you target a nonmagical plant that isn't a creature, such as a tree or shrub, it doesn't make a saving throw, it simply withers and dies.
 
-***At Higher Levels***
-
-When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
-You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished.
+***At Higher Levels*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
