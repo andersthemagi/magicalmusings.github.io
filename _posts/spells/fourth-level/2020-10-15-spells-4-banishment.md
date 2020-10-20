@@ -3,7 +3,7 @@ title: Banishment
 permalink: "/spells/fourth-level/banishment/"
 layout: spell-post
 categories: [Spells, Fourth Level]
-tags: [Cleric,Paladin,Sorcerer,Warlock,Wizard]
+tags: [Cleric, Paladin, Sorcerer, Warlock, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "4th-level"
 school: Abjuration
