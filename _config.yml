@@ -1,13 +1,20 @@
 title: "Magical Musings"
 description: "Ramblings of an aspiring Wizard."
 tagline: "Ramblings of an aspiring Wizard."
-theme: "jekyll-theme-leaf"
+# theme: jekyll-theme-leaf
 baseURL: "/magicalmusings.github.io/"
 
 # for a clean URL
 permalink: :slug
 
-exclude: [vendor]
+exclude:
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .jekyll-cache
+
+incremental: true
 
 markdown: kramdown
 
@@ -21,3 +28,4 @@ social:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-include-cache

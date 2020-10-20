@@ -3,7 +3,7 @@ title: Confusion
 permalink: "/spells/fourth-level/confusion/"
 layout: spell-post
 categories: [Spells, Fourth Level]
-tags: [Bard,Druid,Sorcerer,Wizard]
+tags: [Bard, Druid, Sorcerer, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "4th-level"
 school: Enchantment
@@ -29,8 +29,6 @@ An affected target can't take reactions and must roll a d10 at the start of each
 
 
 
-***At Higher Levels***
-
-When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
+***At Higher Levels*** When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
 
 
