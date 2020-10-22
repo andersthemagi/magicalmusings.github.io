@@ -3,7 +3,7 @@ title: Enthrall
 permalink: "/spells/second-level/enhance-ability/"
 layout: spell-post
 categories: [Spells, Second Level]
-tags: [ABard, Warlock]
+tags: [Bard, Warlock]
 source: "Player's Handbook (PHB)"
 spell-level: 2nd-Level
 school: Enchantment
