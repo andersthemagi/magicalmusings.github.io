@@ -76,3 +76,7 @@ This site was made using the <a href="https://supunkavinda.github.io/jekyll-them
 All content on this website is either mine or attributed to the author / content creators with sources. When possible, I will indicate any licensing or permissions regarding the information on the given page for said content. Official Dungeons and Dragons 5th Edition Rules are provided through the 5th Edition System Reference Document (5e SRD) by Wizards of the Coast under the [OGL 1.0a](https://5thsrd.org/license/). 
 
 Please contact Andres Sepulveda at [magical.musings2020@gmail.com](mailto:magical.musings2020@gmail.com) with any questions or concerns regarding any issues of this manner. 
+
+## Related Projects 
+
+<h3><a href="{{baseURL}}/xendros-bot/">Xendros Bot</a></h3>
