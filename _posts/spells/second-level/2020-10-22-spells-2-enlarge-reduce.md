@@ -1,9 +1,9 @@
 ---
-title: Enlarge/Reduce
-permalink: "/spells/second-level/enhance-ability/"
+title: "Enlarge/Reduce"
+permalink: "/spells/second-level/enlarge-reduce/"
 layout: spell-post
 categories: [Spells, Second Level]
-tags: [Artificer, Sorcerer, Wizard]
+tags: [Artificer, Bard, Druid, Sorcerer, Wizard]
 source: "Player's Handbook (PHB)"
 spell-level: 2nd-Level
 school: Transmutation
