@@ -3,7 +3,7 @@ title: Enhance Ability
 permalink: "/spells/second-level/enhance-ability/"
 layout: spell-post
 categories: [Spells, Second Level]
-tags: [Artificer, Bard, Cleric, Druid, Sorcerer]
+tags: [Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard]
 source: "Player's Handbook (PHB)"
 spell-level: 2nd-Level
 school: Transmutation
