@@ -18,7 +18,7 @@ author: Andres Sepulveda
 
 </div>
 
-***Last Updated: 5 October 2020***
+***Last Updated: 24 October 2020***
 
 **Timeframe:** September 2020 - Present
 
@@ -38,9 +38,28 @@ The Free Lances are an Adventuring Guild located in the city of Fairhaven that w
 |Bee / Diva Thiccums|NB|2|Changeling|Bard|Christina P.|
 |Gallywix|M|2|Goblin|Rogue|Keoni C.|
 |Leon|M|2|Human|Paladin of Aureon|Sofie R.|
+|[ TBD ]|???|2|???|???|Eddie P.|
 |Nevitana|F|1|Kalashtar|Druid|Emma W.|
 
 ## Session Log
+
+### Session 4 - TBD (23 Oct 20)
+
+Our party spent some time on their own the following day:
+
+- Gallywix took on some minor work and helped a small shifter girl pull her cat out of a tree. The shifter girl was scared of Gallywix, but was at least willing to pay him for helping her retrieve her pet. He then spend the rest of the afternoon enjoying the park in front of the Free Lance's guild hall. 
+- Ana visited her favorite bookstore in Fairhaven, Kureon's Oddities, to spend some quiet time reading and picking up a quick spell scroll for later use. The shop is located in the Shadowatch district of the Besalle's Ward, a mostly residential area with some smaller shops littered about.  Kureon Hallorand is a well-educated khoravar particularly knowledgeable about the distant past. He is known to many academics as the city's foremost expert on the War of the Mark, ironically a fact that our faithful Medani foundling does not know. 
+- Diva went back to performing at her tavern, the Lady in Blue, located in the Olladra's Gate district of the Besalle's ward. Olladra's Gate is known throughout the city for many famous taverns, and the Lady in Blue is no exception. Magicians and tricksters frequent the tavern and play harmless pranks on eachother when the performers aren't on stage, and the gnomish owner, Jak Lamplighter, is the biggest trickster of the bunch. As Diva completed her performance, her orphans Mayochup, Mayocue, and Kranch all walk in to keep her company and have dinner as the night continued. 
+
+The next morning, Gallywix noticed a gang of shifters making trouble at the Imperia Magewrights in the Free Lances Guild Hall. The two goblins working there, Dobs and Chut, were being harassed as to the whereabouts of a missing child in the Silverclaw pack. Gallywix quickly stepped up and decided nobody was going to harass his kin, and a fight broke out straight away. Ana shortly after she saw the conflict (and Gallywix get a nice claw to the face) and rushed in to support her ally, whipping the leader with necrotic energy to knock him out instantly. As the fight continued, Diva coincidentally sauntered into the guild hall with her breakfast bagel before realizing the mess that was occuring in the shop. It took some well placed strikes and the pleas of Dobs and Chut to stop the conflict, where the party learned that the child was stolen by a goblin in black robes, hence the Silverclaws thinking it was the goblins of the rival Kech Motrai. Their only lead was the information known by Lurro Silverclaw, matron of the pack and owner of the Souphouse 10 minutes down the road. 
+
+<img src="https://dungeonmusings.files.wordpress.com/2017/08/f36d44e074c0d30ef89ee178c160548a.jpg?w=660" alt="Ace Silverclaw" width="250px" style="float: right; margin-left: 50px">
+
+Lurro's Souphouse is as busy as it is cozy. The interior of the hall is always steamy, giving it the foggy atmosphere of a jungle, with the sharp tang of spices always hovering in the air. Our heroes found Lurro serving her patrons, and reluctant to give any information, especially to the likes of goblins. Diva quickly saw the look of a distraught mother and persuaded Lurro to talk more on the missing child, and they were brought into the kitchen to speak more. It turns out that both her granddaughter, Thicket, and her son Brahl are missing. Brahl went to go look for Thicket as soon as she disappeared, with no indication of where he went. The shifter gang leader, Ace, slowly regained conciousness before being berated by his 'ma' on his behavior. Ace agreed to take them to where Thicket was last seen.
+
+The location Ace takes them to is... oddly uneventful. A crossroads between alleyways that shows no sign of conflict or struggle. The party decides to investigate further, and although Gallywix found himself face first in a nearby barrell, Diva and Ana sussed out what looked to be an open manhole and decided to jump in. Ace declined to follow them in for one reason or another. 
+
+Our heroes continue into the sewers, coming into contact with repugnant odors and plenty of wall moss before arriving at a tunnel marked with a goblin symbol for 'here.' They decide to hop down and traverse the muck, quickly getting ambushed by two crocodiles that have made their home in the waterways. Ana and Gallywix both were pulled underwater by the crocodile's gaping maws, but they successfully dispatched the creatures before any serious injuries were sustained. 
 
 ### Session 3 - "Well, they don't usually tattoo babies..." (16 Oct 20)
 
