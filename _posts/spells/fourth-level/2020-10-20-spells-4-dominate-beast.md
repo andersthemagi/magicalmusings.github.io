@@ -3,7 +3,7 @@ title: Dominate Beast
 permalink: "/spells/fourth-level/dominate-beast/"
 layout: spell-post
 categories: [Spells, Fourth Level]
-tags: [Druid, Sorcerer]
+tags: [Druid, Ranger, Sorcerer]
 source: "Basic Rules (PHB)"
 spell-level: "4th-level"
 school: Enchantment
