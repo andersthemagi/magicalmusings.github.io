@@ -3,7 +3,7 @@ title: Divination
 permalink: "/spells/fourth-level/divination/"
 layout: spell-post
 categories: [Spells, Fourth Level]
-tags: [Cleric]
+tags: [Cleric, Druid, Wizard]
 source: "Basic Rules (PHB)"
 spell-level: "4th-level"
 school: Divination
