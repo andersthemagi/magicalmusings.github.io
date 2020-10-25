@@ -1,10 +1,10 @@
 ---
 title: Zephyr Strike
-permalink: "/spells/cantrips/zephyr-strike/"
+permalink: "/spells/first-level/zephyr-strike/"
 layout: spell-post
 categories: [Spells, First Level]
 tags: [Ranger]
-source: "Basic Rules (PHB)"
+source: "Xanathar's Guide to Everything (XGtE)"
 spell-level: "1st-level"
 school: Transmutation
 casting-time: "1 Bonus Action"
