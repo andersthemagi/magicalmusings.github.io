@@ -48,7 +48,7 @@ The Free Lances are an Adventuring Guild located in the city of Fairhaven that w
 
 ## Session Log
 
-### Session 4 - TBD (23 Oct 20)
+### Session 4 - Sewer Swimming (23 Oct 20)
 
 Our party spent some time on their own the following day:
 
