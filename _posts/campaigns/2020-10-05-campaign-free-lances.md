@@ -39,6 +39,7 @@ The Free Lances are an Adventuring Guild located in the city of Fairhaven that w
 |Gallywix|M|2|Goblin|Rogue|Keoni C.|
 
 ### Inactive Characters
+
 |Name|Gender|Level|Race|Class|Player|
 |:--:|:---:|:--:|:---:|:----:|:----:|
 |Alzarif Valkas|M|2|Changeling|Aberrant Mind Sorcerer|Andres S.|
