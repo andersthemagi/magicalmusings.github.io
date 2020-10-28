@@ -33,17 +33,22 @@ The Free Lances are an Adventuring Guild located in the city of Fairhaven that w
 
 |Name|Gender|Level|Race|Class|Player|
 |:--:|:---:|:--:|:---:|:----:|:----:|
-|Alzarif Valkas|M|2|Changeling|Aberrant Mind Sorcerer|Andres S.|
 |Ana|F|2|Mark of Detection Khoravar|Death Domain Cleric of The Keeper|Christian S.|
 |Bee / Diva Thiccums|NB|2|Changeling|Bard|Christina P.|
+|Chrome|M|2|Silver Ravenite Dragonborn|Fighter|Eddie P.|
 |Gallywix|M|2|Goblin|Rogue|Keoni C.|
+
+### Inactive Characters
+
+|Name|Gender|Level|Race|Class|Player|
+|:--:|:---:|:--:|:---:|:----:|:----:|
+|Alzarif Valkas|M|2|Changeling|Aberrant Mind Sorcerer|Andres S.|
 |Leon|M|2|Human|Paladin of Aureon|Sofie R.|
-|[ TBD ]|???|2|???|???|Eddie P.|
 |Nevitana|F|1|Kalashtar|Druid|Emma W.|
 
 ## Session Log
 
-### Session 4 - TBD (23 Oct 20)
+### Session 4 - Sewer Swimming (23 Oct 20)
 
 Our party spent some time on their own the following day:
 

@@ -50,7 +50,7 @@ The DM determines who might be surprised. If neither side tries to be stealthy, 
 
 If you’re surprised, you can’t move or take an action on your first turn of the combat, and you can’t take a Reaction until that turn ends. A member of a group can be surprised even if the other members aren’t.
 
-<img src="{{baseURL}}/assets/combat-quick-ref.jpg"
+<img src="https://preview.redd.it/e07ip3hu7lb31.jpg?width=640&crop=smart&auto=webp&s=bf686f575c843bacc1b61d778e578ed8c93091ee"
      width="350px"
      alt="Combat Quick Reference"
      style="float: right; margin-left: 50px; 
