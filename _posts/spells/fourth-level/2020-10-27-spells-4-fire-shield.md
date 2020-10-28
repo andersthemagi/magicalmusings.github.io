@@ -3,7 +3,7 @@ title: Fire Shield
 permalink: "/spells/fourth-level/fire-shield"
 layout: spell-post
 categories: [Spells, Fourth Level]
-tags: [Wizard]
+tags: [Druid, Sorcerer, Wizard]
 source: "Players Handbook (PHB)"
 spell-level: "4th-level"
 school: Evocation
