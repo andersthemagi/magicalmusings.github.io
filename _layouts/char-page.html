@@ -1,0 +1,289 @@
+---
+layout: default
+---
+
+<style>
+     /* Style the buttons that are used to open and close the accordion panel */
+    .accordion {
+        background-color: white;
+        color: white;
+        cursor: pointer;
+        padding: 18px;
+        width: 100%;
+        text-align: left;
+        border: none;
+        border-radius: 20px;
+        outline: none;
+        transition: 0.4s;
+        font-size: 24px;
+    }
+
+    /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+    .active, .accordion:hover {
+        background-color: #ccc;
+    }
+
+    .accordion:after {
+        content: '\02795'; /* Unicode character for "plus" sign (+) */
+        font-size: 13px;
+        color: #777;
+        float: right;
+        margin-left: 5px;
+    }
+
+    .active:after {
+        content: "\2796"; /* Unicode character for "minus" sign (-) */
+    }
+
+    .button {
+        transition-duration: 0.4s;
+    }
+
+    .buttons {
+        float: right;
+        margin-bottom: 20px;
+    }
+
+    /* Upper Buttons CSS */
+    .next-turn-btn {
+        background-color: white;
+        color: black;
+        border: 2px solid #555555;
+        border-radius: 4px;
+        padding: 15px 32px;
+    }
+
+    .next-turn-btn:hover {
+        background-color: #555555; /* Green */
+        fill: white;
+    }
+
+    .rest-icon {
+        margin-bottom: 10px;
+        color: white;
+        filter: brightness(0) invert(1);
+    }
+
+    .short-rest-btn {
+        background-color: white;
+        color: black;
+        border: 2px solid #4CAF50;
+        padding: 15px 32px;
+        border-radius: 4px;
+    }
+
+    .short-rest-btn:hover {
+        background-color: #4CAF50; /* Green */
+        color: white;
+    }
+
+    .long-rest-btn {
+        background-color: white;
+        color: black;
+        border: 2px solid #4CAF50;
+        padding: 15px 32px;
+        border-radius: 4px;
+    }
+
+    .long-rest-btn:hover {
+        background-color: #4CAF50; /* Green */
+        color: white;
+    }
+
+    /* specific accordion styling / coloring */
+
+    .movement {
+        background-color: lightskyblue;
+    }
+    
+    .movement:after {
+        content: none;
+    }
+
+    .movement-input {
+        border: none;
+        background: none;
+        border-bottom: 2px solid white;
+        font-size: 24px;
+        width: 30px;
+    }
+
+    .movement-increment {
+        border: 2px solid white;
+        color: white;
+        border-radius: 4px;
+        border-color: white;
+        font-size: 24px;
+        background: lightskyblue;
+    }
+
+    .movement-decrement {
+        border: 2px solid white;
+        color: white;
+        border-radius: 4px;
+        border-color: white;
+        font-size: 24px;
+        background: lightskyblue;
+    }
+
+    .col {
+        display: inline-block;
+        text-align: center;
+        width: 19%;
+        border: 2px solid white;
+        border-radius: 4px;
+    }
+
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+        float: center;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .actions {
+        background-color: limegreen;
+    }
+
+    .std-actions-hdr {
+        padding-top: 10px;
+    }
+    
+    .std-actions-hdr, .char-actions-hdr {
+        text-align: center;
+    }
+
+    hr {
+        width: 80%;
+        margin: auto;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    .bonus-actions {
+        background-color: orange;
+    }
+
+    .reactions {
+        background-color: red;
+    }
+
+    .free-actions {
+        background-color: yellow;
+    }
+
+    /* Style the accordion panel. Note: hidden by default */
+    .panel {
+        padding: 0 18px;
+        background-color: white;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.2s ease-out;
+    } 
+
+</style>
+
+<div class="buttons">
+    <button class="next-turn-btn">
+        <img class="rest-icon" src="https://www.flaticon.com/svg/static/icons/svg/660/660276.svg" width="56px">
+        <h5>Next Turn</h5>
+    </button>
+    <button class="short-rest-btn">
+        <img class="rest-icon" src="https://www.flaticon.com/svg/static/icons/svg/2146/2146163.svg" width="56px">
+        <h5>Short Rest</h5>
+    </button>
+    <button class="long-rest-btn">
+        <img class="rest-icon" src="https://www.flaticon.com/svg/static/icons/svg/865/865779.svg"
+        witdh="50px">
+        <h5>Long Rest</h5>
+    </button>
+</div>
+
+<div>
+    <h1>{{ page.char-name }}</h1>
+</div>
+
+<div>
+<button class="accordion movement">Movement:   
+    <input type="text" class="movement-input" maxlength="2"> / {{ page.mvmt }} Feet 
+    <input type="button" class="movement-increment" value = "- 5">
+    <input type="button" class="movement-decrement" value = "+5">
+</button>
+</div>
+
+<button class="accordion actions">Actions</button>
+<div class="panel">
+    <h2 class="std-actions-hdr">Standard Actions</h2>
+    <div class="std-actions">
+        <div class="row">
+            <div class="col">
+                <h3>Attack</h3>
+            </div>
+            <div class="col">
+                <h3>Cast a Spell</h3>
+            </div>
+            <div class="col">
+                <h3>Dash</h3>
+            </div>
+            <div class="col">
+                <h3>Disengage</h3>
+            </div>
+            <div class="col">
+                <h3>Dodge</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h3>Help</h3>
+            </div>
+            <div class="col">
+                <h3>Hide</h3>
+            </div>
+            <div class="col">
+                <h3>Ready an Action</h3>
+            </div>
+            <div class="col">
+                <h3>Search</h3>
+            </div>
+            <div class="col">
+                <h3>Use an Object</h3>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <h2 class="char-actions-hdr">Character Specific Actions</h2>
+</div>
+
+<button class="accordion bonus-actions">Bonus Actions</button>
+<div class="panel">
+    Test
+</div>
+
+<button class="accordion reactions">Reactions</button>
+<div class="panel">
+    Test
+</div>
+
+<button class="accordion free-actions">Free Actions / Interactions</button>
+<div class="panel">
+    Test
+</div>
+
+<script>
+    var acc = document.getElementsByClassName("accordion");
+    var i;
+
+    for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var panel = this.nextElementSibling;
+        if (panel.style.maxHeight) {
+        panel.style.maxHeight = null;
+        } else {
+        panel.style.maxHeight = panel.scrollHeight + "px";
+        }
+    });
+    }
+</script>
