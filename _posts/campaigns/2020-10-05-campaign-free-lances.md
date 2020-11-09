@@ -35,7 +35,7 @@ The Free Lances are an Adventuring Guild located in the city of Fairhaven that w
 |:--:|:---:|:--:|:---:|:----:|:----:|
 |Ana|F|2|Mark of Detection Khoravar|Death Domain Cleric of The Keeper|Christian S.|
 |Bee / Diva Thiccums|NB|2|Changeling|Bard|Christina P.|
-|Chrome|M|2|Silver Ravenite Dragonborn|Fighter|Eddie P.|
+|Chrom|M|2|Silver Ravenite Dragonborn|Fighter|Eddie P.|
 |Gallywix|M|2|Goblin|Rogue|Keoni C.|
 
 ### Inactive Characters
@@ -47,6 +47,26 @@ The Free Lances are an Adventuring Guild located in the city of Fairhaven that w
 |Nevitana|F|1|Kalashtar|Druid|Emma W.|
 
 ## Session Log
+
+### Session 5 - A deal with a Devilman (30 Oct 20)
+
+We find our story beginning this time around in Rordan's Gate. A large open circle of bricks is lined with neat-looking houses. In the middle, a statue of a man in armor is covered with roosting birds. This plaza was dedicated to General Aronne Cestman, a prominent military officer in the middle of the Last War. The plaza itself is well kept and quiet, with the occasional groups of people passing by to get around the ward for the day. Nearby to the statue, we find a figure with a dark brown cloak sitting almost intentionally discretely with their hands covering their face. The shine of silver pokes out at moments when the sun reflects off of the figure's skin… or are they scales?
+
+<img src="https://i.redd.it/xxz8hohep6x31.jpg" alt="Chrom" width="250px" style="float: left; margin-right: 50px">
+
+An enforcer of the monster gang Daask, Chrom the Silver Dragonborn stood watch in protection of a paying client, Klara Cestman of Cestman Arms. He noted that there were some strange hooded figures approaching the shop and ran to investigate. It was really too bad that Chrom forgot it was Hallow's Eve! The poor kids looking for treats were met with an intimidating dragon-man telling them to leave. And leave they did. Klara was disappointed that Daask would intimidate children on a holiday, but figured some candy would sweeten Chrom's mood. Later, Chrom decided to visit Starpeak's Ale House for a quick bite. The restauraunt is one of the few who sell traditional dwarven ale, and has a reputation for some of the best food in the city. Chrom gives some of the candy to a couple of rowdy teens, only to find that they were magical candies. He washes down his sandwich with a fine dwarven ale and enjoys the sights and sounds of the patrons around him. 
+
+Back in the sewers, the rest of the party had just finished beating the daylights out of two crocodiles that had attacked them. As they pushed on into the sewers, they stumbled upon a metal door that Diva yanked down with little effort. The door led into a giant cesspool of muck and gunk littered with various amount of junk. Ana noted there was a ladder-like arrangement of pipes leading up to an overhang. Upon reaching the overhang, the party found some belongings and a note reading ***"They took my daughter, I'll take their lives, the orb is the key"***. Before leaving the cesspool, a stray bear trap caught Ana's leg and dealt some damage, but nothing to permanently injure her. 
+
+Chrom had finished his drink and decided to head home once an ogre tapped him on the shoulder to leave his post. As he was walking closer to Grangehall Ward, he noticed a suspicious dark-robed figure skulking about in the darkness and investigated. The goblin man quickly ran at the sight of the dragonborn, and a chase ensued. Whether it be by luck or by pure skill, Chrom managed to catch the strange goblin and interrogate him on his purpose out in the shadows. The goblin presumed Chrom was a member of the Royal Eyes, and spilled that there was something strange happening in the sewers. Chrom grabbed "Steve" under his arm and had the goblin indicate where they could enter the sewers, sliding down a pipe of sludge into the depths of the city.
+
+Our heroes in the sewers continued on and went through a narrow passageway before being attacked by several giant rats. By the end of the conflict, a single rat remained. This rat would have survived if it was not for the impact our dragonborn friend made upon landing directly on it. Chrom didn't recognize anyone around him, but Gallywix knew Chrom to be a member of Daask almost instantly (considering his illegal substance running for them previously). For some reason, Gallywix feigned recognition of this remarkable dragonborn, and the party agreed to coalesce to figure out what was at the end of this sewer passageway. 
+
+<img src="https://cdn.discordapp.com/attachments/756368941022052382/771970770556551178/9f657cf48cb8ebc783cb61d14731eed5.png" alt="The bearded devil" width="250px" style="float: right; margin-left: 50px">
+
+At the end of the corridor, a huge room coated in old blood contains a pentagram drawn in chalk with lit candles. A bearded devil sat trapped within this arcane circle, with a shifter man and girl laying at its feet. Ana attempts to cast Spare the Dying on the child, only to find that the life energy she was imbuing into the child was sapping from the man. Be it by the magic containing the devil or otherwise, the shifter man shrivels into a husk. Chrom decides to investigate farther into the room to find several goblin cultists chanting incantations to a crackling red orb. He decides that's too much for him to handle and slowly backs into the previous room before closing the door. Ana and Gallywix make a pact with the bearded devil. Ana requests eldritch power and for the devil to kill the goblins in the next room. Gallywix decides he also wants eldritch power from the devil. The devil happily allows the two to conditionally forfeit their souls before breaking the seal with his new found power, then subsequently burning the cultists in the next room to a fiery crisp. 
+
+The party takes the shifter girl (and "Steve") back to Lurro's Souphouse, where all the shifters in the room are shocked to see Thicket alive and well. Lurro is heartbroken that her sun died "at the hands of goblins" but is glad that Thicket is alive, and that there is a goblin in the room who can be blamed for all of this. Lurro makes a last remark to Diva telling her to take care as a fellow mother. Our heroes take Chrom to the Free Lances Guild Hall in order to register, as he is coincidentally needing some extra money to make ends meet. Jeff is sullied that there are more people that tolerate Gallywix on this planet. 
 
 ### Session 4 - Sewer Swimming (23 Oct 20)
 

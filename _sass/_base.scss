@@ -181,6 +181,13 @@ blockquote {
   padding-right: 110px;
 }
 
+@media (max-width: 1100px) {
+  .toc {
+    float: center;
+    margin: auto;
+  }
+}
+
 table {
   margin-bottom: $spacing-unit;
   width: 100%;
