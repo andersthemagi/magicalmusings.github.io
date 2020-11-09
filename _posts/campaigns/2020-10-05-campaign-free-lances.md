@@ -33,10 +33,10 @@ The Free Lances are an Adventuring Guild located in the city of Fairhaven that w
 
 |Name|Gender|Level|Race|Class|Player|
 |:--:|:---:|:--:|:---:|:----:|:----:|
-|Ana|F|3|Mark of Detection Khoravar|Death Domain Cleric of The Keeper|Christian S.|
+|Ana|F|3|Mark of Detection Khoravar|Death Domain Cleric of The Keeper / Fiend Warlock|Christian S.|
 |Bee / Diva Thiccums|NB|3|Changeling|Bard|Christina P.|
 |Chrom|M|3|Silver Ravenite Dragonborn|Fighter|Eddie P.|
-|Gallywix|M|3|Goblin|Rogue|Keoni C.|
+|Gallywix|M|3|Goblin|Arcane Trickster Rogue|Keoni C.|
 
 ### Dead Characters
 
@@ -86,6 +86,7 @@ Gallywix led the fight with several well-placed arrows piercing the eyes on the 
 #### Ana
 {:.no_toc}
 
+- Ana frequently now has nightmares about both the red orb in her possession, as well as the demon she made a pact with. The demon is fairly new to the "pact game" and frequently pressures her with goading statements. 
 - Spends 2 workweeks and 200 gp infusing an onyx with necrotic energy. Now has a "Keeper's Onyx" that works as a +1 arcane focus.
 - Spends 5 workweeks working for House Medani as a package inspector, makes 175 gp in profit.
 
@@ -102,6 +103,7 @@ Gallywix led the fight with several well-placed arrows piercing the eyes on the 
 #### Gallywix
 {:.no_toc}
 
+- Gallywix frequently has daymares about the demon he made a pact with previously. 
 - Spends 2 days teaching his kids the very basics of pickpocketing. Most likely they will need more time to get things down pat. 
 - Spends 25 days and 800 gp in order to start the Good Pan Bakery in Grangehall. Takes a loan from House Kundakar to pay that off in increments.
 - Spends 3 workweeks running the bakery, makes 94 gp in profits.
