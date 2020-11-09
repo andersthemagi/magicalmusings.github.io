@@ -33,20 +33,82 @@ The Free Lances are an Adventuring Guild located in the city of Fairhaven that w
 
 |Name|Gender|Level|Race|Class|Player|
 |:--:|:---:|:--:|:---:|:----:|:----:|
-|Ana|F|2|Mark of Detection Khoravar|Death Domain Cleric of The Keeper|Christian S.|
-|Bee / Diva Thiccums|NB|2|Changeling|Bard|Christina P.|
-|Chrom|M|2|Silver Ravenite Dragonborn|Fighter|Eddie P.|
-|Gallywix|M|2|Goblin|Rogue|Keoni C.|
+|Ana|F|3|Mark of Detection Khoravar|Death Domain Cleric of The Keeper|Christian S.|
+|Bee / Diva Thiccums|NB|3|Changeling|Bard|Christina P.|
+|Chrom|M|3|Silver Ravenite Dragonborn|Fighter|Eddie P.|
+|Gallywix|M|3|Goblin|Rogue|Keoni C.|
+
+### Dead Characters
+
+|Name|Gender|Level|Race|Class|Player|
+|:--:|:---:|:--:|:---:|:----:|:----:|
+|Alzarif Valkas|M|2|Changeling|Aberrant Mind Sorcerer|Andres S.|
 
 ### Inactive Characters
 
 |Name|Gender|Level|Race|Class|Player|
 |:--:|:---:|:--:|:---:|:----:|:----:|
-|Alzarif Valkas|M|2|Changeling|Aberrant Mind Sorcerer|Andres S.|
 |Leon|M|2|Human|Paladin of Aureon|Sofie R.|
 |Nevitana|F|1|Kalashtar|Druid|Emma W.|
 
 ## Session Log
+
+### Session 6 - Behold! (7 Nov 20)
+
+Our story begins this time around with Diva performing at the Lady in Blue as usual, except now she has a glamerweave dress she uses to weave mystical illusions into her performances. The crowd loves it, and she makes a good deal of money in tips from that performance alone. Diva at this point is well on her way to becoming a headliner for the Lady in Blue, rather than the opening act. 
+
+Ana, unfortunately, has been having strange dreams recently of death and destruction in relation to the red orb in her possession. That same night, Ana is attacked by a thief in the night. She notices the thief has a strange mark on their left hand, but not one she has seen in her work with House Medani, Orien, and Lyrandar. The assassin sustains a jaw injury on account of Ana's warhammer then promptly puts Ana to sleep with her mark. Ana's last moment of conciousness had her witness the thief grab the red orb out of her bag.
+
+<img src="https://cdn.discordapp.com/attachments/756368941022052382/774817072664412191/2Q.png" alt="Grexes the Warden" width="250px" style="float: right; margin-left: 50px">
+
+The following morning, Grexes, a well-knwon and respected Karrnathi Leonin amongst the members of the Free Lances, rouses Ana from her slumber. It seems that in the midst of escaping, the thief blew open a hole in Ana's room and created a great deal of noise, that of which Grexes came to investigate before knocking down her door. He brought Ana down to the main hall, where Alzarif, Diva and Gallywix were passing the time. While the rest of the party attempts to help Ana investigate, Gallywix is dragged by Jeff to meet with a visitor that requested him by name. A medusa from Daask sat at the other end of the table, and slid a bag full of "Dragon's Blood" vials and a set of addresses to deliver the product in the University of Wynarn, Shreve's End, the Orchid Court, and Shangha. Ana resolves to get more information about the orb from Kallista Xendros at the University of Wynarn.  
+
+Kallista is confused as to the nature of the orb, or the cultists that possessed it. She leads the party down into the Archives of Wynarn to find a Mark of Scribing gnome from House Sivis known as Quaji. Quaji only finds information on a "Blackheart Cult," goblin worshippers of the Dark Six that take their beliefs in the Shadow a little too seriously. In the meantime, Gallywix delivers Dragon's Blood to a group of nervous House Sivis students in their dorms. 
+
+The next stop in the investigation led back to House Medani, where Ana asked Taldor about whether the dragonmarks have any ability to make people sleep. Taldor shows Ana a list of dragonmarks, however Ana does not recognize any of them from the thief's hand. He assures Ana of the impossibility of an "aberrant" dragonmark being a part of the equation on account of the eradication of the 13th dragonmarked house, House Tarkanan, having taken place several hundred years prior. Gallywix stops by both Shreve's End and the Orchid Court to deliver to some shifters (who recognize him as a friend to the Silverclaws) and the twin sisters Alia and Jetra Naliamos of the Naliamos Brothers flower shop. 
+
+Finally, Ana stops by Kureon's Oddities to attempt a last ditch effort in finding information on the assailant with little success. Kureon notes that any entries on House Tarkanan have been tampered with or incomplete in his archives. Ana meets Dr. Tak Caldemus, a halfling dressed in singed dark clothing that has an unhealthy obsession with fire. Tak seems annoyed with Ana's questions not pertaining to fire and promptly leaves the bookstore. Our faithful goblin coincidentally makes one final stop in Shangha, and leaves the remaining Dragon's Blood with Nevitana, a kalashtar druid that telepathically directs him as she performs deep-state meditation to commune with Quori spirits. Ana's investigation leads to nothing conclusive on potential identifying marks, up until the healers in the downstairs House Jorasco enclave of the guild hall noted a strange patron that came in the morning before. She had a dislocated jaw that needed fixing, a strange tattoo on her left hand, and a necklace affixed with an emerald claw. Unfortunately, not much else is found to lead Ana towards finding the thief. 
+
+A couple of days later, and it is the 11th of Aryth in 998 YK, the late autumn period of the year and symbolic month for House Orien, heirs to the Mark of Passage. The 11th holds a special place in the hearts of Khorvaire's people as Thronehold Day. On this day in 996 YK (996 years after the kingdom of Galifar was founded) the treaty was ratified to end the Last War and recognize Aundair, Breland, Darguun, the Eldeen Reaches, Karrnath, the Lhazaar Principalities, the Mror Holds, Q'barra, the Talenta plains, Thrane, Valenar and Zliargo as sovereign nations in Khorvaire. The Treaty of Thronehold also established a common set of laws between these nations and diplomatic requirements to uphold the peace of the treaty. For many Aundairians, the threat and fear of impending doom very much lingers and the day itself is a bittersweet reminder of the cataclysm known to many as the Mourning, where the entire nation of Cyre was engulfed in powerful dark magics almost overnight. Many are happy that the war is over and that there can be some peace and quiet, although some do not believe the Eldeen Reaches should be considered sovereign.
+
+The festivities are mainly held in Nealford, close to the palace. Nearing the evening, Queen Aurala ir'Wynarn comes out to the balcony overlooking the festivities and delivers a speech commemorating the celebration. Diva sees, out of the corner of her eye, someone wearing a similar necklace to the patron described in House Jorasco a couple of days prior. In the midst of that speech, what looks to be a red glint of light rises in the distance. Red lightning begins to crackle from the glint, and all of a sudden a massive explosion rings out from the King's Rest in Besalle's Ward, and the necrotic energy rising up forms a set of green claws clutching at the red glint before it's pulled back towards the ground. Queen Aurala is quickly ushered to safety as our party members go to investigate the explosion. 
+
+Undead of all kinds litter what was one a bustling marketplace in the Besalle's Ward. In the distance, our adventurers can hear the clamor of civilians attempting to escape and members of the city watch calling out to each other in combat. Gallywix and Alzarif take the western path while Diva and Ana flanked east. Most of the undead were fairly unresponsive and went down without much struggle, almost as if they themselves weren't sure why they were up in the first place. 
+
+<img src="https://static.wikia.nocookie.net/forgottenrealms/images/c/c7/Beholder_zombie-5e.png/revision/latest?cb=20171011164729" alt="Beholder Zombie" width="250px" style="float: left; margin-right: 50px">
+
+All the destruction about the marketplace came to a head nearby the King's Rest, where four figures stood holding the very same orb stolen from Ana. A platinum blonde tiefling with curly horns, a dark clothed man bearing a skull face tattoo and a gothic dulcimer, Grexes, and Tak discussed what to do now that the orb had been used in such a brazen fashion. Floating above the fountain in the plaza was a beholder zombie, an aberration of myth seemingly resurrected for nefarious purposes. Diva began to converse with the group to little success, as the tattooed man, Drego Entarro, shrouded them in skeletal dark energy wings before escaping. Soon after, Ana began cursing and ranting on the audacity of them to steal and use the orb in such a manner. The beholder zombie caught wind of that noise, and the fight commenced. 
+
+Gallywix led the fight with several well-placed arrows piercing the eyes on the tendrils of the beholder zombie, while Ana shouted incantations and let off blasts of radiant fire to dispel the creature. Alzarif's eyes turned pale and his complexion dark as he began to attempt rending the mind (or what was left of a mind) from the creature. Diva sent a series of thunderous blasts into the beholder zombie before it attempted to fight back. Although the first ray from the beholder zombie did not amount to much when Ana was hit, Alzarif was not so lucky. The tendrils of the beholder zombie sent orbs of raw magical force into Alzarif's body. One by one, they ravaged him and left him gasping for air before the main eye brought its gaze upon him. A beam of almost nuclear necrotic energy engulfed Alzarif and eroded his being until there was nothing left but his belongings and dust. Alzarif had died to the hands of this beholder zombie. Diva was infuriated at the sight of Alzarif's suffering. She used all of her power to finally break the mind of the beholder zombie before leaving it a spasmic, heaping clump of rot in the plaza. Our heroes had won the day, but at what cost? And what of the orb now in the possession of Grexes and his compatriots?
+
+### Session 5.5 - Downtime Resolution (6 Nov 20)
+
+#### Ana
+{:.no_toc}
+
+- Spends 2 workweeks and 200 gp infusing an onyx with necrotic energy. Now has a "Keeper's Onyx" that works as a +1 arcane focus.
+- Spends 5 workweeks working for House Medani as a package inspector, makes 175 gp in profit.
+
+
+#### Diva
+{:.no_toc}
+
+- Spends 1 day helping to build an orphanage. Bee takes on a different form to not arouse suspicion or interest about Diva's personal life.
+- Spends 5 workweeks performing at the Lady in Blue, earns 202 gp from performances
+- Spends 2 workweeks and 200 gp to create an uncommon glamerweave dress adorned in various flora and fauna native to Khorvaire. 
+
+
+
+#### Gallywix
+{:.no_toc}
+
+- Spends 2 days teaching his kids the very basics of pickpocketing. Most likely they will need more time to get things down pat. 
+- Spends 25 days and 800 gp in order to start the Good Pan Bakery in Grangehall. Takes a loan from House Kundakar to pay that off in increments.
+- Spends 3 workweeks running the bakery, makes 94 gp in profits.
+- Spends 1 day visiting Kureon's Oddities with Ana to conduct research into golems and spells. Not much of consequence comes out of this research.
+- Spends 1 day to celebrate Hallow's Eve with kids and wife. Leelo births their sixth child, Gallywix names him Sypheros
+
+
 
 ### Session 5 - A deal with a Devilman (30 Oct 20)
 
