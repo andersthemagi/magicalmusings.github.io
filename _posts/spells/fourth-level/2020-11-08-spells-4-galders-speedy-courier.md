@@ -4,7 +4,7 @@ permalink: "/spells/fourth-level/galders-speedy-courier"
 layout: spell-post
 categories: [Spells, Fourth Level]
 tags: [Warlock, Wizard]
-source: "Players Handbook (PHB)"
+source: "Lost Laborartory of Kwalish"
 spell-level: "4th-level"
 school: Conjuration
 casting-time: "1 action"
