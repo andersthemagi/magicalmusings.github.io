@@ -3,7 +3,7 @@ title: Gravity Sinkhole
 permalink: "/spells/fourth-level/gravity-sinkhole"
 layout: spell-post
 categories: [Spells, Fourth Level]
-tags: [Graviturgy Wizard]
+tags: [Wizard]
 source: "Explorers Guide to Wildemount (EGW)"
 spell-level: "4th-level"
 school: Evocation
