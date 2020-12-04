@@ -34,8 +34,8 @@ The Free Lances are an Adventuring Guild located in the city of Fairhaven that w
 |Name|Gender|Level|Race|Class|Player|
 |:--:|:---:|:--:|:---:|:----:|:----:|
 |Ana|F|3|Mark of Detection Khoravar|Death Domain Cleric of The Keeper / Fiend Warlock|Christian S.|
-|Bee / Diva Thiccums|NB|3|Changeling|Bard|Christina P.|
-|Chrom|M|3|Silver Ravenite Dragonborn|Fighter|Eddie P.|
+|Bee / Diva Thiccums|NB|3|Changeling|College of the Baladeer Bard|Christina P.|
+|Chrom|M|3|Silver Ravenite Dragonborn|Renegade Fighter|Eddie P.|
 |Gallywix|M|3|Goblin|Arcane Trickster Rogue|Keoni C.|
 
 ### Dead Characters
