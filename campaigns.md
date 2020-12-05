@@ -18,7 +18,5 @@ A list of all the campaigns/one-shots I've participated in. Each campaign, where
 - <a href="https://magicalmusings.github.io/campaigns/home-meepo/"> Home Meepo (December 2019 - January 2020) </a>
 - <a href="https://magicalmusings.github.io/campaigns/pmef/"> Praeron's Expeditionary Force (August 2019 - December 2019) </a>
   - <a href="https://magicalmusings.github.io/one-shots/wendys/">The Wendy's One-Shot (December 2019)</a>
-
-
 - Starside All-Stars (August 2019 - December 2019)
 - Gabaldon Westmarches (August 2017 - May 2018)
