@@ -5,6 +5,19 @@ layout: post
 categories: Campaigns
 author: Andres Sepulveda
 ---
+
+<hr>
+
+<div class="toc">
+
+### Table of Contents
+{:.no_toc}
+
+* TOC
+{:toc}
+
+</div>
+
 # Legendary
 
 ## Deck of Fates
