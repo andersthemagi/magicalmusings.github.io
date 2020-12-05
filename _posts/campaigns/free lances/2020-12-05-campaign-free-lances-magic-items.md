@@ -80,7 +80,7 @@ This pitch-black onyx has been infused with necrotic energy after several ritual
 ## Small Beholder Eye
 
 Acts as an arcane focus. An eye can cast a particular beholder ray once per day. The ray is chosen randomly by the DM upon receiving the eye.
-# Commons
+# Common
 
 ## Paper Birds
 
