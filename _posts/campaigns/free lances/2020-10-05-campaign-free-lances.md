@@ -29,10 +29,6 @@ author: Andres Sepulveda
 
 The Free Lances are an Adventuring Guild located in the city of Fairhaven that will take all manner of jobs, regardless of their size or difficulty. The adventurers in the Free Lances are as unique and diverse as the quests they go on, and nothing will stop our heroes from their ultimate goal! ...wait... what's their goal? 
 
-## Social Contract
-
-D&D is first and foremost meant to be a fun-for-all experience. If one or more participants aren't having fun, the game won't last long. You can find a "formal" specification of our table and homebrew campaign rules <a href="https://magicalmusings.github.io/campaigns/free-lances/social-contract/">here</a>. 
-
 ## Characters
 
 |Name|Gender|Level|Race|Class|Player|
