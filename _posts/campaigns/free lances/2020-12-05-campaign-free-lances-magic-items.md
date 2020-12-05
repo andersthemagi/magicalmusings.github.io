@@ -20,17 +20,23 @@ author: Andres Sepulveda
 
 # Legendary
 
+<hr>
+
 ## Deck of Fates
 
 ***Requires Attunement (by an oracle).*** The Deck of Fates is a deck of 103 cards, which is most commonly found wrapped in black papyrus, covered with arcane and demonic symbols. The decks were created by Archduke Glaxus, former ruler of the sixth layer of Hell, Malbolge, as a means to toy with mortals. Each card’s depicted arcana is gilded with a gold-like substance crafted by Glaxus’ infamous Kyton workshop. No one knows just how many of the tarot decks exist. After a card is revealed from the deck, the arcana depicted is traced by a glowing light and the card turns to ash in the wielder’s hands. 
 
 # Very Rare
 
+<hr>
+
 ## Heart of the Bone Knight
 
 ***Requires Attunement.*** Grants advantage on saving throws against spells and other magical effects. 
 
 # Rare
+
+<hr>
 
 ## Bone Knight Longsword
 
@@ -51,6 +57,8 @@ The Large Beholder Eye can be mastercrafted (smith’s tools) into a grotesque S
 ***Requires Attunement.*** As a bonus action, the attuned creature can choose one undead that you can see within 60 feet of you. That creature must make a Charisma saving throw equal to your spell DC or become friendly and obeys your control. 
 
 # Uncommon
+
+<hr>
 
 ## Bag of Holding
 
@@ -81,6 +89,8 @@ This pitch-black onyx has been infused with necrotic energy after several ritual
 
 Acts as an arcane focus. An eye can cast a particular beholder ray once per day. The ray is chosen randomly by the DM upon receiving the eye.
 # Common
+
+<hr>
 
 ## Paper Birds
 
