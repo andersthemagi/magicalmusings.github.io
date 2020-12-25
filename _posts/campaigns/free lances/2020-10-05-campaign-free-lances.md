@@ -29,15 +29,20 @@ author: Andres Sepulveda
 
 The Free Lances are an Adventuring Guild located in the city of Fairhaven that will take all manner of jobs, regardless of their size or difficulty. The adventurers in the Free Lances are as unique and diverse as the quests they go on, and nothing will stop our heroes from their ultimate goal! ...wait... what's their goal? 
 
+## Adventurer's Accord
+
+You can read our party's "adventurer's accord," a document that specifies expectations, house rules, soft/hard limits and more, <a href="https://magicalmusings.github.io/campaigns/free-lances/adventurers-accord/">on this page.</a>
+
 ## Characters
 
 |Name|Gender|Level|Race|Class|Player|
 |:--:|:---:|:--:|:---:|:----:|:----:|
-|Ana|F|3|Mark of Detection Khoravar|Death Domain Cleric of The Keeper / Fiend Warlock|Christian S.|
-|Bee / Diva Thiccums|NB|3|Changeling|College of the Baladeer Bard|Christina P.|
-|Chrom|M|3|Silver Ravenite Dragonborn|Renegade Fighter|Eddie P.|
-|Gallywix|M|3|Goblin|Arcane Trickster Rogue|Keoni C.|
-
+|Ana|F|2/2|Mark of Detection Khoravar|Death Domain Cleric of The Keeper / Fiend Warlock|Christian S.|
+|Bee / Diva Thiccums|NB|4|Changeling|College of the Baladeer Bard|Christina P.|
+|Chrom|M|4|Silver Ravenite Dragonborn|Renegade Fighter|Eddie P.|
+|Flint Silverclaw|4|Beasthide Shifter|Silverclaw Bruiser Pugilist|Andres S.|
+|Gallywix|M|4|Goblin|Arcane Trickster Rogue|Keoni C.|
+|TBD|M|4|Mark of Making Human|Order of Scribes Wizard|Caleb L.|
 ### Dead Characters
 
 |Name|Gender|Level|Race|Class|Player|
@@ -57,7 +62,23 @@ You can find a running list of all the magic items encountered (and identified) 
 
 ## Session Log
 
+### Session 10 - TBD (28 Dec 20)
+DM: Keoni C.
+
+TBD
+
+### Session 9 - "Who named all the civilians after pornstars?" (18 Dec 20)
+DM: Andres S.
+
+Log still a WIP. 
+
+### Session 8 - Madness at the Feast Sojourn (11 Dec 20)
+DM: Andres S.
+
+Log still a WIP. 
+
 ### Session 7 - SPARE RIBS (4 Dec 20)
+DM: Andres S.
 
 Not much had changed from the last session up until now. Besalle's Ward was still in shambles, the beholder zombie laid dead once more, and Alzarif was nothing more than a steaming pile of ashes. After killing the beholder zombie, Diva went to inspect the remains, only to find that there were white hairs scattered within the ashes. The eyestalks of the beholder zombie began to twitch as the creature lifted itself back up off of the ground. A shot quickly rang out from the other side of the market from none other than Chrom as he closed in with two guards he had saved from death previously. For real this time, the beholder zombie had been killed.
 
@@ -70,6 +91,7 @@ Upon entry, our party was presented with a set of three stairs leading down deep
 They continue deeper until they slide open the doors to enter the main chamber, where several more soldiers in white-green tunics and a knight in armor covered in bone were searching for a "child with the box." Gallywix entered first and snuck in, steathily taking out the first soldier before he slumped in all his armor to the ground. The bone knight began talking and closing in on Gallywix along with his soldiers up until Chrom ran from behind a pillar and shot one of the other soldiers. The fight went on relatively uneventful, with many of the soldiers falling quickly to the hands of our heroes. Although the bone knight managed to get a hold of Vivi near the end, a well-placed strike by Diva killed the assailant where he stood. 
 
 ### Session 6 - Behold! (7 Nov 20)
+DM: Andres S.
 
 Our story begins this time around with Diva performing at the Lady in Blue as usual, except now she has a glamerweave dress she uses to weave mystical illusions into her performances. The crowd loves it, and she makes a good deal of money in tips from that performance alone. Diva at this point is well on her way to becoming a headliner for the Lady in Blue, rather than the opening act. 
 
@@ -98,7 +120,7 @@ All the destruction about the marketplace came to a head nearby the King's Rest,
 Gallywix led the fight with several well-placed arrows piercing the eyes on the tendrils of the beholder zombie, while Ana shouted incantations and let off blasts of radiant fire to dispel the creature. Alzarif's eyes turned pale and his complexion dark as he began to attempt rending the mind (or what was left of a mind) from the creature. Diva sent a series of thunderous blasts into the beholder zombie before it attempted to fight back. Although the first ray from the beholder zombie did not amount to much when Ana was hit, Alzarif was not so lucky. The tendrils of the beholder zombie sent orbs of raw magical force into Alzarif's body. One by one, they ravaged him and left him gasping for air before the main eye brought its gaze upon him. A beam of almost nuclear necrotic energy engulfed Alzarif and eroded his being until there was nothing left but his belongings and dust. Alzarif had died to the hands of this beholder zombie. Diva was infuriated at the sight of Alzarif's suffering. She used all of her power to finally break the mind of the beholder zombie before leaving it a spasmic, heaping clump of rot in the plaza. Our heroes had won the day, but at what cost? And what of the orb now in the possession of Grexes and his compatriots?
 
 ### Session 5.5 - Downtime Resolution (6 Nov 20)
-
+DM: Andres S.
 #### Ana
 {:.no_toc}
 
@@ -129,6 +151,7 @@ Gallywix led the fight with several well-placed arrows piercing the eyes on the 
 
 
 ### Session 5 - A deal with a Devilman (30 Oct 20)
+DM: Andres S.
 
 We find our story beginning this time around in Rordan's Gate. A large open circle of bricks is lined with neat-looking houses. In the middle, a statue of a man in armor is covered with roosting birds. This plaza was dedicated to General Aronne Cestman, a prominent military officer in the middle of the Last War. The plaza itself is well kept and quiet, with the occasional groups of people passing by to get around the ward for the day. Nearby to the statue, we find a figure with a dark brown cloak sitting almost intentionally discretely with their hands covering their face. The shine of silver pokes out at moments when the sun reflects off of the figure's skin… or are they scales?
 
@@ -149,6 +172,7 @@ At the end of the corridor, a huge room coated in old blood contains a pentagram
 The party takes the shifter girl (and "Steve") back to Lurro's Souphouse, where all the shifters in the room are shocked to see Thicket alive and well. Lurro is heartbroken that her sun died "at the hands of goblins" but is glad that Thicket is alive, and that there is a goblin in the room who can be blamed for all of this. Lurro makes a last remark to Diva telling her to take care as a fellow mother. Our heroes take Chrom to the Free Lances Guild Hall in order to register, as he is coincidentally needing some extra money to make ends meet. Jeff is sullied that there are more people that tolerate Gallywix on this planet. 
 
 ### Session 4 - Sewer Swimming (23 Oct 20)
+DM: Andres S.
 
 Our party spent some time on their own the following day:
 
@@ -167,6 +191,7 @@ The location Ace takes them to is... oddly uneventful. A crossroads between alle
 Our heroes continue into the sewers, coming into contact with repugnant odors and plenty of wall moss before arriving at a tunnel marked with a goblin symbol for 'here.' They decide to hop down and traverse the muck, quickly getting ambushed by two crocodiles that have made their home in the waterways. Ana and Gallywix both were pulled underwater by the crocodile's gaping maws, but they successfully dispatched the creatures before any serious injuries were sustained. 
 
 ### Session 3 - "Well, they don't usually tattoo babies..." (16 Oct 20)
+DM: Andres S.
 
 As the party made it back to the Guild Hall, "Jeff" provided our heroes with another note from a KX detailing where to bring the bag. The originator of the quest has actually been a professor at the University of Wynarn on the opposite side of town. Gallywix charged into the professor's office to be greeted by a motherly looking tiefling by the name of Kallista Xendros.
 
@@ -183,6 +208,7 @@ Next, our heroes decided to stop by the market in the Besalle's Ward nearby. Gal
 Later, our party spent a couple of days idling in and out of the Free Lance's guild hall before Taldor d'Medani set foot with his consort into the hall to find Ana. They noted that they could not find any records of her heritage, and asked for her parent's names. "Ferris and Agnes" was what Ana said before Taldor left her an open invitation to come and reclaim her heritage, if she so wishes. He then promptly left the hall. 
 
 ### Session 2 - A Dance with the Inspired (10 Oct 20)
+DM: Andres S.
 
 When the party woke up after being attacked by Needle Blights the previous evening, Gallywix was intent on making the team some breakfast. He actually managed to find some bird eggs and mushrooms to make a decent omelette. Ana and Leon both decided to help by finding herbs and tomatoes respectively, however only Ana found anything worthwhile in the outcroping. Once breakfast was over, the party set out to the presumed location of the bandits. 
 
@@ -191,6 +217,7 @@ Our adventurers came to the clearing in the cover of night. Although not everyon
 As the party made it back to the Guild Hall, "Jeff" provided our heroes with another note from a KX detailing where to bring the bag. The originator of the quest has actually been a professor at the University of Wynarn on the opposite side of town. Gallywix charged into the professor's office to be greeted by a motherly looking tiefling by the name of Kallista Xendros.
 
 ### Session 1 - Secure the Bag (25 Sep 20)
+DM: Andres S.
 
 Our adventurers began their story in the Free Lances' Guild Hall, located in the Grangehall Ward of Fairhaven in the country of Aundair. We found two of our party members, Gallywix and Diva, having a casual old discussion in the common area before noticing Alzarif staring at them from another table. Gallywix decides to stop by the Questmaster, "Jeff", for the newest quests. Not many catch the team's eyes except for one hastily written paper that just requests that a bag be recovered for 500gp from a group of bandits. Unfortunately there was not much more information to go off of, until Ana, a cleric in the guild, came over and read the paper using her Mark of Detection. Invisible ink detailed the location by which the bandits had presumably riden to, and the party was ready to head out. That is, until "Jeff" pointed out the fact that they had no muscle. Between a Bard, Cleric, Rogue, and Sorcerer, it was clear that there needed to be a tank of sorts in order to balance out their team against potential assailants. After a quick call around the room for help, a Paladin by the name of Leon rose from his table and decided to help our adventurers. 
 
