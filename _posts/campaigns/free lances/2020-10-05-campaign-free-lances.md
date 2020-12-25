@@ -31,6 +31,8 @@ The Free Lances are an Adventuring Guild located in the city of Fairhaven that w
 
 ## Adventurer's Accord
 
+WORK IN PROGRESS 
+
 You can read our party's "adventurer's accord," a document that specifies expectations, house rules, soft/hard limits and more, <a href="https://magicalmusings.github.io/campaigns/free-lances/adventurers-accord/">on this page.</a>
 
 ## Characters
