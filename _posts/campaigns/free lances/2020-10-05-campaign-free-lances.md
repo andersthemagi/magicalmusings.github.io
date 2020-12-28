@@ -41,10 +41,9 @@ You can read our party's "adventurer's accord," a document that specifies expect
 |:--:|:---:|:--:|:---:|:----:|:----:|
 |Ana|F|2/2|Mark of Detection Khoravar|Death Domain Cleric of The Keeper / Fiend Warlock|Christian S.|
 |Bee / Diva Thiccums|NB|4|Changeling|College of the Baladeer Bard|Christina P.|
-|Chrom|M|4|Silver Ravenite Dragonborn|Renegade Fighter|Eddie P.|
 |Flint Silverclaw|M|4|Beasthide Shifter|Silverclaw Bruiser Pugilist|Andres S.|
 |Gallywix|M|4|Goblin|Arcane Trickster Rogue|Keoni C.|
-|TBD|M|4|Mark of Making Human|Order of Scribes Wizard|Caleb L.|
+|Seym|M|4|Mark of Making Human|Order of Scribes Wizard|Caleb L.|
 
 ### Dead Characters
 
@@ -56,6 +55,7 @@ You can read our party's "adventurer's accord," a document that specifies expect
 
 |Name|Gender|Level|Race|Class|Player|
 |:--:|:---:|:--:|:---:|:----:|:----:|
+|Chrom|M|4|Silver Ravenite Dragonborn|Renegade Fighter|Eddie P.|
 |Leon|M|2|Human|Paladin of Aureon|Sofie R.|
 |Nevitana|F|1|Kalashtar|Druid|Emma W.|
 
@@ -73,17 +73,29 @@ TBD
 ### Session 9 - "Who named all the civilians after pornstars?" (18 Dec 20)
 DM: Andres S.
 
-Log still a WIP. 
+- Drego shows up with Dr. Boom
+- They fight Dr. Boom
+- Boom Bots
+- Jorlanna is called to send help
+- Baron Malgas
+- Jorlanna's help arrives on cue with Rosani on her ship
+- Rosani takes them to the House Jorasco enclave in the guild hall and pays for their medical expenses. 
 
 ### Session 8 - Madness at the Feast Sojourn (11 Dec 20)
 DM: Andres S.
 
-Log still a WIP. 
+Once the party finished up with the bone knight in King's Rest, they headed out of the crypt only to be stopped by none other than Taldor d'Medani and two other figures walked down the stairs they came in from. They introduced themselves as **Rosani Valsys**, Domestic Spymaster for the Royal Eyes of Aundair, and **Baroness Jorlanna d'Cannith**, matriarch of Cannith West. Jorlanna pulls Ana aside to interrogate her on the whereabouts of Khyber's Eye, what the party currently knew to be the red orb Grexes and his compatriots weilded previously. According to Jorlanna, Khyber's Eye was used during the war on aberrant dragonmarks to absorb the energy of the marks without killing the host, meaning several thousand people worth of arcane power were in the refined dragonshard. She gave Ana a small device to carry and call in case they find the orb in their travels. 
+
+Our party exits the crypt to find that it had begun to snow in Fairhaven while they were in the crypt. The scars of the combat against the beholder zombie had already been hidden in ice, alongwith the corpse of the creature itself. Diva suggests to the party that they head to the Shabh Quarter, a neighborhood of changelings in the Marble Halls, to properly put Alzarif's remains to rest. She indicates she cannot come due to personal reasons, and leaves with Vivi in tow. As Gallywix and Ana are led into the neighborhood by the guards outside, they pass through various narrow alleyways intertwined between buildings that stand much higher than usual. People of all different races living out their normal lives, although much of them seem to look almost identical? The two swear they see the same person over and over again until they reach an inner square. 
+
+Within the inner square stood a large poplar tree with a small hooded statue at it's base. A pale man stood amongs them with silver dreadlocks and a bleached tunic with many layers, introducing himself as Father Scad. He invites them in to discuss the funeral rites over water / tea, when a changeling with familiar vestiments serves them their drinks. The party quickly catches on to eachother as Vivi is seen stumbling into the room with Kranch pulling her quickly back behind the corner. Ana and Gallywix find out that Diva is actually Bee the changeling and that her well-endowed tiefling visage is a persona of hers. Later that evening, the funeral goes off without a hitch (besides Gallywix showing a tattoo of Alzarif on his chest to the attendees). Gallywix suggests that the party should take some time to destress with a visit to the Feast Sojourn, a Talentan tent city right outside of Fairhaven. 
+
+The Feast Sojourn appears to most westerners as an exotic place straight out of the Talenta Plains. To Talenta halflings, it appears to be a foppish caricature. The colorful tents are nothing like the dun-colored tents that the nomadic Talenta tribes use and the “authentic dishes” sold in many of the merchant tents are bland and cloying compared to food from the plains themselves. In the winter time, they host games, rides, and various fun exhibits to entice citizens to visit despite the cold. The ticketmaster at the gate was none other than one of Gallywix's triplet brothers, **Burglor Rackateer**. Each member of the party ended up finding places in the Feast Sojourn they enjoyed. Ana decided to visit Hungry Hungry Hydras and contend against a live hydra, only to nearly lose to an invisible gnome had she not seen him with her Mark of Detection. Diva joined a fencing competition and narrowly won against Drego, a member of Grexes' party that decided to "show up" to the Feast Sojourn. Gallywix took Vivi and gambled a bit, playing Avandra's Favor and gaining a hefty 400+ gold win against Drego as well. As the party turned in their tickets to gain some magic cards, they heard the stomping of something massive making its way towards them. A warforged colossus barreled through the tents to point all of its missiles at Gallywix and yell "NOGGENFOGGER". And as the head of the warforged detached akin to a cockpit, the party saw another goblin in the control seat. Gallywix's other triplet brother, **Sparky Rackateer**, had come to introduce himself as...***DR. BOOM***!
 
 ### Session 7 - SPARE RIBS (4 Dec 20)
 DM: Andres S.
 
-Not much had changed from the last session up until now. Besalle's Ward was still in shambles, the beholder zombie laid dead once more, and Alzarif was nothing more than a steaming pile of ashes. After killing the beholder zombie, Diva went to inspect the remains, only to find that there were white hairs scattered within the ashes. The eyestalks of the beholder zombie began to twitch as the creature lifted itself back up off of the ground. A shot quickly rang out from the other side of the market from none other than Chrom as he closed in with two guards he had saved from death previously. For real this time, the beholder zombie had been killed.
+Not much had changed from the last session up until now. Besalle's Ward was still in shambles, the beholder zombie laid dead, and Alzarif was nothing more than a steaming pile of ashes. After killing the beholder zombie, Diva went to inspect the remains, only to find that there were white hairs scattered within the ashes. The eyestalks of the beholder zombie began to twitch as the creature lifted itself back up off of the ground. A shot quickly rang out from the other side of the market from none other than Chrom as he closed in with two guards he had saved from death previously. For real this time, the beholder zombie had been killed.
 
 As Ana began carving up the beholder zombie for potential loot, she stumbles upon a Bag of Holding containing a most curious bit of cargo. A Loxodon child lied hiding within clutching an ornate black and gold wooden box and shaking in fear. Ana remembers that loxodons are revered for their natural affinity towards divination from her reading at Kureon's. Meanwhile, Gallywix swoops in with a leftover set of vials from Dragon's Blood deliveries and picks up almost all of Alzarif's ashes. Diva came and picked the child up in her arms to console her as nearby, the guards that accompanied Chrom investigated the blast at the King's Rest entrance. Whatever had caused the explosion had left the metal doors sealing the crypt singed with green necrotic fire. The guards asked everyone whether they were willing to help secure King's Rest, on account of the rest of the Fairhaven Watch being occupied with undead on other parts of the ward.  Thoughout this request, Gallywix decided to pretend he was both blind and deaf, using his rapier as a seeing stick. 
 
