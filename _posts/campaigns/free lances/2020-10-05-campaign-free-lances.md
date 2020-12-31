@@ -65,21 +65,25 @@ You can find a running list of all the magic items encountered (and identified) 
 
 ## Session Log
 
+### Session 11 - TBD (1 Jan 20)
+DM: Andres S.
+
+TBD.
+
 ### Session 10 - TBD (28 Dec 20)
 DM: Keoni C.
 
-TBD
+Log in Progress...
 
 ### Session 9 - "Who named all the civilians after pornstars?" (18 Dec 20)
 DM: Andres S.
 
-- Drego shows up with Dr. Boom
-- They fight Dr. Boom
-- Boom Bots
-- Jorlanna is called to send help
-- Baron Malgas
-- Jorlanna's help arrives on cue with Rosani on her ship
-- Rosani takes them to the House Jorasco enclave in the guild hall and pays for their medical expenses. 
+From the shadows, a flock of ravens converged onto the shoulder of Dr. Boom's warforged mech as Drego begins to monologue to the party at the Feast Sojourn. He reveals that Dr. Boom has been recruited to help them keep the party at bay as they have yet to move Khyber's Eye from Fairhaven. Drego then realizes he said too much, then promptly leaves. Combat begins against Dr. Boom! 
+
+Amidst the screaming and evacuation of aptly named civilians in the area, Ana uses the device given to her to contact Jorlanna d'Cannith and ask for help in arresting Dr. Boom. 
+Meanwhile, Dr. Boom had already begun deploying his BoomBots to harass and destroy Gallywix and his compatriots. Wave after wave of BoomBot continued to strike at the party, nearly killing Gallywix in the process. At this point in the night, Ana seemingly had just about enough of Dr. Boom's antics, and called on The Keeper to hopefully get her and the rest of the party out of the bind they were currently in. Thus came Baron Malgas, a member of the Court of All-Flesh, to answer Ana's pleas, cleaving Dr. Boom's armor and several of his BoomBots alike. 
+
+As Dr. Boom prepared his missiles for a final strike against our adventurer's, an airship barrelled through the clouds to swing it's broadside towards the Feast Sojourn. From the deck, Rosani Valsys and her team from the Royal Eyes of Aundair swooped in to take down Dr. Boom, forcing him to self-destruct his mech and exit stage right. Rosani sees that the party is injured and takes them to the nearest House Jorasco clinic to get patched up before assuring the party she's on the case to hunt Dr. Boom and Khyber's Eye down.  
 
 ### Session 8 - Madness at the Feast Sojourn (11 Dec 20)
 DM: Andres S.
