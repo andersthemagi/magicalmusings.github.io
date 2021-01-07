@@ -65,10 +65,12 @@ You can find a running list of all the magic items encountered (and identified) 
 
 ## Session Log
 
+### Session 12 - TBD (8 Jan 20)
+
 ### Session 11 - TBD (1 Jan 20)
 DM: Andres S.
 
-TBD.
+Log in Progress...
 
 ### Session 10 - TBD (28 Dec 20)
 DM: Keoni C.
