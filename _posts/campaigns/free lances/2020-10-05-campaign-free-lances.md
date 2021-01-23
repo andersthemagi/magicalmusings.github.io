@@ -65,9 +65,23 @@ You can find a running list of all the magic items encountered (and identified) 
 
 ## Session Log
 
-### Session 12 - TBD (8 Jan 20)
+### Session 14 - A Darkness from the Stars (29 Jan 20)
+DM: Andres S.
 
-### Session 11 - TBD (1 Jan 20)
+TBD.
+
+### Session 13 - His name is Borba?! (22 Jan 20)
+DM: Andres S.
+
+Log in Progress...
+
+
+### Session 12 - Violence on the Thaliost Express (16 Jan 20)
+DM: Keoni C.
+
+Log in Progress...
+
+### Session 11 - B.A.R.F.I.G.H.T. (1 Jan 20)
 DM: Andres S.
 
 Log in Progress...
