@@ -16,8 +16,6 @@ A simple blog-style website to detail ramblings on Dungeons and Dragon's 5th Edi
 
 ## Pull Requests and Contributions
 
-Happy [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)!! 
-
 Feedback and contributions are more than welcome on this project! All contributors are expected to be following the [Contributor Covenant.](https://www.contributor-covenant.org/) You can find information on what that entails in the ```code_of_conduct.md``` file located in the main directory. 
 
 In general, I follow the "fork-and-pull" Git workflow. 
