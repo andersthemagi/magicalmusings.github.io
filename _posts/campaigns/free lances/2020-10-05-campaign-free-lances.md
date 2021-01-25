@@ -43,11 +43,12 @@ You can read our party's "adventurer's accord," a document that specifies expect
 
 |Name|Gender|Level|Race|Class|Player|
 |:--:|:---:|:--:|:---:|:----:|:----:|
-|Ana|F|2/2|Mark of Detection Khoravar|Death Domain Cleric of The Keeper / Fiend Warlock|Christian S.|
-|Bee / Diva Thiccums|NB|4|Changeling|College of the Baladeer Bard|Christina P.|
-|Flint Silverclaw|M|4|Beasthide Shifter|Silverclaw Bruiser Pugilist|Andres S.|
-|Gallywix|M|4|Goblin|Arcane Trickster Rogue|Keoni C.|
-|Seym|M|4|Mark of Making Human|Order of Scribes Wizard|Caleb L.|
+|Ana|F|3/2|Mark of Detection Khoravar|Death Domain Cleric of The Keeper / Fiend Warlock|Christian S.|
+|Bee / Diva Thiccums|NB|5|Changeling|College of the Baladeer Bard|Christina P.|
+|Flint Silverclaw|M|5|Beasthide Shifter|Silverclaw Bruiser Pugilist|Andres S.|
+|Gallywix|M|5|Goblin|Arcane Trickster Rogue|Keoni C.|
+|Nevitana|F|5|Kalashtar|Circle of Stars Druid|Emma W.|
+|Seym|M|5|Mark of Making Human|Order of Scribes Wizard|Caleb L.|
 
 ### Dead Characters
 
@@ -61,7 +62,6 @@ You can read our party's "adventurer's accord," a document that specifies expect
 |:--:|:---:|:--:|:---:|:----:|:----:|
 |Chrom|M|4|Silver Ravenite Dragonborn|Renegade Fighter|Eddie P.|
 |Leon|M|2|Human|Paladin of Aureon|Sofie R.|
-|Nevitana|F|1|Kalashtar|Druid|Emma W.|
 
 ## Session Log
 
