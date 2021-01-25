@@ -29,6 +29,10 @@ author: Andres Sepulveda
 
 The Free Lances are an Adventuring Guild located in the city of Fairhaven that will take all manner of jobs, regardless of their size or difficulty. The adventurers in the Free Lances are as unique and diverse as the quests they go on, and nothing will stop our heroes from their ultimate goal! ...wait... what's their goal? 
 
+## Campaign Wiki
+
+<a href="https://kanka.io/en-US/campaign/48876">https://kanka.io/en-US/campaign/48876</a>
+
 ## Adventurer's Accord
 
 WORK IN PROGRESS 
@@ -59,10 +63,6 @@ You can read our party's "adventurer's accord," a document that specifies expect
 |Leon|M|2|Human|Paladin of Aureon|Sofie R.|
 |Nevitana|F|1|Kalashtar|Druid|Emma W.|
 
-## Magic Items
-
-You can find a running list of all the magic items encountered (and identified) by the party <a href="https://magicalmusings.github.io/campaigns/free-lances/magic-items/">here.</a>
-
 ## Session Log
 
 ### Session 14 - A Darkness from the Stars (29 Jan 20)
@@ -73,18 +73,32 @@ TBD.
 ### Session 13 - His name is Borba?! (22 Jan 20)
 DM: Andres S.
 
-Log in Progress...
+After finding themselves stranded in the middle of a scrapyard, the party (and a captured Ashe) began to realize things were far too cold for them to stay out in the open for long. The air was cold, and the snow was beginning to set in. Luckily they found some sort of shelter and scrounged for enough wood to make a fire for the night. That evening, the party had dreams of an ever-expansive space with stars, moons, and planets surrounding them, followed by the snuffing out of the stars and the glare of massive eyes peering into their soul. Seym and Flint awoke to find themselves standing outside in the snow the following morning.
+
+The scene quickly shifted back to Fairhaven, to the sight of Nevitana, a red-haired young woman dressed in a thick-layered dress from the Eldeen Reaches, interacting with the Free Lances quartermaster, Borba (not "Jeff", suprisingly). Borba handed Nevi a letter she received from the Starpeaks Observatory in Northern Thrane, signed by Dr. Ildaeva Luciana. She urged Nevi to come and assist her, and that time was almost out before "it was complete." Borba suggested Nevi take the lightning rail to Tira's Vigil, the closest town to the observatory, only to have to explain in great detail what a lightning rail was. He also mentioned talking with a "Tulvir" once she got in town before Nevi left for the station. She was quickly blown agast by the size and grandeur of the Fairhaven Station and its daily bustle of travelers coming in and out. Coincidentally, the Thaliost Express was out of order for the time being, but there was a House Orien Land Transport stand nearby that could assist. The older-looking halfling man offered Nevi a cart with two horses for a nominal price, and she set off to Tira's Vigil. 
+
+Ana and Gallywix set off to find some sort of road, and came across a lamppost indicating a road some twenty minutes uphill. By the time they told the party and all trekked up the snow-covered hill, they saw a young woman driving her horse-driven cart up the road. She stopped to ask if they needed help, and ended up offering them a ride to Tira's Vigil, the nearest town on the way. Some intimidation attempts were made to get Ashe to talk about her plans to no success as they introduced themselves to Nevi. 
+
+Once they arrived in Tira's Vigil, another House Orien Land Transport stand took Nevi's cart in to hold while they were in town. They visited the local tavern, the Howling Winds, and rented a couple of rooms (one for the males, one for the females), with the females taking Ashe into their room. Soon after, an imposing brass-colored dragonborn came knocking on the men's room to inquire about the "fugitive" they had brought tied up into the inn. As he was searching, Nevi opened the door and asked if the dragonborn was Tulvir, eventually revealing him and Borba were long-time good friends. Diva revealed that Ashe was in the ladies' room, and Tulvir noted that Ashe had a bounty on her for some 100+ counts of smuggling and robbery. He took Ashe back to his "office" and bid the party a good day. Diva and Gallywix spent some time relaxing in the tavern's main hall, before joining the rest of the party to sleep.
+
+Morning arrived soon after, and the party decided to stop by Tulvir's for some assistance. He indicated that the pass up to the Starpeaks is somewhat dangerous, and that locals have (albeit without proof) been attacked by yeti's on the pass. The party stopped by the general store, the North Peaks Emporium, to pick up some supplies and postcards to send home before beginning their trek up the mountains. Along the way they were attacked by a quartet of ice mephits that were quickly disposed of before arriving at the Starpeak Observatory. 
 
 
 ### Session 12 - Violence on the Thaliost Express (16 Jan 20)
 DM: Keoni C.
 
-Log in Progress...
+Another normal day in Fairhaven for the party. The sun was shining, the birds were chirping, the snow had just begun to melt from the past couple of days of snow. Then the boombots began to scurry. Each of the party members quickly ran after the boombots until they found eachother at the bustling Fairhaven Station. They managed to hit, but not subdue, a boombot that was jumping on a train before hopping on themselves to finish the job.
 
-### Session 11 - B.A.R.F.I.G.H.T. (1 Jan 20)
+The train was, unfortunately, filled with various warforged guards, ammunition stores, as well as some strange purple and blue ores that the party ended up taking for themselves. They were later ambushed by a set of warforged guards and a larger-looking captain that intended to stop the party in their tracks before they reached the cockpit. That very same captain's head rolled towards the white-haired conductor's head, as she (Ashe) commanded her warforged bodyguard "Bob" to tackle Flint and keep the party at bay. Combat ensued, leading Flint to be shot by Ashe and him promptly decking her and tying her up. The rest of the party made quick work of "Bob" and reconvened at the cockpit, only to find that the train begun to shake and derail as if pushed by something enourmous. Seym cast featherfall on the party as they jumped out, finding themselves in the middle of a warforged scrapyard. 
+
+### Session 11 - B-A-R-F-I-G-H-T (1 Jan 20)
 DM: Andres S.
 
-Log in Progress...
+After a long day working at the Lady in Blue, Diva heard something rustling upstairs. She headed up to find the very same bone knight that they had defeated in the King's Rest now looking around confused as to where he was. Diva sat him down to talk and understand exactly how he came back to life, when the rest of the party arrived to enjoy a round of drinks. They learned a lot about the bone knight, named Steven, and his immortality thanks to Lady Illmarrow. Steven spent much of the conversation lost, trying to figure out a new direction for his life. Diva worked out an agreement with Jak to hire Steven as a bouncer, on the condition that the party finds a way to change Steven's imposing appearance. Eventually their search for assistance led them to the University of Wynarn. 
+
+They arrived on the university grounds when Seym was stopped by a familiar face, that of which was familiar to the entire party. Kubrag, the orc Gallywix had helped secure a date with one of the tabaxi at the Catgirl Cafe, was actually a professor at the university. More importantly, he was Seym's mentor for his capstone project to graduate with a degree in Arcane Transcription. Seym had been late on submitting a proposal for his project, and Kubrag gave him a week in order to come up with something in order to work on this upcoming semester. Kubrag later led the party back to a lab where Dr. Xendros had been working on some sort of spell orb that began to spill all over the floor. She suggested to the party that they heat up Steven and hit off a majority of the spikes and "bones" off of his armor, since they were actually made of metal. Diva cast Heat Metal on Steven, and Ana / Flint began to whack off bits of Steven's armor with some hammers. Although it was *somewhat* painful for Steven, he got through it alright, and what remained was a dented-up animated suit of armor. Before leaving to take Steven to a "repair shop," Gallywix lapped up some of the residue from Dr. Xendros' experiment. He quickly began to see the forms of the creatures around him shift into rotting shambling corpses akin to an episode of the Walking Dead.
+
+The party's final stop that session was the Imperia Magewrights located in the Free Lances guild hall. They had helped Dobs and Chuts, the store owners, fend off some riled up shifters previously, and they were happy to assist in restoring Steven's metal form to something less beat up. Eventually, our adventurers went their separate ways for the day. Diva returned to the Lady in Blue to find a very large man dressed in expensive clothing bring his shades (indoors?) down to address her. Meanwhile, Ana and Seym spent some time looking into a potential project for Seym's capstone when they caught a glimpse of Tak Caldemus, one of the adventurer's who had presumably stolen Khyber's Eye and used it to blow up the King's Rest. 
 
 ### Session 10 - TBD (28 Dec 20)
 DM: Keoni C.
