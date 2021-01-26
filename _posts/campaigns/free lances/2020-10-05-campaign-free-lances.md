@@ -100,10 +100,16 @@ They arrived on the university grounds when Seym was stopped by a familiar face,
 
 The party's final stop that session was the Imperia Magewrights located in the Free Lances guild hall. They had helped Dobs and Chuts, the store owners, fend off some riled up shifters previously, and they were happy to assist in restoring Steven's metal form to something less beat up. Eventually, our adventurers went their separate ways for the day. Diva returned to the Lady in Blue to find a very large man dressed in expensive clothing bring his shades (indoors?) down to address her. Meanwhile, Ana and Seym spent some time looking into a potential project for Seym's capstone when they caught a glimpse of Tak Caldemus, one of the adventurer's who had presumably stolen Khyber's Eye and used it to blow up the King's Rest. 
 
-### Session 10 - TBD (28 Dec 20)
+### Session 10 - Lurro's "Hole in the Wall" Souphouse (28 Dec 20)
 DM: Keoni C.
 
-Log in Progress...
+A string of explosions began to occur all throughout Fairhaven, leaving many places around town broken and needing repairs. One of these places was Lurro's Souphouse, where Flint Silverclaw, Lurro's son, decided he needed to apprehend the person responsible for such damages. Our party offered to help Flint fix the hole while also trying to find where Dr. Boom was hiding. Flint agreed and joined the party for the time being. 
+
+They decided to investigate the materials used for Gallywix' new toy, a projectile launcher left by Dr. Boom during his attack on the Feast Sojourn. Eventually, the search led the party back to the University of Wynarn, where Dr. Kallista Xendros unfortunately could not help them find more info about Dr. Boom's creations. She did refer them to the Aundair Library to find a scholar who may be more knowledgeable in the subject. Said scholar was none other than Seym, a wizard student studying Arcane Transcription. He assisted the party in finding that a company called Maliwan was the manufacturer. Not much could be gleamed beyond that, however Gallywix suggested they visit the museum in case the curators know more about warforged equipment. 
+
+Our adventurer's arrived in the museum and were greeted by a peculiar warforged named Rex. Rex had once been a soldier in the Last War, but had later been repurposed to give guided tours of the museum. He led the party around and provided some information on a Sir Admiral Rackateer that served in the Aundairian military before being lost to the Mourning. The warforged also noted two old Maliwan warehouses in the Whiteroof Ward that may be worth checking out. The first ended up being a fishing warehouse where the party secured themselves some sweet po'boys. The second was guarded by an ogre that was kind enough (or stupid enough?) to let them in. 
+
+This warehouse stunk of unkempt animal and feces, and many exotic animals were being kept for potential trade to other parts of the west. Unfortunately, the place was rigged to blow, and several boombots ambushed our party to distract them from the fuses. Luckily everyone managed to put out the fuses and the boombots before any explosion occurred. Investigation throughout the warehouse led Flint to a map of potential targets that Dr. Boom was casing for another attack. They immediately rushed to leave once they realized one of the locations was Gallywix' apartment, however not without almost running into police that were clearing the warehouse. Once they arrived at Gallywix' place, they searched all over, only to find a note that thankfully indicated Dr. Boom had tricked them. Fairhaven was safe, for now. 
 
 ### Session 9 - "Who named all the civilians after pornstars?" (18 Dec 20)
 DM: Andres S.
