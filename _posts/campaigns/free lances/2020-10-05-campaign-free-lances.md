@@ -48,7 +48,7 @@ You can read our party's "adventurer's accord," a document that specifies expect
 |Flint Silverclaw|M|5|Beasthide Shifter|Silverclaw Bruiser Pugilist|Andres S.|
 |Gallywix|M|5|Goblin|Arcane Trickster Rogue|Keoni C.|
 |Nevitana|F|5|Kalashtar|Circle of Stars Druid|Emma W.|
-|Seym|M|5|Mark of Making Human|Order of Scribes Wizard|Caleb L.|
+|Seym|M|4/1|Mark of Making Human|Order of Scribes Wizard/Artificer|Caleb L.|
 
 ### Dead Characters
 
