@@ -65,12 +65,31 @@ You can read our party's "adventurer's accord," a document that specifies expect
 
 ## Session Log
 
-### Session 14 - A Darkness from the Stars (29 Jan 20)
-DM: Andres S.
+### Session 15 - TBD (5 Feb 21)
+DM: Keoni C. 
 
 TBD.
 
-### Session 13 - His name is Borba?! (22 Jan 20)
+### Session 14 - A Darkness from the Stars (29 Jan 21)
+DM: Andres S.
+
+The Starpeaks Observatory stood as a single looming building against a snow-capped summit. Luscious, deep black architecture accented the ornamented shimmering gold details, as if the building itself was a stunning starscape. The dome reflects the setting sun in shades of blazing reds and oranges, and from the way the surface catches the drifting clouds, you could tell that the stars must alight across the surface at night. The well-worn path coaxes our party toward a blessedly warm building, where large arched doorways with crescent golden hands awaited them. Upon knocking, they were greeted by the originator of Nevi's letter, Ildaeva Luciana. 
+
+<img src="https://ibb.co/RPkbhMc" alt="Starpeak's Observatory" width="250px" style="float: left; margin-right: 50px">
+
+Ilda brought the party into a common room to discuss her concerns, mainly that her colleages have been working on a telescope for the past several months with no explanation as to why. Ilda also noted that as of late, a strange stone door appeared farther up the mountain that the researchers conveniently act as if the door is at there at all. Surely enough, the party went to go investigate, and noted that there was writing on the door in Celestial. Turns out the writing was a puzzle to gain entry into whatever lied beyond! The sun reflecting off of the glass moons of the orrery revealed a way into the stone doorway. 
+
+They descended down into the mountain through a mysterious, enchanting tunnel. The stone was almost black in the darkness, but seemed to glitter with a faint gold when the torch's light dances along the surface. The steadiest source of light was the beam of sunlight unspooling into the depths, coaxing them inward. The beam reflects off of surfaces to make its way inward, as if pulled towards its destination by a force they could not see. Eventually this led the party to the den of a couple of Yeti's, who were quickly dispatched of. The tunnel descended deeper and deeper until they arrived at a room flanked with various depictions of draconic constellations and another door sealed with celestial writing. Luckily the puzzle was not too difficult, and the party opened the door and continued. Gravity in the tunnel began to dissipate as our adventurer's were faced with a room littered with floating "stars." Along the way, they found a small alcove containing various treasures before arriving at a large doorway. Several of the party members begun to have strange visions of space, enticing offers of power, and splitting headaches urging them to turn back. Quickly they realized the source of these visions as they stepped into the next room. 
+
+<img src="https://ibb.co/QvnDSGg" alt="Cyrvas, the Hungry" width="250px" style="float: left; margin-right: 50px">
+
+Our adventurers entered a great cavern littered with remnants long forgotten. Faded tapestries and scattered etching told of a world of dreams and of the expanse of the universe, all of it faded until they could barely comprehend what they were seeing. The party beheld rings of landscapes they couldn't recognize, landscapes that seemed to shift from scene to scene with no explanation. The area was vast and looming. The dark stone, when visible, seemed more dappled with stars than ever before; even the ceiling, littered with stalactites, glowed with golden freckles, and the ground seemed to light up with gold under each footstep. Most apparent was the final destination of the now moonbeam: a lying dragon with scales like a dark night sky that rippled with gold and shimmering effects as it moves. Nevi attempted to talk with the creature, and it introduced itself as Cyrvas, the Hungry, and the source of the problems at the observatory. He remarked on the deliciousness of the party's ambitions before shifting the scene to an astral battlefield. Combat ensued! 
+
+During the encounter, Nevi caught a glimpse the visage of a familiar (at least to the veterans of the party) khoravar sorcerer before the party was empowered with new magical strength. They had gained the power of ***Astral Sigil: Wandering Sorcerer***, a field spell that granted them bonuses to spell damage as well as on attempts to resist opposing magical effects. Luckily, not many of the party members were heavily damaged, and Cyrvas went down to Seym's last Toll the Dead. Where Cyrvas had originally stood, there then layed a strange, ugly looking creature Nevi recognized as a Quori. She immediately realized the true culprits of this fiasco in the mountains: The Dreaming Dark. 
+
+Once the party had finished divvying up the loot, they exited the cavern to find the researchers making snowmen and snow angels as they threw bits of the telescope out into the snow. Ilda thanked the party profusely for freeing her colleagues of their unusual quest, and offered to take them back to town on a handcart for those that were somewhat badly injured. Our adventurers ended up staying in the Howling Winds Inn another night and sleeping the encounter with a dragon off as if it was just another dream. 
+
+### Session 13 - His name is Borba?! (22 Jan 21)
 DM: Andres S.
 
 After finding themselves stranded in the middle of a scrapyard, the party (and a captured Ashe) began to realize things were far too cold for them to stay out in the open for long. The air was cold, and the snow was beginning to set in. Luckily they found some sort of shelter and scrounged for enough wood to make a fire for the night. That evening, the party had dreams of an ever-expansive space with stars, moons, and planets surrounding them, followed by the snuffing out of the stars and the glare of massive eyes peering into their soul. Seym and Flint awoke to find themselves standing outside in the snow the following morning.
@@ -86,7 +105,7 @@ Once they arrived in Tira's Vigil, another House Orien Land Transport stand took
 Morning arrived soon after, and the party decided to stop by Tulvir's for some assistance. He indicated that the pass up to the Starpeaks is somewhat dangerous, and that locals have (albeit without proof) been attacked by yeti's on the pass. The party stopped by the general store, the North Peaks Emporium, to pick up some supplies and postcards to send home before beginning their trek up the mountains. Along the way they were attacked by a quartet of ice mephits that were quickly disposed of before arriving at the Starpeak Observatory. 
 
 
-### Session 12 - Violence on the Thaliost Express (16 Jan 20)
+### Session 12 - Violence on the Thaliost Express (16 Jan 21)
 DM: Keoni C.
 
 Another normal day in Fairhaven for the party. The sun was shining, the birds were chirping, the snow had just begun to melt from the past couple of days of snow. Then the boombots began to scurry. Each of the party members quickly ran after the boombots until they found eachother at the bustling Fairhaven Station. They managed to hit, but not subdue, a boombot that was jumping on a train before hopping on themselves to finish the job.
@@ -95,7 +114,7 @@ Another normal day in Fairhaven for the party. The sun was shining, the birds we
 
 The train was, unfortunately, filled with various warforged guards, ammunition stores, as well as some strange purple and blue ores that the party ended up taking for themselves. They were later ambushed by a set of warforged guards and a larger-looking captain that intended to stop the party in their tracks before they reached the cockpit. That very same captain's head rolled towards the white-haired conductor's head, as she (Ashe) commanded her warforged bodyguard "Bob" to tackle Flint and keep the party at bay. Combat ensued, leading Flint to be shot by Ashe and him promptly decking her and tying her up. The rest of the party made quick work of "Bob" and reconvened at the cockpit, only to find that the train begun to shake and derail as if pushed by something enourmous. Seym cast featherfall on the party as they jumped out, finding themselves in the middle of a warforged scrapyard. 
 
-### Session 11 - B-A-R-F-I-G-H-T (1 Jan 20)
+### Session 11 - B-A-R-F-I-G-H-T (1 Jan 21)
 DM: Andres S.
 
 After a long day working at the Lady in Blue, Diva heard something rustling upstairs. She headed up to find the very same bone knight that they had defeated in the King's Rest now looking around confused as to where he was. Diva sat him down to talk and understand exactly how he came back to life, when the rest of the party arrived to enjoy a round of drinks. They learned a lot about the bone knight, named Steven, and his immortality thanks to Lady Illmarrow. Steven spent much of the conversation lost, trying to figure out a new direction for his life. Diva worked out an agreement with Jak to hire Steven as a bouncer, on the condition that the party finds a way to change Steven's imposing appearance. Eventually their search for assistance led them to the University of Wynarn. 
