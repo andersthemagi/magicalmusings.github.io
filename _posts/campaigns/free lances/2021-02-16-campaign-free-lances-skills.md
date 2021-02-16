@@ -9,8 +9,8 @@ author: Andres Sepulveda
 # Team "Not Easily Swayed"
 
 |    | Diva | Flint | Gallywix | Nevi |
-|:--:|:----:|:-----:|:---------|:----:|
-|Role|      |       |          |      | 
+|:--:|:----:|:-----:|:--------:|:----:|
+|Role|RAV/SAB|COM/SEN|COM/SAB  |RAV   | 
 |Offense Skills| 2x Longsword, Dissonant Whispers, Heat Metal, Thunderwave | 2-3x Unarmed Strikes, Bonus Action Grapple, Haymakers | Dr. Boom's Missile Launcher, Dagger / Rapier, Shortbow, Sneak Attack | |
 |Defense Skills| Mirror Image | Brace Up, Dig Deep, Bloodied but Unbowed, Shift | Cunning Action, Uncanny Dodge | |
 |Support Skills| Healing Word | N/A | N/A | Cure Wounds, Healing Word | 
@@ -19,9 +19,9 @@ author: Andres Sepulveda
 
 # Team Dragonmarks
 
-|   | Ana | Drego | Gallywix | Seym | 
+|   | Ana | Drego | Grexes | Seym | 
 |:-:|:---:|:-----:|:--------:|:----:|
-|Role|    |       |          |      |
+|Role|COM/RAV/MED|RAV/SAB|COM/SEN|RAV|
 |Offense Skills|Burning Hands, Eldritch Blast, Guiding Bolt, Green Flame Blade, Id Insinuation, Inflict Wounds, Ray of Sickness, Sacred Flame, Spiritual Weapon, Toll the Dead| Rapier, Pistol, Bardic Inspiration, Dissonant Whispers, Shatter, Vicious Mockery|Branding Smite, Khyberian Smite, Moonbeam, Shield Bash, Thunderous Smite, Wrathful Smite| Conjure Barrage, Fire Bolt, Magic Missile, Mind Sliver, Tasha's Brew, Toll the Dead |
 |Defense Skills| N/A | Blade Ward, Intellect Fortress, Mirror Image| Glaring Bulwark, Interception, Transfer Shield| N/A|
 |Support Skills|Cure Wounds, Healing Elixir, Healing Word, Sanctuary, Spare the Dying|Draconic Brand, Bardic Inspiration| Magic Weapon | Dragon's Breath, Elemental Weapon, Magic Weapon, Sanctuary|
