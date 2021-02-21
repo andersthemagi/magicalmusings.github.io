@@ -65,6 +65,31 @@ You can read our party's "adventurer's accord," a document that specifies expect
 
 ## Session Log
 
+### Session 18 - TBD (26 Feb 21)
+DM: Keoni C.
+
+TBD.
+
+### Session 17 - ONE-SHOT: Into the Mournland (19 Feb 21)
+DM: Andres S.
+
+#### Characters
+{:.no_toc}
+
+| Name | Gender | Level | Race | Class | Player |
+|:--:|:---:|:--:|:---:|:----:|:----:|
+| Elzdeth Hezzik | NB | 5 | Drow Elf | Eldritch Knight Fighter | Christina P. |
+| Jethro | M | 5 | Orc | Cavalier Fighter | Keoni C. | 
+| Kallista Xendros | F | 5 | Mammon Tiefling | Clockwork Soul Sorcerer | Christian S. |
+| Sgt. Baleb Byons | M | 5 | Ravenite Dragonborn | Ghostslayer Blood Hunter | Caleb L.|
+
+Log still WIP.
+
+### Session 16 - TBD (12 Feb 21)
+DM: Andres S.
+
+Log still WIP.
+
 ### Session 15 - TBD (5 Feb 21)
 DM: Keoni C. 
 
