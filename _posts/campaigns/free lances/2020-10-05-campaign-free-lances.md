@@ -18,7 +18,7 @@ author: Andres Sepulveda
 
 </div>
 
-***Last Updated: 24 October 2020***
+***Last Updated: 20 March 2021***
 
 **Timeframe:** September 2020 - Present
 
@@ -63,9 +63,22 @@ You can read our party's "adventurer's accord," a document that specifies expect
 |Chrom|M|4|Silver Ravenite Dragonborn|Renegade Fighter|Eddie P.|
 |Leon|M|2|Human|Paladin of Aureon|Sofie R.|
 
+## One-on-One Sessions
+
+
 ## Session Log
 
-### Session 18 - TBD (26 Feb 21)
+### Session 20 - Conjuration Conman (19 Mar 21)
+DM: Andres S. 
+
+TBD
+
+### Session 19 - Khyber's Eye (12 Mar 21)
+DM: Andres S.
+
+TBD
+
+### Session 18 - Halftime (26 Feb 21)
 DM: Keoni C.
 
 TBD.
@@ -85,12 +98,12 @@ DM: Andres S.
 
 Log still WIP.
 
-### Session 16 - TBD (12 Feb 21)
+### Session 16 - The Karrnathi Pride Open (12 Feb 21)
 DM: Andres S.
 
 Log still WIP.
 
-### Session 15 - TBD (5 Feb 21)
+### Session 15 - Dr. Boom's Warforged Factory (5 Feb 21)
 DM: Keoni C. 
 
 TBD.
