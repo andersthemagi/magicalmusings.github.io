@@ -63,7 +63,9 @@ You can read our party's "adventurer's accord," a document that specifies expect
 |Chrom|M|4|Silver Ravenite Dragonborn|Renegade Fighter|Eddie P.|
 |Leon|M|2|Human|Paladin of Aureon|Sofie R.|
 
-## One-on-One Sessions
+## One-on-One Session Logs
+
+<a href="https://magicalmusings.github.io/campaigns/free-lances/o3">Click here to see all one-on-one session logs.</a>
 
 
 ## Session Log
