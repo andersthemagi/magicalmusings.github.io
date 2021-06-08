@@ -5,6 +5,15 @@ layout: post
 categories: Mechanics
 author: S. Baker
 ---
+<div class="toc">
+
+### Damage Types
+{:.no_toc}
+
+* TOC
+{:toc}
+
+</div>
 
 <a href="http://farlandworld.com/injuries.html">Adapted from "The World of Farland" post on Lingering Injuries </a>
 
@@ -17,16 +26,6 @@ There are two ways a creature can sustain a lingering injury:
 - When it drops to 0 hit points, but isn't killed outright.
 
 Once the potential for a lingering injury arises, the creature (or the player controlling the creature) will roll a Constitution save against a DC equal to the damage you took. If you fail, you must roll 1d20 on one of the tables below, depending on which damage type brought you to 0. 
-
-<div class="toc">
-
-### Damage Types
-{:.no_toc}
-
-* TOC
-{:toc}
-
-</div>
 
 ## Optional Rule: Backstory Injury
 
