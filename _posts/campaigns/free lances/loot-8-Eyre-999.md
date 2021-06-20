@@ -1,41 +1,53 @@
 
 # Knights Arcane Memorandum
 
-FROM: KCPT Sovir Titancrest, Regent Corps
+<h4 align="center">
+  REGENT CORPS OF THE KNIGHTS ARCANE<br/>OFFICE OF THE COMMANDER<br/>3RD BATTALION HEADQUARTERS<br/>SOVEREIGN WARD, FAIRHAVEN
+</h4>
 
-TO:  Mercenaries from 'The Free Lances' Adventuring Guild
+<p align="right">
+  10 Eyre 999 YK
+</p>
 
-SUBJECT: After-Action Manifest of Otharaunt Skirmish - 8 Eyre 999 YK
+**FROM:** KCPT Sovir Titancrest, Regent Corps
+
+**TO:**  Mercenaries from 'The Free Lances' Adventuring Guild
+
+**SUBJECT:** After-Action Manifest of Otharaunt Skirmish
 
 The purpose of this memorandum is to document necessary reward and payment for mercenary work on 8 Eyre 999 YK. Led by Sgt Lillia Xendros of the Knights Corps, a group of mercenaries from the Free Lances Adventuring Guild of Fairhaven wiped out a daelkyr outpost and secured an artillery encampment previously lost by the Knights Arcane. Seven members of the Squire Corps were sent for reconnaissance, and were killed in action as a result. 
 
-Per the Code of Galifar's provision on mercenary corps, the Knights Arcane has agreed to pay the standard cost of 1 day of work based on location, difficulty of task, and importance of task (as identified and stratified by the Regent Corps). These payments are divided and made to the name of the following persons involved 
+## Rewards
+
+Per the Code of Galifar's provision on mercenary corps, the Knights Arcane has agreed to pay the standard cost of 1 day of work based on location, difficulty of task, and importance of task (as identified and stratified by the Regent Corps). These payments are divided and made to the name of the following persons involved.
 * Lady Ana d'Medani Lorg'astras
 * Diva 
 * Noggenfogger Rackateer
 * Seym Vanatar
 * Dr. Kallista Xendros
 
-## Reward
+
 | Item                   | Qty | Price             | Notes                                  |
 |:---------------------- |:---:|:-----------------:|:---------------------------------------|
 | Knights Arcane Payment | 5   | 120gp each        | Includes Hazard Pay.                   |
+
+### Bounty Payment
 
 With recommendation from Staff Sergeant Baleb Byons and Sergeant Lillia Xendros, the Regent Corps has approved and payed the bounties of daelkyr aberrations as identified by forces on the ground. Reports indicated this squad of mercenaries eliminated:
 * 21 x Dolgrim
 * 8 x Dolgaunt
 * 1 x Beholder-kin (Death Kiss)
 
-## Bounty Payment
 | Item                     | Qty | Price             | Notes                                  |
 |:-------------------------|:---:|:-----------------:|:---------------------------------------|
 | Beholder-kin (Death Kiss)| 5   | 1,000gp / head    |                                        |
 | Dolgaunt Bounty          | 5   | 360gp (45gp/head) |                                        |
 | Dolgrim Bounty           | 5   | 105gp (5gp/head)  |                                        |
 
+### Procurement Manifest
+
 Finally, the following items were obtained and sent in tandem with this manifest. Due to the nature of Dr. Xendros' tenure with the University of Wynarn, the Regent Corps found it apt to provide samples of daelkyr remains for study. 
 
-## Procurement Manifest
 | Item                  | Qty | Price             | Notes                                  |
 |:----------------------|:---:|:----------------: |:---------------------------------------|
 | Broken Hand Crossbow  | 21  | 378gp (18gp each) | Cannot be used as a weapon. More useful for scrap metal..| 
@@ -59,8 +71,12 @@ Of note, the Knights Arcane will be dropping any potential charges against Sil'q
 
 Should the mercenaries of this company wish, the Knights Arcane may be willing to pay for additional provisions as necessary in regards to the daelkyr threat in the west. Any help would be greatly appreciated. If you have any questions or concerns, do not hesistate to contact me via return-letter. 
 
-Very Respectfully,
+Very Respectfully,<br/>
 
-SOVIR D. TITANCREST, KCPT, KNIGHTS ARCANE [R]
+SOVIR D. TITANCREST, KCPT, KNIGHTS ARCANE<br/>Commander, 3rd Battalion
 
-Commander, 3rd Battalion
+<p align="center">
+  <b><i>Regent Corps. "Lead the way!"</i></b>
+</p>
+
+
