@@ -40,6 +40,12 @@ With recommendation from Staff Sergeant Baleb Byons and Sergeant Lillia Xendros,
 | Dolgaunt Bounty          | 5   | 360gp (45gp/head) |                                        |
 | Dolgrim Bounty           | 5   | 105gp (5gp/head)  |                                        |
 
+We understand that crunching financial numbers may not be everyone's fancy, so we've summarized the gold rewards below per person for your convenience.
+
+| Item                     | Qty | Amount            | Notes                                  |
+|:-------------------------|:---:|:-----------------:|:---------------------------------------|
+| Reward Share             | 5   | 1585gp            | Amount is per mercenary listed.        |
+
 ### Procurement Manifest
 
 Finally, the following items were obtained and sent in tandem with this manifest. Due to the nature of Dr. Xendros' tenure with the University of Wynarn, the Regent Corps found it apt to provide samples of daelkyr remains for study. Divvy this up as your group sees pertinent to do so. 
