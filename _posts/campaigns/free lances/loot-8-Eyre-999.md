@@ -42,7 +42,7 @@ With recommendation from Staff Sergeant Baleb Byons and Sergeant Lillia Xendros,
 
 ### Procurement Manifest
 
-Finally, the following items were obtained and sent in tandem with this manifest. Due to the nature of Dr. Xendros' tenure with the University of Wynarn, the Regent Corps found it apt to provide samples of daelkyr remains for study. 
+Finally, the following items were obtained and sent in tandem with this manifest. Due to the nature of Dr. Xendros' tenure with the University of Wynarn, the Regent Corps found it apt to provide samples of daelkyr remains for study. Divvy this up as your group sees pertinent to do so. 
 
 | Item                  | Qty | Price             | Notes                                  |
 |:----------------------|:---:|:----------------: |:---------------------------------------|
