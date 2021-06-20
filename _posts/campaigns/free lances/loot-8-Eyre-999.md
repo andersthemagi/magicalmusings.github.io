@@ -12,7 +12,7 @@
 
 **SUBJECT:** After-Action Manifest of Otharaunt Skirmish
 
-The purpose of this memorandum is to document necessary reward and payment for mercenary work on 8 Eyre 999 YK. Led by Sgt Lillia Xendros of the Knights Corps, a group of mercenaries from the Free Lances Adventuring Guild of Fairhaven wiped out a daelkyr outpost and secured an artillery encampment previously lost by the Knights Arcane. Seven members of the Squire Corps were sent for reconnaissance, and were killed in action as a result. 
+The purpose of this memorandum is to document necessary reward and payment for mercenary work on 8 Eyre 999 YK. Led by Sgt Lillia Xendros of the Knights Corps, a group of mercenaries from the Free Lances Adventuring Guild of Fairhaven wiped out a daelkyr outpost and secured an artillery encampment previously lost by the Knights Arcane. Seven members of the Squire Corps were sent for reconnaissance, and were killed in action as a result. This skirmish reflects greatly on the determination and valor of the mercenaries employed, as well as their loyalty and pride to the banner of Audair. 
 
 ## Rewards
 
