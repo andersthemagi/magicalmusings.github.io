@@ -18,9 +18,9 @@ The purpose of this memorandum is to document necessary reward and payment for m
 
 Per the Code of Galifar's provision on mercenary corps, the Knights Arcane has agreed to pay the standard cost of 1 day of work based on location, difficulty of task, and importance of task (as identified and stratified by the Regent Corps). These payments are divided and made to the name of the following persons involved.
 * Lady Ana d'Medani Lorg'astras
-* Diva 
-* Noggenfogger Rackateer
-* Seym Vanatar
+* Mr. Noggenfogger Rackateer
+* Ms. Diva 'Thiccums'
+* Mr. Seym Vanatar
 * Dr. Kallista Xendros
 
 
