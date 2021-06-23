@@ -1,4 +1,8 @@
-
+---
+title: "Test"
+layout: "post"
+categories: "Crafting"
+---
 # Crafting with Tools and Supplies
 
 ## Alchemist's Supplies 
