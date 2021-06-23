@@ -5,6 +5,16 @@ permalink: /mechanics/crafting/brewers-supplies/
 categories: Crafting
 ---
 
+<div class="toc">
+
+### Table of Contents
+{:.no_toc}
+
+* TOC
+{:toc}
+
+</div>
+
 Pulled from ['Brewer Supplies - v1.1' by DumpStatAdventures](https://www.gmbinder.com/share/-LbudMyCoMbx7gMM_Te6)
 
 Beer has been around for almost as long as bread has, and one could argue that it has a greater effect on society, at least in the evening. This favorite drink is created by steeping cereal grains in water and letting that ferment into a sweet flavored beverage with yeast. The yeast, grains, and adjuncts help define the drink and its complicated flavoring, and it also allows you to add in alchemical and magical ingredients to help give your drinks a better punch.
