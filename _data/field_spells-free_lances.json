@@ -1,0 +1,14 @@
+{
+    "unlocked": {
+        "Astral Sigil: Hounds of War" : {
+            "equipped" : false,
+            "restrictions" : "None",
+            "desc":""
+        },
+        "Astral Sigil: Wandering Sorcerer" : {
+            "equipped" : true,
+            "restrictions" : "None",
+            "desc":""
+        }
+    }
+}
