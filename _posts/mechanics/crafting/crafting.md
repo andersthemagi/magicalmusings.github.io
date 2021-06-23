@@ -1,7 +1,9 @@
 ---
-title: "Test"
-layout: "post"
-categories: "Crafting"
+title: Test
+layout: post
+permalink: /mechanics/crafting/test/
+categories: Crafting
+author: Andres Sepulveda
 ---
 # Crafting with Tools and Supplies
 
