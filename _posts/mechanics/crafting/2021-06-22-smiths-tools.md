@@ -132,7 +132,7 @@ Some shields are made out of metal, and others out of wood. Depending on what ma
 |Ring Mail [^C]|Complex|40 lb.|40|15|6|30 gp|No|
 |Chain Mail [^C]|Complex|55 lb.|55|15|8|75 gp|No|
 |Splint [^C]|Moderate|60 lb.|30|14|5|200 gp|No|
-|Plate|Complex|65 lb.|15|10|1500 gp|No|
+|Plate|Complex|65 lb.|65|15|10|1500 gp|No|
 |Shield [^C]|Simple|6 lb.|2|13|1|10 gp|Yes|
 
 [^C]: Marked items can be crafted without the use of a proper forge.
