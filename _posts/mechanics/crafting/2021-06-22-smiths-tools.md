@@ -67,6 +67,24 @@ If you are working towards Masterwork and fail any of your craft checks, it beco
 
 The craft checks are assumed to happen at the end of the seven days or the end of the day when you finish crafting your equipment. If you fail the roll, you can not use those days you spent crafting an item to craft something else.
 
+### Special Properties
+
+#### Arrows / Bolts / Darts
+
+You can craft a number of arrowheads and bolts in a single day equal to your Strength score.
+
+#### Pike
+
+A pike has a long wooden shaft, and may be harder to find than a normal wooden shaft. The metal spike of the pike will only take you 2 days to craft.
+
+#### Studded Leather
+
+You must have leather armor on hand before adding studs.
+
+#### Shield
+
+Some shields are made out of metal, and others out of wood. Depending on what material you are using, you won't be able to craft a shield with your Smith's Tools. Per DM discretion.
+
 ## Items You Can Craft
 ### Simple Weapons
 
@@ -118,21 +136,3 @@ The craft checks are assumed to happen at the end of the seven days or the end o
 |Shield [^C]|Simple|6 lb.|2|13|1|10 gp|Yes|
 
 [^C]: Marked items can be crafted without the use of a proper forge.
-
-### Special Properties
-
-#### Arrows / Bolts / Darts
-
-You can craft a number of arrowheads and bolts in a single day equal to your Strength score.
-
-#### Pike
-
-A pike has a long wooden shaft, and may be harder to find than a normal wooden shaft. The metal spike of the pike will only take you 2 days to craft.
-
-#### Studded Leather
-
-You must have leather armor on hand before adding studs.
-
-#### Shield
-
-Some shields are made out of metal, and others out of wood. Depending on what material you are using, you won't be able to craft a shield with your Smith's Tools. Per DM discretion.
