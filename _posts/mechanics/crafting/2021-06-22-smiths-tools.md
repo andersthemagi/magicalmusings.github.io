@@ -27,7 +27,7 @@ Proficiency with this tool lets you add your proficiency bonus to any Strength c
 
 ## The Forge
 
-While you are more at home working in a forge, sometimes you can make do with just a campfire. If an item is able to be crafted at a campfire, then it will have a small **[C]** next to its name.
+While you are more at home working in a forge, sometimes you can make do with just a campfire. If an item is able to be crafted at a campfire, then it will have a small number (like 1) next to its name.
 
 ### Traveling Forge
 
