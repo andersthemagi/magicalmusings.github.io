@@ -69,6 +69,7 @@ The craft checks are assumed to happen at the end of the seven days or the end o
 
 ## Items You Can Craft
 ### Simple Weapons
+
 |Equipment|Complexity|Weight|Days to Craft|DC|# of Checks|Cost|Special Properties|
 |:--------|:--------:|:----:|:-----------:|:-:|:---------:|:--:|:----------------:|
 |Dagger [C]|Simple|1 lb.|1|13|1|2 gp|No|
@@ -81,6 +82,7 @@ The craft checks are assumed to happen at the end of the seven days or the end o
 |Darts [C]|Simple|1/4 lb.|1|13|1|4 cp|Yes|
 
 ### Martial Weapons
+
 |Equipment|Complexity|Weight|Days to Craft|DC|# of Checks|Cost|Special Properties|
 |:--------|:--------:|:----:|:-----------:|:-:|:---------:|:--:|:----------------:|
 |Battleaxe|Moderate|4 lb.|2|14|1|10 gp|No|
@@ -101,6 +103,7 @@ The craft checks are assumed to happen at the end of the seven days or the end o
 |Warhammer [C]|Moderate|2 lb.|1|14|1|15 gp|No|
 
 ### Armor
+
 |Equipment|Complexity|Weight|Days to Craft|DC|# of Checks|Cost|Special Properties|
 |:--------|:--------:|:----:|:-----------:|:-:|:---------:|:--:|:----------------:|
 |Studded Leather [C]|Simple|3 lb.|1|13|1|35 gp|Yes|
