@@ -72,50 +72,52 @@ The craft checks are assumed to happen at the end of the seven days or the end o
 
 |Equipment|Complexity|Weight|Days to Craft|DC|# of Checks|Cost|Special Properties|
 |:--------|:--------:|:----:|:-----------:|:-:|:---------:|:--:|:----------------:|
-|Dagger [C]|Simple|1 lb.|1|13|1|2 gp|No|
-|Handaxe [C]|Simple|2 lb.|1|13|1|5 gp|No|
-|Light Hammer [C]|Simple|2 lb.|1|13|1|2 gp|No|
+|Dagger [^C]|Simple|1 lb.|1|13|1|2 gp|No|
+|Handaxe [^C]|Simple|2 lb.|1|13|1|5 gp|No|
+|Light Hammer [^C]|Simple|2 lb.|1|13|1|2 gp|No|
 |Mace|Simple|4 lb.|1|13|1|5 gp|No|
-|Sickle [C]|Moderate|2 lb|1|14|1|1 gp|No|
-|Spear [C]|Simple|3 lb|1|13|1|1 gp|No|
-|Arrows [C]|Simple|-|1|13|1|1 gp|Yes|
-|Darts [C]|Simple|1/4 lb.|1|13|1|4 cp|Yes|
+|Sickle [^C]|Moderate|2 lb|1|14|1|1 gp|No|
+|Spear [^C]|Simple|3 lb|1|13|1|1 gp|No|
+|Arrows [^C]|Simple|-|1|13|1|1 gp|Yes|
+|Darts [^C]|Simple|1/4 lb.|1|13|1|4 cp|Yes|
 
 ### Martial Weapons
 
 |Equipment|Complexity|Weight|Days to Craft|DC|# of Checks|Cost|Special Properties|
 |:--------|:--------:|:----:|:-----------:|:-:|:---------:|:--:|:----------------:|
 |Battleaxe|Moderate|4 lb.|2|14|1|10 gp|No|
-|Flail [C]|Complex|2 lb.|2|15|1|10 gp|No|
+|Flail [^C]|Complex|2 lb.|2|15|1|10 gp|No|
 |Glaive|Moderate|6 lb.|3|14|1|20 gp|No|
 |Greataxe|Moderate|7 lb.|4|14|1|30 gp|No|
 |Greatsword|Moderate|6 lb.|3|14|1|50 gp|No|
 |Halberd|Moderate|6 lb.|3|14|1|20 gp|No|
-|Longsword [C]|Moderate|3 lb.|2|14|1|15 gp|No|
+|Longsword [^C]|Moderate|3 lb.|2|14|1|15 gp|No|
 |Maul|Moderate|10 lb.|5|14|1|10 gp|No|
 |Morningstar|Moderate|4 lb.|2|14|1|15 gp|No|
-|Pike [C]|Moderate|18 lb.|2|14|1|5 gp|Yes|
-|Rapier [C]|Moderate|2 lb.|1|14|1|25 gp|No|
-|Scimitar [C]|Moderate|3 lb.|2|14|1|25 gp|No|
-|Shortsword [C]|Moderate|2 lb.|1|14|1|10 gp|No|
+|Pike [^C]|Moderate|18 lb.|2|14|1|5 gp|Yes|
+|Rapier [^C]|Moderate|2 lb.|1|14|1|25 gp|No|
+|Scimitar [^C]|Moderate|3 lb.|2|14|1|25 gp|No|
+|Shortsword [^C]|Moderate|2 lb.|1|14|1|10 gp|No|
 |Trident|Moderate|4 lb.|2|14|1|5 gp|No|
-|War Pick [C]|Moderate|2 lb.|1|14|1|5 gp|No|
-|Warhammer [C]|Moderate|2 lb.|1|14|1|15 gp|No|
+|War Pick [^C]|Moderate|2 lb.|1|14|1|5 gp|No|
+|Warhammer [^C]|Moderate|2 lb.|1|14|1|15 gp|No|
 
 ### Armor
 
 |Equipment|Complexity|Weight|Days to Craft|DC|# of Checks|Cost|Special Properties|
 |:--------|:--------:|:----:|:-----------:|:-:|:---------:|:--:|:----------------:|
-|Studded Leather [C]|Simple|3 lb.|1|13|1|35 gp|Yes|
-|Chain Shirt [C]|Complex|20 lb.|20|15|3|50 gp|No|
-|Scale Mail [C]|Moderate|45 lb.|23|14|4|50 gp|No|
+|Studded Leather [^C]|Simple|3 lb.|1|13|1|35 gp|Yes|
+|Chain Shirt [^C]|Complex|20 lb.|20|15|3|50 gp|No|
+|Scale Mail [^C]|Moderate|45 lb.|23|14|4|50 gp|No|
 |Breastplate|Simple|20 lb.|5|13|1|400 gp|No|
 |Half Plate|Complex|40 lb.|40|15|6|750gp|No|
-|Ring Mail [C]|Complex|40 lb.|40|15|6|30 gp|No|
-|Chain Mail [C]|Complex|55 lb.|55|15|8|75 gp|No|
-|Splint [C]|Moderate|60 lb.|30|14|5|200 gp|No|
+|Ring Mail [^C]|Complex|40 lb.|40|15|6|30 gp|No|
+|Chain Mail [^C]|Complex|55 lb.|55|15|8|75 gp|No|
+|Splint [^C]|Moderate|60 lb.|30|14|5|200 gp|No|
 |Plate|Complex|65 lb.|15|10|1500 gp|No|
-|Shield [C]|Simple|6 lb.|2|13|1|10 gp|Yes|
+|Shield [^C]|Simple|6 lb.|2|13|1|10 gp|Yes|
+
+[^C]: Marked items can be crafted without the use of a proper forge.
 
 ### Special Properties
 
