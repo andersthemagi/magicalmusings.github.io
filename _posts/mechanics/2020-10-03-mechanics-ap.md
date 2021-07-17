@@ -17,7 +17,7 @@ Typically in Dungeons and Dragons, a DM will award Inspiration to a player based
 
 ## Ways to Spend AP
 
-AP can be expended at any point before the DM resolves the outcome of the roll. Whenever AP is spent, it is flipped to the opposite pool after the roll has been resolved. For example, when a player bolsters their roll using 2 AP, the DM gains 2 AP to use on the following roll. 
+AP can be expended at any point before the DM resolves the outcome of the roll. Whenever AP is spent, it is first removed from the pool of origin, then added or 'flipped' to the opposite pool after the roll has been resolved. For example, when a player bolsters their roll using 2 AP, the DM gains 2 AP to use on any roll *after*. 
 
 - Players and the DM can choose to expend one (1) or more AP to add 1d6 to an attack roll, damage roll, saving throw, or skill check. 
   - A creature cannot spend more AP than their proficiency bonus on a single roll. 
