@@ -12,29 +12,21 @@ Typically in Dungeons and Dragons, a DM will award Inspiration to a player based
 
 ## Ways to Earn AP
 
-- Players start with five (5) AP to use.
-- Players can store up to 5 + 1/2 character level (rounded down) AP at any time
-- Upon leveling up, a player's AP are replenished, and their AP limit is adjusted to their character level.
-- Outside of combat, Five (5) Loremaster Tokens (LT) can be converted into one (1) AP or vice versa.
-- AP can be awarded at any point during a session at the DM's discretion. Some examples of actions that earn AP are below:
-  - Good Roleplaying of Characters
-  - Creativity
-  - Character Growth / Loss
-  - Heroism in Combat
-  - Following a Diety / Order / Oath's tenets religiously
+- Each session, the table starts with twice the number of players in AP. AP is then divided into a Player pool and DM pool. **AP resets at the start of the next session, *so don't be afraid to spend it!***
+- Outside of combat, Five (5) Loremaster Tokens (LT) can be converted into one (1) AP. This point is in circulation until the end of the current session.
 
 ## Ways to Spend AP
 
-- Players can choose to expend one (1) AP to add 1d6 to one of their own rolls below. AP can be expended before or after the roll has been completed.
-  - Attack Rolls
-  - Damage Rolls
-  - Saving Throws
-  - Skill Checks
-- Players can choose to expend (1) AP in order to reverse the effect of a failed death saving throw. This reversal is considered a successful death saving throw. Natural 1s are still considered a critical failure. 
-- Players can choose to expend (2) AP in order to subtract 1d6 from an enemy for the rolls below. Non-damage rolls cannot be reduced beyond a 1. 
-  - Attack Rolls
-  - Damage Rolls
-	- Any negative damage on a creature is converted to temporary HP.
-  - Saving Throws
-  - Skill Checks
-- Players can give other players AP. No more than two (2) AP can be transferred from player to player per turn during combat. A player cannot transfer more AP than they have, nor can a player accept more AP than their limit allows. 
+AP can be expended at any point before the DM resolves the outcome of the roll. Whenever AP is spent, it is flipped to the opposite pool after the roll has been resolved. For example, when a player bolsters their roll using 2 AP, the DM gains 2 AP to use on the following roll. 
+
+- Players and the DM can choose to expend one (1) or more AP to add 1d6 to an attack roll, damage roll, saving throw, or skill check. 
+  - A creature cannot spend more AP than their proficiency bonus on a single roll. 
+  - Critical hits can occur if ***the raw roll + the AP bonus*** is greater than or equal to 20. 
+  - **ANTI-ADVERSARY CLAUSE:** Both sides of a roll will be given one opportunity (or response) to spend AP. 
+    - For example, if a player decides to spend an AP on an attack roll they are making, the DM can choose to spend an AP in response for either the player's attack roll or the following damage roll, if successful. Afterwards, the player cannot use another AP in response to add onto the resulting damage roll.
+    - The purpose of this clause is to prevent adversarial conflict between player and DM, such that either side decides to tack on AP to 'cancel' out effects in response chains. AP is meant to narratively and mechanically bolster the player and create an environment where luck, destiny, or whatever power you determine guides creatures prevails. 
+- Players can choose to expend one (1) or more AP in place of an ephemeral toll (ET) requirement for an ability.
+- Players can choose to expend one (1) AP in order to reverse the effect of a failed death saving throw. This reversal is considered a successful death saving throw. 
+- Players and the DM can choose to expend (2) AP in order to subtract 1d6 from an attack roll, damage roll, saving throw, or skill check. 
+  - Non-damage rolls cannot be reduced beyond a 1. 
+  - Damage rolls cannot be reduced beyond 0 hit points. 
