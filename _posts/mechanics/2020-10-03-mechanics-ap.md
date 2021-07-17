@@ -27,6 +27,6 @@ AP can be expended at any point before the DM resolves the outcome of the roll. 
     - The purpose of this clause is to prevent adversarial conflict between player and DM, such that either side decides to tack on AP to 'cancel' out effects in response chains. AP is meant to narratively and mechanically bolster the player and create an environment where luck, destiny, or whatever power you determine guides creatures prevails. 
 - Players can choose to expend one (1) or more AP in place of an ephemeral toll (ET) requirement for an ability.
 - Players can choose to expend one (1) AP in order to reverse the effect of a failed death saving throw. This reversal is considered a successful death saving throw. 
-- Players and the DM can choose to expend (2) AP in order to subtract 1d6 from an attack roll, damage roll, saving throw, or skill check. 
+- Players and the DM can choose to expend two (2) or more (in multiples of two) AP in order to subtract 1d6 from an attack roll, damage roll, saving throw, or skill check. 
   - Non-damage rolls cannot be reduced beyond a 1. 
   - Damage rolls cannot be reduced beyond 0 hit points. 
