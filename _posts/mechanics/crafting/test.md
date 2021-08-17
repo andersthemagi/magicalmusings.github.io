@@ -39,16 +39,4 @@ TBD
 
 TBD
 
-## Smith's Tools
-
-TBD
-
-## Tinker's Tools
-
-TBD
-
-## Weaver's Tools
-
-TBD
-
 
